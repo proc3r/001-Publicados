@@ -1,0 +1,2424 @@
+{
+  "callouts": {
+    "custom": [
+      "procer",
+      "gemini",
+      "consulta",
+      "respuesta",
+      "saklas",
+      "cristos",
+      "samael",
+      "uno",
+      "n-muon",
+      "an-muon",
+      "n-electron",
+      "an-electron",
+      "n-tau",
+      "an-tau",
+      "electron",
+      "muon",
+      "tau",
+      "moon",
+      "sun",
+      "tierra",
+      "civilizacion",
+      "universo",
+      "avatar",
+      "atomo",
+      "onemuon",
+      "ontogenico",
+      "galactico",
+      "av-estelar",
+      "pareonico",
+      "persona",
+      "hegemon",
+      "instituciones",
+      "mercados",
+      "bonos",
+      "normas",
+      "ontologico",
+      "avatarico",
+      "dialectico",
+      "cerebro",
+      "hardware",
+      "levogiro",
+      "dextrogiro",
+      "estelar",
+      "carga",
+      "solido",
+      "liquido",
+      "gaseoso",
+      "fuego",
+      "energia",
+      "masa",
+      "espin",
+      "leon",
+      "aguila",
+      "toro",
+      "humano",
+      "monadico",
+      "noumeno",
+      "demiurgo",
+      "creador",
+      "flujoalfa",
+      "flujoomega",
+      "avance",
+      "retroceso",
+      "dextrogiro-",
+      "levogiro-",
+      "tiempo",
+      "cinco",
+      "femenino",
+      "ginebra",
+      "mexico",
+      "nairobi",
+      "jew",
+      "centro",
+      "estado",
+      "ascenso",
+      "kai",
+      "umbra",
+      "ascension",
+      "derrota",
+      "victoria",
+      "aoii",
+      "aoiii",
+      "cuerpo",
+      "mente",
+      "espiritu",
+      "leviatan",
+      "omegaii",
+      "base",
+      "lider",
+      "interno",
+      "externo",
+      "billete",
+      "bancos",
+      "finanzas",
+      "creditos",
+      "limosna",
+      "guerra",
+      "millonarios",
+      "crimen",
+      "manipulacion",
+      "ilegalidad",
+      "especulacion",
+      "coercion"
+    ],
+    "settings": {
+      "procer": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-up-left-from-circle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "222, 215, 18"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "196, 180, 14"
+          }
+        }
+      ],
+      "gemini": [
+        {
+          "changes": {
+            "icon": "bot-glyph"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "144, 31, 219"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "144, 30, 220"
+          }
+        }
+      ],
+      "consulta": [
+        {
+          "changes": {
+            "icon": "lucide-file-text"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "158, 147, 21"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "158, 147, 21"
+          }
+        }
+      ],
+      "respuesta": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-down-right-from-circle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "232, 135, 229"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "232, 135, 229"
+          }
+        }
+      ],
+      "saklas": [
+        {
+          "changes": {
+            "icon": "lucide-circle-dashed"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "251, 40, 40"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "251, 40, 40"
+          }
+        }
+      ],
+      "cristos": [
+        {
+          "changes": {
+            "icon": "lucide-square-arrow-out-up-left"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "8, 212, 59"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "8, 212, 59"
+          }
+        }
+      ],
+      "samael": [
+        {
+          "changes": {
+            "icon": "lucide-pyramid"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "34, 98, 247"
+          }
+        }
+      ],
+      "n-muon": [
+        {
+          "changes": {
+            "icon": "lucide-magnet"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "16, 96, 224"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "16, 96, 224"
+          }
+        }
+      ],
+      "an-muon": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-down-to-line"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "194, 196, 28"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "194, 196, 28"
+          }
+        }
+      ],
+      "n-electron": [
+        {
+          "changes": {
+            "icon": "lucide-battery-charging"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "225, 57, 45"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "223, 45, 32"
+          }
+        }
+      ],
+      "an-electron": [
+        {
+          "changes": {
+            "icon": "lucide-asterisk"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 238, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 238, 255"
+          }
+        }
+      ],
+      "n-tau": [
+        {
+          "changes": {
+            "icon": "lucide-move-3d"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "31, 211, 18"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "31, 211, 18"
+          }
+        }
+      ],
+      "an-tau": [
+        {
+          "changes": {
+            "icon": "lucide-atom"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "251, 0, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "251, 0, 255"
+          }
+        }
+      ],
+      "electron": [
+        {
+          "changes": {
+            "icon": "lucide-activity"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "31, 218, 7"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "31, 218, 7"
+          }
+        }
+      ],
+      "muon": [
+        {
+          "changes": {
+            "icon": "lucide-aperture"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 110, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 110, 255"
+          }
+        }
+      ],
+      "tau": [
+        {
+          "changes": {
+            "icon": "lucide-biohazard"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "247, 32, 8"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "247, 32, 8"
+          }
+        }
+      ],
+      "moon": [
+        {
+          "changes": {
+            "icon": "lucide-moon"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        }
+      ],
+      "sun": [
+        {
+          "changes": {
+            "icon": "lucide-sun"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "202, 7, 7"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "202, 7, 7"
+          }
+        }
+      ],
+      "tierra": [
+        {
+          "changes": {
+            "icon": "lucide-earth"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "8, 221, 122"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "19, 201, 64"
+          }
+        }
+      ],
+      "civilizacion": [
+        {
+          "changes": {
+            "icon": "lucide-alert-triangle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 149, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 149, 0"
+          }
+        }
+      ],
+      "universo": [
+        {
+          "changes": {
+            "icon": "lucide-waves"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "243, 57, 209"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "242, 120, 219"
+          }
+        }
+      ],
+      "avatar": [
+        {
+          "changes": {
+            "icon": "lucide-sun-snow"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 87, 249"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 87, 249"
+          }
+        }
+      ],
+      "atomo": [
+        {
+          "changes": {
+            "icon": "lucide-atom"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "218, 22, 22"
+          }
+        }
+      ],
+      "onemuon": [
+        {
+          "changes": {
+            "icon": "lucide-at-sign"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "37, 99, 244"
+          }
+        }
+      ],
+      "ontogenico": [
+        {
+          "changes": {
+            "icon": "lucide-ship-wheel"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 162, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 162, 0"
+          }
+        }
+      ],
+      "galactico": [
+        {
+          "changes": {
+            "icon": "lucide-target"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        }
+      ],
+      "av-estelar": [
+        {
+          "changes": {
+            "icon": "smart-connections"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "229, 222, 16"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        }
+      ],
+      "pareonico": [
+        {
+          "changes": {
+            "icon": "lucide-scale"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 149, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 149, 0"
+          }
+        }
+      ],
+      "persona": [
+        {
+          "changes": {
+            "icon": "lucide-users"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "253, 23, 23"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "253, 23, 23"
+          }
+        }
+      ],
+      "hegemon": [
+        {
+          "changes": {
+            "icon": "lucide-sigma"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "4, 255, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "4, 255, 0"
+          }
+        }
+      ],
+      "instituciones": [
+        {
+          "changes": {
+            "icon": "lucide-landmark"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "mercados": [
+        {
+          "changes": {
+            "icon": "lucide-badge-dollar-sign"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 255, 89"
+          }
+        }
+      ],
+      "bonos": [
+        {
+          "changes": {
+            "icon": "lucide-trending-up"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 110, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 110, 255"
+          }
+        }
+      ],
+      "normas": [
+        {
+          "changes": {
+            "icon": "lucide-receipt-text"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "194, 188, 15"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "194, 188, 15"
+          }
+        }
+      ],
+      "ontologico": [
+        {
+          "changes": {
+            "icon": "lucide-asterisk"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "234, 45, 31"
+          }
+        }
+      ],
+      "avatarico": [
+        {
+          "changes": {
+            "icon": "lucide-recycle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        }
+      ],
+      "dialectico": [
+        {
+          "changes": {
+            "icon": "lucide-variable"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 255, 42"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 255, 42"
+          }
+        }
+      ],
+      "cerebro": [
+        {
+          "changes": {
+            "icon": "lucide-brain-cog"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        }
+      ],
+      "hardware": [
+        {
+          "changes": {
+            "icon": "lucide-target"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "242, 24, 24"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "242, 24, 24"
+          }
+        }
+      ],
+      "levogiro": [
+        {
+          "changes": {
+            "icon": "lucide-refresh-ccw-dot"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        }
+      ],
+      "dextrogiro": [
+        {
+          "changes": {
+            "icon": "lucide-refresh-cw"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "225, 20, 20"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "225, 20, 20"
+          }
+        }
+      ],
+      "estelar": [
+        {
+          "changes": {
+            "icon": "lucide-star"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "15, 86, 230"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "15, 86, 230"
+          }
+        }
+      ],
+      "carga": [
+        {
+          "changes": {
+            "icon": "lucide-smartphone-charging",
+            "color": "16, 102, 213"
+          }
+        }
+      ],
+      "solido": [
+        {
+          "changes": {
+            "icon": "lucide-grip"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "20, 225, 54"
+          }
+        }
+      ],
+      "liquido": [
+        {
+          "changes": {
+            "icon": "lucide-waypoints"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 110, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 110, 255"
+          }
+        }
+      ],
+      "gaseoso": [
+        {
+          "changes": {
+            "icon": "lucide-chart-scatter"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "232, 204, 23"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 247, 5"
+          }
+        }
+      ],
+      "fuego": [
+        {
+          "changes": {
+            "icon": "lucide-shell"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "229, 21, 21"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "229, 21, 21"
+          }
+        }
+      ],
+      "energia": [
+        {
+          "changes": {
+            "icon": "lucide-sigma-square"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "20, 93, 240"
+          }
+        }
+      ],
+      "masa": [
+        {
+          "changes": {
+            "icon": "lucide-radius"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "225, 25, 25"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "225, 25, 25"
+          }
+        }
+      ],
+      "espin": [
+        {
+          "changes": {
+            "icon": "lucide-loader-pinwheel"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "11, 234, 26"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "11, 234, 26"
+          }
+        }
+      ],
+      "question": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "209, 0, 0"
+          }
+        }
+      ],
+      "leon": [
+        {
+          "changes": {
+            "icon": "lucide-crown"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        }
+      ],
+      "aguila": [
+        {
+          "changes": {
+            "icon": "lucide-twitter"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "15, 240, 53"
+          }
+        }
+      ],
+      "toro": [
+        {
+          "changes": {
+            "icon": "lucide-drum"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "236, 14, 14"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "236, 14, 14"
+          }
+        }
+      ],
+      "humano": [
+        {
+          "changes": {
+            "icon": "lucide-person-standing"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        }
+      ],
+      "monadico": [
+        {
+          "changes": {
+            "icon": "lucide-scan-eye"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        }
+      ],
+      "noumeno": [
+        {
+          "changes": {
+            "icon": "lucide-infinity"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "2, 122, 255"
+          }
+        }
+      ],
+      "demiurgo": [
+        {
+          "changes": {
+            "icon": "lucide-codesandbox"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "135, 60, 211"
+          }
+        }
+      ],
+      "creador": [
+        {
+          "changes": {
+            "icon": "lucide-copyright"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "232, 17, 17"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "232, 17, 17"
+          }
+        }
+      ],
+      "flujoalfa": [
+        {
+          "changes": {
+            "icon": "lucide-at-sign"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        }
+      ],
+      "flujoomega": [
+        {
+          "changes": {
+            "icon": "lucide-omega"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "233, 28, 28"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "233, 28, 28"
+          }
+        }
+      ],
+      "avance": [
+        {
+          "changes": {
+            "icon": "lucide-fast-forward"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "16, 81, 234"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "16, 81, 234"
+          }
+        }
+      ],
+      "retroceso": [
+        {
+          "changes": {
+            "icon": "lucide-skip-back"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "224, 16, 16"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "224, 16, 16"
+          }
+        }
+      ],
+      "dextrogiro-": [
+        {
+          "changes": {
+            "icon": "lucide-rotate-ccw"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "18, 104, 243"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "18, 104, 243"
+          }
+        }
+      ],
+      "levogiro-": [
+        {
+          "changes": {
+            "icon": "lucide-rotate-cw"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "232, 17, 17"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "232, 17, 17"
+          }
+        }
+      ],
+      "tiempo": [
+        {
+          "changes": {
+            "icon": "lucide-rotate-3d"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "27, 228, 30"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "27, 228, 30"
+          }
+        }
+      ],
+      "cinco": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-down-narrow-wide"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "femenino": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        }
+      ],
+      "ginebra": [
+        {
+          "changes": {
+            "icon": "lucide-scan-eye"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        }
+      ],
+      "mexico": [
+        {
+          "changes": {
+            "icon": "lucide-recycle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "5, 245, 53"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "5, 245, 53"
+          }
+        }
+      ],
+      "nairobi": [
+        {
+          "changes": {
+            "icon": "lucide-person-standing"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "237, 7, 7"
+          }
+        }
+      ],
+      "jew": [
+        {
+          "changes": {
+            "icon": "lucide-book-type"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 85, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 85, 255"
+          }
+        }
+      ],
+      "centro": [
+        {
+          "changes": {
+            "icon": "lucide-trending-up-down"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 149, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 149, 0"
+          }
+        }
+      ],
+      "estado": [
+        {
+          "changes": {
+            "icon": "lucide-landmark"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "153, 0, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "153, 0, 255"
+          }
+        }
+      ],
+      "ascenso": [
+        {
+          "changes": {
+            "icon": "lucide-layout-grid"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "kai": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "140, 0, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "140, 0, 255"
+          }
+        }
+      ],
+      "umbra": [
+        {
+          "changes": {
+            "icon": "lucide-heart-pulse"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "252, 158, 255"
+          }
+        }
+      ],
+      "ascension": [
+        {
+          "changes": {
+            "icon": "lucide-git-merge"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 255, 4"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 255, 4"
+          }
+        }
+      ],
+      "derrota": [
+        {
+          "changes": {
+            "icon": "lucide-scissors-square"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "victoria": [
+        {
+          "changes": {
+            "icon": "lucide-alert-triangle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 98, 255"
+          }
+        }
+      ],
+      "aoii": [
+        {
+          "changes": {
+            "icon": "lucide-chart-spline"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 64, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 64, 255"
+          }
+        }
+      ],
+      "aoiii": [
+        {
+          "changes": {
+            "icon": "lucide-move-3d"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "248, 13, 13"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "248, 13, 13"
+          }
+        }
+      ],
+      "cuerpo": [
+        {
+          "changes": {
+            "icon": "lucide-atom"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "163, 163, 163"
+          }
+        }
+      ],
+      "mente": [
+        {
+          "changes": {
+            "icon": "lucide-brain-cog"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "231, 29, 29"
+          }
+        }
+      ],
+      "espiritu": [
+        {
+          "changes": {
+            "icon": "lucide-drafting-compass"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 162, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 162, 0"
+          }
+        }
+      ],
+      "leviatan": [
+        {
+          "changes": {
+            "icon": "lucide-crown"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        }
+      ],
+      "omegaii": [
+        {
+          "changes": {
+            "icon": "smart-connections"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "230, 45, 45"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "230, 45, 45"
+          }
+        }
+      ],
+      "base": [
+        {
+          "changes": {
+            "icon": "lucide-alert-triangle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "45, 101, 230"
+          }
+        }
+      ],
+      "lider": [
+        {
+          "changes": {
+            "icon": "lucide-crown"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "21, 244, 36"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "21, 244, 36"
+          }
+        }
+      ],
+      "interno": [
+        {
+          "changes": {
+            "icon": "lucide-sliders"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 187, 0"
+          }
+        }
+      ],
+      "externo": [
+        {
+          "changes": {
+            "icon": "lucide-flag"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "166, 0, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "166, 0, 255"
+          }
+        }
+      ],
+      "billete": [
+        {
+          "changes": {
+            "icon": "lucide-dollar-sign"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "245, 15, 15"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "245, 15, 15"
+          }
+        }
+      ],
+      "bancos": [
+        {
+          "changes": {
+            "icon": "lucide-piggy-bank"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 162, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 162, 0"
+          }
+        }
+      ],
+      "finanzas": [
+        {
+          "changes": {
+            "icon": "lucide-loader-pinwheel"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 247, 0"
+          }
+        }
+      ],
+      "creditos": [
+        {
+          "changes": {
+            "icon": "lucide-biceps-flexed"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "4, 255, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "4, 255, 0"
+          }
+        }
+      ],
+      "limosna": [
+        {
+          "changes": {
+            "icon": "lucide-bug"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "151, 37, 212"
+          }
+        }
+      ],
+      "guerra": [
+        {
+          "changes": {
+            "icon": "lucide-rocket"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "244, 11, 11"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "244, 11, 11"
+          }
+        }
+      ],
+      "millonarios": [
+        {
+          "changes": {
+            "icon": "lucide-trophy"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "128, 48, 248"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "128, 48, 248"
+          }
+        }
+      ],
+      "crimen": [
+        {
+          "changes": {
+            "icon": "lucide-syringe"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "251, 9, 9"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "251, 9, 9"
+          }
+        }
+      ],
+      "manipulacion": [
+        {
+          "changes": {
+            "icon": "lucide-speech"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 255, 51"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 255, 51"
+          }
+        }
+      ],
+      "ilegalidad": [
+        {
+          "changes": {
+            "icon": "lucide-swords"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 85, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 85, 255"
+          }
+        }
+      ],
+      "especulacion": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 221, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 221, 0"
+          }
+        }
+      ],
+      "coercion": [
+        {
+          "changes": {
+            "icon": "lucide-skull"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "249, 6, 6"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "249, 6, 6"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
