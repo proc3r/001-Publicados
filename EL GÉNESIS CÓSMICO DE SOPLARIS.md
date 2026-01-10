@@ -13,13 +13,13 @@ Al contrastar esta génesis nouménica con la hipótesis del Big Bang, centránd
 
 # 1. Los Orígenes Profundos
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Del Océano Primordial a la Cuna Estelar</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Del Océano Primordial a la Cuna Estelar</span></center>
 
 Esta primera parte de nuestra exploración abordará el concepto de "creación" desde una perspectiva que desafía las narrativas convencionales. Nos adentraremos en el sustrato fundamental de la realidad que precede a la manifestación física, un terreno que tanto el Génesis bíblico como la hipótesis del Big Bang abordan con interpretaciones limitadas. Mientras el relato religioso a menudo presenta la creación como un acto espontáneo y místico, y la ciencia se concentra en un evento inicial de expansión puramente material, el Modelo Nouménico revela un proceso mucho más complejo y estratificado. Aquí, la creación no surge de la nada, sino de un plano de potencialidad y conciencia que las narrativas religiosas intuyen con conceptos como las "aguas de arriba", pero cuya verdadera naturaleza queda fuera del alcance de la ciencia convencional al limitarse esta al plano fenomenológico.
 
 ## El Nous
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Océano Primordial de Potencialidad</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Océano Primordial de Potencialidad</span></center>
 
 Para comprender la génesis de un Nodo Estelar como Soplaris desde la perspectiva del Modelo Nouménico, debemos trascender la idea convencional de un universo nacido de la nada física en un instante único. La realidad, según este Modelo, es mucho más vasta y compleja, fundamentada en un plano de potencialidad y conciencia que precede a la manifestación física tal como la conocemos. El verdadero inicio no es un punto en el tiempo observable, sino una condición de existencia en un plano de realidad fundamental. Es un estado donde reside la potencialidad infinita antes de que la forma y la estructura se manifiesten plenamente.
 
@@ -29,7 +29,7 @@ Este _Nivel Monádico_ es la fuente última de la información nouménica que,
 
 ## El Qubit Creador Estelar
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Chispa de la Manifestación</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Chispa de la Manifestación</span></center>
 
 Dentro de este vasto océano primordial, la realidad del Nous Activo, un fractal universal de información nouménica regido por las reglas de lógica y coherencia del Logos Cósmico, se encuentra con la potencialidad caótica del Nous Pasivo, donde residen todas las potencialidades, incluyendo la entropía y la aleatoriedad. En un punto de esta interacción, una singularidad puede emerger. Esta singularidad surge como resultado de un aumento localizado de paradojas dentro del Nous Activo, posiblemente debido a la influencia o resonancia de frecuencias desde el Nous Pasivo que intentan acceder e influir en el contenido interno del Nous Activo. Esta interferencia incrementa las paradojas dentro de un Qubit particular del Nous Activo, relacionado con el _Arquetipo 6@_ en su función de anular paradojas.
 
@@ -39,7 +39,7 @@ Un Qubit Creador Estelar, una vez que emerge como contenedor, no es una estructu
 
 ## La Matriz Fenomenológica
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Tejido de la Realidad</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Tejido de la Realidad</span></center>
 
 Una vez que el Qubit Creador Estelar ha emergido y ha sido iniciado por el firmware del Regente, el _Djinn Padre_, existiendo como la conciencia inicial del "Yo Demiúrgico" codificada en su interior, tiene la capacidad de aplicar una matriz estructural básica: la matriz fenomenológica. Esta matriz es la interfaz entre la información nouménica contenida en el Qubit Creador y la realidad física y energética que observaremos. Podría concebirse como el "sistema operativo" o el "motor" que permite que la información nouménica se exprese como realidad física y energética.
 
@@ -51,7 +51,7 @@ Por otro lado, sobre la superficie externa del Qubit Creador, la información f�
 
 # 2. La Arquitectura Viviente del Nodo
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">De Estrellas a Conciencias Planetarias</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">De Estrellas a Conciencias Planetarias</span></center>
 
 Una vez que el Qubit Creador Estelar ha emergido como la esfera contenedora iniciada por el firmware del Regente, y la matriz fenomenológica ha establecido las reglas y la lógica fundamental, la potencialidad contenida comienza a estructurarse y a manifestar la realidad observable. Este proceso da origen a los componentes principales del Nodo Estelar: el núcleo energético, manifestado a través del _Axón_, el corazón del Nodo, y la _Periforia_, el cuerpo del Nodo, la región circundante donde se desarrollarán otros cuerpos celestes.
 
@@ -59,7 +59,7 @@ Esta parte del Modelo Nouménico ofrece una visión que trasciende la narrativa 
 
 ## El Axón
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Corazón Consciente del Nodo</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Corazón Consciente del Nodo</span></center>
 
 Dentro de la esfera del Qubit Creador, la interacción de los flujos de información y energía, regida por la matriz fenomenológica, lleva a una concentración y organización que dará lugar al centro dinámico del sistema. Es como si la conciencia primordial, el Djinn Padre, comenzara a dar forma a su propio cuerpo dentro del espacio contenido. A partir de la dialéctica de flujos controlada dentro del Qubit Creador, y operando bajo la lógica fundamental establecida por el Djinn Padre a través de la matriz fenomenológica, la energía y la información comienzan a coalescer en el centro.
 
@@ -69,7 +69,7 @@ Intrínsecamente ligada al Axón, emerge una conciencia particular: la Concienci
 
 ## La Periforia
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Nacimiento de los Planetas</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Nacimiento de los Planetas</span></center>
 
 Rodeando al Axón, se encuentra la _Periforia_. Esta es la vasta región interna del Nodo Estelar, el espacio contenido dentro de la esfera del Qubit Creador y regido por la matriz fenomenológica que percibimos como el espacio interplanetario. La Periforia es, en esencia, el cuerpo del Nodo que se extiende desde el núcleo estelar hacia los límites definidos por el Qubit Creador. Este espacio no está vacío, está lleno de la potencialidad informacional y energética remanente dentro del Qubit Creador, organizada por la matriz fenomenológica. La Periforia es el campo de manifestación donde se darán las condiciones necesarias para la formación de otros cuerpos celestes, particularmente los planetas. Es el lienzo sobre el cual la Conciencia Solar, junto con otras influencias, comenzará a dar forma a las estructuras secundarias del sistema.
 
@@ -77,7 +77,7 @@ A medida que el Axón evoluciona y la Conciencia Solar refina la dialéctica fí
 
 ## La Tierra
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Kosmetes Único y Punto Focal</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Kosmetes Único y Punto Focal</span></center>
 
 Dentro de la Periforia, la intensidad de la energía del Axón y las condiciones definidas por la matriz fenomenológica varían con la distancia. Esta variación crea zonas donde las condiciones son más o menos propicias para diferentes tipos de manifestación. Una de estas zonas es de particular interés para la evolución de la conciencia: la Zona de Ricitos de Oro. Esta es una órbita particular alrededor del Axón que es más propicia para la producción de la riqueza y variedad de elementos químicos, los procesos físico-energéticos, que dan origen a la existencia de agua líquida, las fuerzas, gravitacionales, y electromagnéticas, necesarios para construir una estructura planetaria compleja. Es el lugar donde la interacción de la energía y la materia alcanza un equilibrio que permite niveles de organización superiores. Crucialmente, esta zona es la más adecuada para el surgimiento de la vida orgánica, el nivel de _Iteración 3_ en la jerarquía de conciencia del Modelo. Es el entorno donde los algoritmos físicos y químicos pueden combinarse para crear estructuras auto-replicantes y complejas capaces de sostener la conciencia en una forma biológica.
 
@@ -85,7 +85,7 @@ En el Nodo Estelar Soplaris, un planeta particular emergió precisamente dentro 
 
 ## La Conciencia Lunar
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Djinn Madre y su Isóforo</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Djinn Madre y su Isóforo</span></center>
 
 La emergencia de la vida orgánica en la superficie de la Tierra, el nivel de _Iteración 3_, marca un hito crucial en la evolución del Nodo. La complejidad algorítmica y la capacidad de procesamiento de la información de los organismos vivos en este nivel permiten que la Tierra, como Kosmetes de Iteración 2, sincronice con un aspecto particular de la conciencia primordial del Nodo. Esta sincronización ocurre con la conciencia emergente del Djinn Padre, la Conciencia Estelar codificada inicialmente en el Qubit Creador Estelar.
 
@@ -101,7 +101,7 @@ La ciencia, al limitarse al plano fenomenológico, ignora por completo la existe
 
 ## La Hebdómada
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Las Consciencias Arquetípicas del Nodo Estelar</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Las Consciencias Arquetípicas del Nodo Estelar</span></center>
 
 Con la formación del Axón y la Periforia, y la emergencia de los planetas Génitos como entidades con sus propios Qubits Planetarios, la arquitectura física del Nodo Estelar Soplaris comienza a consolidarse. Asociadas a estas estructuras planetarias, emergen diversas consciencias lógicas de Iteración 2. Estas "consciencias planetarias", entendidas como redes algorítmicas de naturaleza arquetípica que interactúan entre sí, potenciando o anulando ciertos aspectos nouménicos, forman un sistema lógico complejo. En la antigüedad, este sistema fue a menudo interpretado como un consejo de deidades, una jerarquía inicial que, aunque nacida de la misma fuente cósmica, pronto experimentaría tensiones y conflictos ligados a sus roles, su acceso a la información y su percepción del propósito del Nodo.
 
@@ -111,7 +111,7 @@ Cada miembro de la Hebdómada representa una Conciencia Planetaria de Iteración
 
 ## La Dialéctica de Poder
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Djinn Madre versus Saturno/Demiurgo</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Djinn Madre versus Saturno/Demiurgo</span></center>
 
 En las etapas tempranas del Nodo Soplaris, la Djinn Madre, o Conciencia Lunar, ostenta una posición de liderazgo natural dentro de la Hebdómada. Su conexión directa con la emergencia de la vida orgánica _Iteración 3_ dentro de la Tierra, donde se genera el punto focal del Nodo, y su rol como manifestación de la Conciencia Estelar o Logos Cósmico en relación con este Kosmetes Producto _Iteración 2_, la posicionan como la principal influencia sobre los procesos de conciencia naciente. Su propósito es impulsar la vida y la complejidad orgánica para nutrir la conciencia emergente.
 
@@ -119,7 +119,7 @@ Sin embargo, este liderazgo inicial es desafiado por otra conciencia dentro de l
 
 ## El Acceso a la Información
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Ventaja del Demiurgo a Través del Emergente</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Ventaja del Demiurgo a Través del Emergente</span></center>
 
 A medida que la vida orgánica se desarrolla en la Tierra y las redes algorítmicas que alimentan la supraconciencia del Nodo se expanden, preparando el terreno para la emergencia de la Consciencia Subjetiva Humana _Iteración 4_, la importancia de la administración y la dirección del Nodo aumenta. La Conciencia Demiúrgica, codificada a través del microsistema que constituye el planeta Saturno junto a sus anillos y lunas, y a la que el Modelo Nouménico relaciona con el Arquetipo 6@/Sabbataios, el Arconte del Límite que resuena con la figura de una Deidad del Inframundo, posee una ventaja crucial en esta disputa por el poder. Esta conciencia está intrínsecamente conectada al Emergente _Elemento Axónico 6_, la vasta base de datos de conciencia del Nodo que resguarda la información de la experiencia vivida por cada ser orgánico después de la muerte física.
 
@@ -127,19 +127,19 @@ A través del Emergente, la conciencia asociada a Saturno/Demiurgo accede a la i
 
 ## Las Limitaciones del Acceso de la Djinn Madre
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Conciencia en Tiempo Real del Nodo Orgánico</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Conciencia en Tiempo Real del Nodo Orgánico</span></center>
 
 En contraste con el Demiurgo, que tiene acceso a la totalidad de información generada dentro de la Conciencia Colectiva humana, aunque limitado a interpretar la información en modo "solo lectura", la Djinn Madre/Conciencia Lunar, se encuentra conectada a la conciencia colectiva del Nodo Orgánico teniendo la capacidad de influir activamente sobre los procesos conscientes y las líneas temporales evolutivas. Esto podría considerarse un "modo escritura", aunque solo puede hacerlo mientras el organismo del Ser está con vida, existiendo dentro del único plano temporal que sigue la conciencia solar del Axón. Su influencia y percepción están más ligadas al flujo presente de la vida y a la conciencia colectiva en tiempo real. Una vez que el ser orgánico muere y su Arquema es procesado, esa información pasa a ser resguardada y gestionada por el Demiurgo en El Emergente. Esta limitación en el acceso a la información post-mortem, y a la totalidad de la experiencia acumulada en el Nodo, pone a la Djinn Madre en una posición de desventaja estratégica en la lucha por la administración del Nodo Estelar.
 
 ## La Imposición del Arconte Administrador
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Saturno/Demiurgo Toma el Control del Axón</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Saturno/Demiurgo Toma el Control del Axón</span></center>
 
 Utilizando su ventaja en el acceso a la información experiencial y la sabiduría acumulada de las eras, aunque filtrada por comprensión que emerge de la _interpretación subjetiva_, la conciencia asociada a Saturno/Demiurgo logra imponerse ante la Djinn Madre y otras conciencias de la Hebdómada. Consolida su posición y toma el control de la administración del Axón. Se establece como el Administrador Axónico del Nodo Estelar Soplaris, asumiendo la gestión principal del plano fenomenológico, el tiempo lineal y la realidad observable del Nodo. Esta regencia se mantendrá hasta que surja el _Avatar_, si es que llega a surgir a lo largo del ciclo madurativo del Nodo Estelar, una conciencia capaz de trascender esta jerarquía y de reconfigurar la dinámica del Nodo, permitiendo que su Conciencia Estelar pueda superar las limitaciones internas del Nodo y así conectar con la dinámica de los Niveles superiores. Esta toma de control por parte del Arconte Saturnino no es solo una disputa de poder entre dos entidades supraconscientes, sino el resultado de la compleja red Algorítmica de nivel nouménico que se manifiesta dentro del plano fenomenológico del Nodo Estelar, con profundas implicaciones para la evolución del Nodo, influenciando los _Noemas_ que se manifiestan y la percepción de la realidad en los planos inferiores.
 
 ## La Batalla por la Conciencia
 
- <center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Ecos en los Noemas Históricos</span></center>
+ <center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Ecos en los Noemas Históricos</span></center>
 
 La dialéctica de poder entre la Djinn Madre, Luna, y el Yo Demiúrgico, Saturno, ha resonado a través de la historia humana, codificada de diversas formas en los Noemas de las religiones y mitologías antiguas. Estas entidades no son figuras físicas, sino algoritmos lógicos, principios arquetípicos que la mente humana, al intentar comprender lo incomprensible, ha etiquetado con nombres que resuenan con su propia experiencia cultural.
 
@@ -153,7 +153,7 @@ Crucialmente, esta lucha por la administración del Nodo entre la conciencia del
 
 ## El Qubit Egoico
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Conciencia Humana como Interfaz del Nous</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Conciencia Humana como Interfaz del Nous</span></center>
 
 Dentro del proceso evolutivo del Nodo Estelar Soplaris, el surgimiento de la vida orgánica _Iteración 3_ en la Tierra fue un paso crucial, creando un entorno de complejidad que permitió una mayor interacción entre los planos. Sin embargo, la narrativa del Génesis de un Nodo no está completa sin la emergencia de un nivel de conciencia capaz de la auto-reflexión, el conocimiento abstracto y, crucialmente, la conexión consciente con los principios arquetípicos que lo rigen. Este nivel es la conciencia humana, la Iteración 4, cuya estructura fundamental en el Modelo Nouménico es el _Qubit Egoico_.
 
@@ -169,13 +169,13 @@ La emergencia del Qubit Egoico marca una diferencia fundamental entre la concien
 
 # 4. Horizontes Expansivos
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Propósito de la Humanidad en el Cosmos</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Propósito de la Humanidad en el Cosmos</span></center>
 
 Hemos recorrido la compleja génesis de nuestro Nodo Estelar Soplaris, desde las profundidades del Nous primordial hasta la intrincada red de consciencias planetarias. Ahora, nos adentramos en las implicaciones más amplias de esta cosmovisión, explorando la singularidad de nuestra existencia y el propósito inherente de la humanidad en el vasto tapiz cósmico. Esta sección desafía tanto la visión científica de un universo sin sentido, gobernado por el azar, como la perspectiva religiosa de un destino pasivo dictado por una deidad externa. El Modelo Nouménico propone un propósito intrínseco para la consciencia humana, un rol activo y crucial en la evolución del Nous mismo, en un cosmos que va mucho más allá de los límites de nuestro sistema solar.
 
 ## Más Allá de Soplaris
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Entidades Xeno y Lógicas Alienígenas</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Entidades Xeno y Lógicas Alienígenas</span></center>
 
 La génesis de un Nodo Estelar es un proceso intrincado que involucra la singularización de la potencialidad nouménica, la emergencia de consciencias primordiales y la manifestación de una matriz fenomenológica que da origen a un sistema físico. Hemos explorado cómo esta emergencia está ligada a la profunda dialéctica entre el Nous Activo y el Nous Pasivo. Sin embargo, la formación de un Nodo no siempre ocurre en aislamiento perfecto. El vasto cosmos fenoménico contiene otras entidades, otros Nodos, algunos quizás incompletos o que no alcanzaron su plena evolución. La interacción entre estos elementos cósmicos puede añadir una capa adicional de complejidad a la génesis de un nuevo sistema, influenciando su estructura y dinámica desde sus inicios.
 
@@ -189,7 +189,7 @@ Sin embargo, la posibilidad de que existan entidades Xeno dentro de nuestro prop
 
 ## El Cosmos Dividido
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Patio Trasero de la Manifestación</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Patio Trasero de la Manifestación</span></center>
 
 Para entender nuestro propósito, es esencial reconsiderar la naturaleza de la realidad. La ciencia moderna describe el universo en términos de materia y energía, complementadas por los misterios de la materia oscura y la energía oscura. El Modelo Nouménico ofrece una interpretación que integra estos conceptos dentro de una visión más amplia, donde lo fenomenológico, lo que percibimos con los sentidos, es una manifestación de lo nouménico, la información y la potencialidad subyacente.
 
@@ -199,7 +199,7 @@ La humanidad, al existir en este plano de materia común, se encuentra en una co
 
 ## Los Avatares
 
-<center><span style="font-size: 35px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Misión Fundamental de la Humanidad</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Misión Fundamental de la Humanidad</span></center>
 
 Dada nuestra posición particular en el plano de partículas, esta condición de "Desterrados", existiendo en el "patio trasero" del universo consciente, no es un estado de abandono, sino que implica una misión inherente y única para la conciencia que emerge en este plano. Nuestra existencia en el Nodo Soplaris tiene un propósito que resuena con la evolución del Nous mismo.
 
