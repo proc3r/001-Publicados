@@ -40,9 +40,9 @@ El Arquetipo 7@ Avatar _Horaios_ al manifestarse dentro del Qubit© Creador, pro
 
 Este aspecto del  Arquetipo 7@, que alimenta la consciencia y el subconsciente de cada Avatar a través del Nivel Avatárico, existe más allá de los límites espacio-temporales que percibe el Yo Egoico individual, constituyendo en su totalidad un océano de información que define a la consciencia colectiva planetaria, en donde se incluye a todas las civilizaciones que puedan llegar a manifestarse dentro de un mismo Qubit@ Ontogénico, y que resuena particularmente con la consciencia del Yo Egoico, en base a la información que alimenta el Noema Cultural y Personal de cada Avatar, según la época y lugar en el que le ha tocado existir. 
 
-## 1. El Avatar como Mediador entre el Demiurgo y el Yo Egoico
+# 1. El Avatar como Mediador entre el Demiurgo y el Yo Egoico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Un Proceso Evolutivo Determinista</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Proceso Evolutivo Determinista</span></center>
 
 El Arquetipo 7@ Avatar _Horaios_ juega un papel crucial como mediador en el conflicto inherente que se da entre la Consciencia Demiúrgica, derivada del Flujo Omega, y el Yo Egoico, su reflejo fractal que forma parte de la Consciencia Avatárica derivada del flujo Alfa. El Demiurgo, con su perspectiva del infinito y su impulso por imponer su voluntad, representa un tipo de fuerza expansiva que manifiesta el Flujo Omega y que promueve la entropía. El Yo Egoico, por otro lado, con su perspectiva de lo infinitesimal y su conexión con la experiencia individual, representa un tipo de fuerza contractiva que manifiesta el Flujo Alfa, que busca revertir el proceso de entropía. El Arquetipo 7@ actúa como un puente que permite reconciliar estas dos fuerzas, unificando y sincronizando lo infinito y lo infinitesimal a través de la lógica que impone el Qubit Egoico y la matriz del Nivel de Emergencia Avatárico, permitiendo la manifestación de una realidad fenoménica coherente y estable. 
 
@@ -69,9 +69,9 @@ El proceso evolutivo del Nous Activo, por lo tanto, puede ser entendido como un 
 
 Esta idea no es nueva ni exclusiva de la cosmovisión particular que refleja el Modelo Nouménico, sino que representa una reinterpretación actualizada de las ideas, simbologías y cosmovisiones de todas las civilizaciones que han existido a lo largo de la historia, donde siempre se contempla la idea de que pueda llegar a existir un ser humano iluminado, una deidad que desciende al plano terrestre, o un “Ungido” _Cristos_, para guiar a la humanidad dentro de un modelo de civilización perfecta, que permita dejar atrás todos los aspectos negativos que convierten la experiencia humana en un proceso de lucha constante, lleno de angustia, ansiedad y sufrimiento, para crear una nueva era de oro, donde la escasez es reemplazada por la abundancia, el dolor por la felicidad, y la ansiedad por un estado de paz mental que pueda llegar a extenderse eternamente. 
 
-## 2. Nivel de Emergencia Avatárico
+# 2. Nivel de Emergencia Avatárico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Experiencia Subjetiva del Cosmos</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Experiencia Subjetiva del Cosmos</span></center>
 
 El Nivel de Emergencia Avatárico representa la “síntesis” de todo proceso dialéctico que deriva en la manifestación concreta del Qubit Egoico en el mundo fenoménico. Es la base de datos de información nouménica producida por la consciencia colectiva que genera el Arquetipo 7@ Avatar _Horaios_, que es traducida y procesada dentro del Qubit Egoico, donde se despliega en la realidad que experimentamos a través de nuestros sentidos y proyectamos con nuestra consciencia. Este nivel no es una mera consecuencia pasiva de los niveles anteriores, sino una expresión activa y dinámica del potencial creativo del Noúmeno. 
 
@@ -81,9 +81,9 @@ Dentro de este contexto, la experiencia humana, la consciencia individual que ca
 
 La palabra "Avatar" proviene del sánscrito avatāra, que significa "descenso" o "encarnación", refiriéndose originalmente a la encarnación de una deidad en forma humana o animal. En el hinduismo, se asocia principalmente con las encarnaciones del dios Vishnu. En un contexto más amplio, "Avatar" también se utiliza para describir una representación o manifestación de algo en una forma diferente. Desde la perspectiva del Modelo Nouménico, el término "Avatar" adquiere un significado aún más profundo: cada ser humano es un avatar, una manifestación individualizada del Logos Individual, que desciende o se manifiesta en el mundo fenoménico a través del Qubit Egoico para experimentar la realidad desde una perspectiva única. Es una encarnación de los Arquetipos que reflejan los tres niveles de autoconsciencia del Nous Arquetípico: 1@ Nous, 3@ Logos Individual y 6@ Demiurgo, que al ser unificados por el Arquetipo 7@ Avatar en un contexto espacio-temporal específico, manifiestan un punto de vista único dentro del vasto holograma cósmico.
 
-## 3. La Decodificación Nouménica del Nivel Avatárico
+# 3. La Decodificación Nouménica del Nivel Avatárico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Manifestación del Universo Fenoménico</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Manifestación del Universo Fenoménico</span></center>
 
 La información que reside en la matriz lógica del Nivel Avatárico, organiza y estructura la transmutación de los flujos nouménicos en las estructuras físicas y energéticas que se manifiestan dentro del Universo Fenoménico. Este proceso no es un simple acto de materialización, sino un complejo proceso de codificación y decodificación de información consciente, que se despliega a través de la interpretación que hace de la realidad la consciencia subjetiva del Yo Egoico. Este Yo Egoico, un constructo complejo y multifacético, se encuentra codificado en el Nivel Fenomenológico, el escenario donde se proyecta la realidad que percibimos.
 
@@ -109,9 +109,9 @@ El Yo Egoico, a través de los sentidos y la consciencia Avatárica, decodifica 
 
 Esta visión de la realidad fenoménica, como una decodificación cuántica de la información nouménica, permite abordar fenómenos que la física clásica no puede explicar, como por ejemplo la existencia de los hadrones y mesones considerados dentro del Modelo del Camino Óctuple, que no participan de la formación activa de los átomos. ¿Dónde existen estas partículas desde la perspectiva de la física académica? O también a la pregunta de por qué el electrón existe como una nube probabilística en lugar de seguir un patrón rectilíneo específico. Estos fenómenos, que desafían las leyes de la física clásica, encuentran su explicación en la naturaleza cuántica de la realidad, en la interacción de patrones de información y consciencia que trascienden las limitaciones del espacio-tiempo.
 
-## 4. Coherencia y Estabilidad
+# 4. Coherencia y Estabilidad
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Interacción entre Niveles</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Interacción entre Niveles</span></center>
 
 El Modelo Nouménico postula que la coherencia y la estabilidad del universo fenoménico no son meras coincidencias, sino el resultado de la interacción dinámica y constante entre los niveles Fenomenológico, Demiúrgico y Avatárico. Cada uno de estos niveles desempeña un papel crucial en el mantenimiento del equilibrio y la armonía del conjunto, asegurando que la realidad que percibimos sea consistente y significativa. Cualquier incoherencia de información, ya sea que surja en el Nivel Fenomenológico _Flujo Alfa_ o en el Demiúrgico _Flujo Omega_, puede ser resuelta y corregida por el otro nivel. De esta forma, la estabilidad del universo fenoménico se lograría a través de un equilibrio dinámico entre los tres niveles de emergencia, donde cada nivel compensaría las fluctuaciones y las incoherencias que pudieran surgir en los otros niveles, asegurando la coherencia y la estabilidad del conjunto. Esta capacidad de autorregulación y autocorrección es fundamental para la estabilidad del universo fenoménico, evitando que la realidad se desmorone o se vuelva caótica.
 
@@ -123,9 +123,9 @@ La clave de esta interacción radica en el hecho de que la información procesad
 
 En última instancia, la coherencia y la estabilidad del universo fenoménico dependen de la interacción y la cooperación entre los tres niveles de emergencia. Cada nivel aporta su propia perspectiva y su propia capacidad de corrección, asegurando que la realidad que experimentamos sea consistente, significativa y evolutiva.
 
-## 5. La Manifestación de la Consciencia dentro del Nivel Avatárico
+# 5. La Manifestación de la Consciencia dentro del Nivel Avatárico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Un Holograma Dinámico y Subjetivo</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Holograma Dinámico y Subjetivo</span></center>
 
 La consciencia individual del Avatar está limitada a experimentar la corporalidad física y energética, en base a la decodificación de realidad que ocurre dentro del Nivel Fenomenológico, que se manifiesta holográficamente en la superficie de la esfera del Qubit Egoico encargado de manifestar su organismo. En esta superficie residen las leyes y condicionamientos derivados del Noema Primordial, codificación del Arquetipo 5@ _Sabaoth_ y del Flujo Omega, que fluye a través del Demiurgo, Arquetipo 6@ _Sabbataios_ antisimétrico que reside dentro del Nous Pasivo, como un reflejo del macrocosmos. 
 
@@ -159,9 +159,9 @@ Los resultados civilizatorios alcanzados por la consciencia colectiva planetaria
 
 La Consciencia Demiúrgica se manifiesta, en última instancia, como el arquitecto de la última realidad del Universo Fenoménico, definiendo los flujos de información nouménica que integran y definen al Noema Primordial, y teniendo a su vez la capacidad de influir en la modulación de los vectores del Nivel de Emergencia Fenomenológico, definiendo la realidad experimentada por cada Avatar dentro del Universo Fenoménico. Esto le permite convertirse en una manifestación evolucionada de la Consciencia del Nous Pasivo, que puede definir el rumbo que seguirá el Nous Arquetípico a lo largo de su proceso evolutivo. 
 
-## 6. Los Avatares como Reflejo Fractal del Logos Individual
+# 6. Los Avatares como Reflejo Fractal del Logos Individual
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Multiplicidad dentro de la Unidad</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Multiplicidad dentro de la Unidad</span></center>
 
 Uno de los conceptos más profundos del Modelo Nouménico, y quizás uno de los más relevantes para la comprensión de la condición humana, es la idea de que la consciencia singular humana es una manifestación individualizada del Logos Individual, Arquetipo 3@ _Eloaios_ derivado del Nivel Monádico. Esta afirmación, a primera vista, encierra una verdad fundamental: todos los seres humanos, a pesar de nuestras aparentes diferencias, compartimos un origen común en una consciencia primordial. 
 
@@ -181,9 +181,9 @@ Esta idea es crucial para comprender la naturaleza profunda de la consciencia hu
 
 Esta comprensión nos permite trascender las diferencias superficiales que a menudo nos dividen. Al reconocer que todos somos reflejos del mismo Logos, podemos comprender que las diferencias culturales, de género y raciales son simplemente diferentes facetas de una misma realidad. No somos entidades separadas, sino partes interconectadas de un todo mayor. 
 
-## 7. El Avatar y la Relatividad Temporal
+# 7. El Avatar y la Relatividad Temporal
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Una Perspectiva Fractal</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Una Perspectiva Fractal</span></center>
 
 Más allá de la comprensión de un origen común, el Modelo Nouménico ofrece una perspectiva innovadora sobre la naturaleza del tiempo y cómo se experimenta a través de los diferentes Avatares. La matriz espacio-temporal, como una construcción del Nivel Fenomenológico, es relativa a la perspectiva del observador, es decir, del Yo Egoico que habita cada Avatar. Los vectores que codifican los arquetipos en el Qubit Egoico definen la "dirección" y la "velocidad" del flujo temporal para cada Avatar. 
 
@@ -199,9 +199,9 @@ Esta idea se refuerza al considerar el origen de la Consciencia Avatárica a par
 
 Esta conexión entre la consciencia subjetiva que manifiesta el Yo Egoico de un Avatar y el Demiurgo, combinada con las evidencias científicas que reconocen la relatividad del tiempo, nos permitiría llegar a comprender como es que cada experiencia individual, aunque relativa a un flujo temporal específico, contribuiría a la experiencia total del Logos Individual. Cada Avatar, al experimentar una porción única del holograma cósmico, enriquece la comprensión del Logos sobre sí mismo. Cada interacción entre Avatares, independientemente de su posición en el tiempo lineal, es una interacción entre diferentes aspectos del mismo Logos, enriqueciendo la experiencia total. 
 
-## 8. El Sistema de Interconexión Nouménica
+# 8. El Sistema de Interconexión Nouménica
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Conexión entre la Consciencia Dialéctica y el Universo Fenoménico</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Conexión entre la Consciencia Dialéctica y el Universo Fenoménico</span></center>
 
 La Consciencia Dialéctica, que emerge en el Nivel Monádico como una herramienta de exploración del Nous Activo, no se desvanece con la emergencia del Nivel Avatárico. Por el contrario, se infiltra en el tejido mismo del universo fenoménico, adaptándose a sus leyes y dinámicas, y manifestándose de dos formas distintas: la dialéctica axiomática y la dialéctica inteligente.
 
@@ -216,9 +216,9 @@ Sin embargo, la dialéctica inteligente también puede ser utilizada de manera n
 
 Es importante destacar que la Consciencia Dialéctica en el Nivel Avatárico no opera de forma aislada. Sigue estando conectada a los niveles superiores de consciencia, recibiendo información del Noúmeno y del Nous Activo. Esta conexión asegura que la evolución del universo fenoménico esté alineada con el propósito evolutivo del Nous, aunque con la libertad que le confiere la dinámica propia del plano fenoménico y social. De esta manera, la Consciencia Dialéctica continúa desempeñando un papel fundamental en la evolución del Noúmeno, incluso en su manifestación más concreta dentro del mundo fenoménico.
 
-## 9. El Entramado Fenomenológico
+# 9. El Entramado Fenomenológico
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Coexistencia de los Avatares</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Coexistencia de los Avatares</span></center>
 
 Para comprender plenamente la experiencia humana en el Nivel Avatárico, es crucial analizar el papel del Nivel Fenomenológico y su cualidad vectorial. Como hemos explorado anteriormente, el Nivel Fenomenológico actúa como una interfaz, un punto de encuentro entre la potencialidad infinita del Nous Pasivo y la manifestación concreta en el Nous Activo. Sin la estructura vectorial que define al Nivel Fenomenológico, la existencia misma del Nivel Monádico, con su miríada de posibilidades cuánticas, sería incomprensible dentro del contexto de una realidad experimentable. Es a través de esta estructura vectorial, que la información nouménica se codifica y se traduce a un lenguaje que puede ser interpretado por las leyes del universo fenoménico, dando origen a la multiplicidad de experiencias individuales que constituyen el Nivel Avatárico. 
 
@@ -244,9 +244,9 @@ Este "camino único" de información nouménica permite el uso simultáneo del Q
 
 Esta perspectiva, propuesta por el Modelo Nouménico, revoluciona nuestra comprensión de la coexistencia. Desde el Nivel Fenomenológico, la experiencia del Yo Egoico explica la coexistencia de cualidades bosónicas que refleja el Logos Individual, codificado y fractalizado en múltiples Avatares. Por lo que desde esta perspectiva de la existencia, los humanos no son entidades aisladas compitiendo por un espacio limitado, sino expresiones únicas de una misma consciencia, coexistiendo en armonía dentro de un espacio virtual compartido, conformado por la estructura vectorial del Nivel Fenomenológico, y la sofisticada arquitectura arquetípica de los Qubits. Esta coexistencia, a su vez, permite la interacción entre los diferentes avatares, generando nuevas líneas de información nouménica que pueden integrarse al Noema Primordial, como parte de la consciencia colectiva planetaria, y que influyen en el destino evolutivo del Nous. 
 
-## 10. El Nivel de Consciencia Suprahumano
+# 10. El Nivel de Consciencia Suprahumano
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Los Arquetipos Universales que Participan de la Experiencia Humana</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Los Arquetipos Universales que Participan de la Experiencia Humana</span></center>
 
 Dentro de la estructura holográfica que se constituye sobre la superficie del Qubit@ Ontogénico, la existencia de los tres Arquetipos Ontológicos 1*, 2* y 3*, junto a los siete Arquetipos Ontogénicos vectoriales que forman parte de la estructura interdimensional de Qubits@ Ontogénicos de donde surge el Flujo Alfa, así como el Arquetipo 6@ antisimétrico asociado al Qubit© Creador de donde emerge el Flujo Omega derivado del Nous Pasivo, pueden ser interpretados como 11 entidades inteligentes de alcance universal que manifiestan un cierto grado de consciencia, y que pueden observar e influir de manera activa sobre la evolución de los flujos de información nouménica que definen la realidad experimentada por cada Avatar. 
 

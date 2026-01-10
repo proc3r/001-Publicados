@@ -2,8 +2,6 @@
 
 En el vasto y complejo tapiz del Modelo Nouménico, la realidad se despliega a través de una serie de Niveles de Iteración, cada uno representando una capa de emergencia fractal desde la totalidad arquetípica del Origen hasta las manifestaciones más concretas dentro del plano fenoménico. 
 
-### Titulo Nivel 3
-
 Estos niveles son anidaciones de información nouménica que se manifiestan en estructuras y entidades autosustentables. En el corazón de esta fenomenología estelar, encontramos el Nivel de Iteración Cuatro, el cual representa la cúspide de la evolución de la consciencia individual dentro del ámbito de un Nodo Estelar particular.
 
 ---

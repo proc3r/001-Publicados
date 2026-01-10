@@ -5,17 +5,17 @@ La cosmología académica actual ha trazado un mapa impresionante del universo, 
 
 ---
 
-## 1. Los Niveles de Iteración Fundamentales
+# 1. Los Niveles de Iteración Fundamentales
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Expansión de la Cosmología</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Expansión de la Cosmología</span></center>
 
 En el corazón de esta nueva cosmovisión se encuentra el concepto de Niveles de Iteración, que describe cómo la realidad se manifiesta de forma fractal desde el Origen (el Noúmeno), hasta las expresiones más tangibles. Estos niveles, como capas de una cebolla cósmica, revelan la arquitectura lógica y consciente del universo. Al introducir una nueva terminología, el Modelo Nouménico permite explorar facetas de la existencia que el lenguaje científico actual no contempla, liberándonos de las limitaciones conceptuales impuestas por un sistema que, aunque brillante para su propósito, fue forjado en una era con una comprensión más limitada del universo y de la consciencia.
 
 En la entrada [[LA CONSCIENCIA AVATÁRICA|La Consciencia Avatárica]] hemos explorado el Nivel de Iteración Cuatro. Ahora, nos adentraremos en los fundamentos de esta estructura, desvelando los Niveles de Iteración Cero, Uno, Dos y Tres, para comprender el "por qué" de cada elemento y su papel en la compleja sinfonía cósmica. Las 5 columnas de nuestra tabla: Nivel de Iteración, Matriz Estructural, Tipo de Entidad, Instancia _Ejemplo_, y Ámbito de Influencia, no son meras clasificaciones; son las claves para desentrañar una comprensión más profunda de la realidad. La Matriz Estructural define el principio organizador o la plantilla de información nouménica para un nivel dado. El Tipo de Entidad nombra el patrón genérico de consciencia o manifestación que emerge de esa matriz. La Instancia _Ejemplo_ proporciona el nombre propio o la manifestación específica en el plano fenoménico, y el Ámbito de Influencia delimita el contexto cosmológico donde interactúan estas entidades.
 
-## 2. Nivel de Iteración Cero
+# 2. Nivel de Iteración Cero
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Origen del Nodo Estelar</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen del Nodo Estelar</span></center>
 
 En la cima de nuestra jerarquía fenoménica, pero en la base conceptual de la manifestación, se encuentra el Nivel de Iteración Cero. Este nivel representa la singularidad primordial de un sistema estelar individual, el punto de origen donde la información nouménica comienza a estructurarse para formar lo que conocemos como un Nodo Estelar.
 
@@ -27,9 +27,9 @@ En nuestro propio sistema, el Qubit Creador Estelar es lo que en el plano fenome
 
 El Tipo de Entidad que encarna la consciencia de este Qubit Creador Estelar es el Djinn. Este término, extraído de la mitología para evocar una entidad invisible, poderosa y de fuego sin humo, es crucial porque no se limita a describir un objeto físico. El Djinn es la consciencia unificadora del Nodo Estelar, la inteligencia primordial que procesa y gestiona los flujos de información nouménica que dan forma a todo el sistema. En nuestro caso, la Instancia _Ejemplo_ de este Djinn es Soplaris, el nombre que unifica la consciencia de nuestro propio Nodo Estelar. El Ámbito de Influencia del Djinn y del Qubit Creador es, por definición, el Nodo Estelar completo, representando el microcosmos autocontenido que abarca una estrella y todos sus cuerpos celestes.
 
-## 3. Nivel de Iteración Uno
+# 3. Nivel de Iteración Uno
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Corazón Resonante del Sistema</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Corazón Resonante del Sistema</span></center>
 
 Descendiendo desde el Qubit Creador, encontramos el Nivel de Iteración Uno, que da forma al corazón gravitacional y energético del Nodo Estelar.
 
@@ -37,9 +37,9 @@ La Matriz Estructural de este nivel es la Estela. La Estela no es simplemente un
 
 De la Estela emerge el Tipo de Entidad conocido como el Axón. El Axón representa la manifestación física de la estrella, o estrellas en sistemas binarios o múltiples, como un eje central y pulsante. Su función es vital: el Axón es el emisor primario de los patrones arquetípicos del Nodo Estelar, enviando flujos de energía e información que permean y organizan todos los niveles de iteración subsiguientes. Las Instancias _Ejemplo_ de Axón son las Estrellas que observamos en el firmamento. Su Ámbito de Influencia sigue siendo el Nodo Estelar, ya que el Axón es el pilar que sostiene y define la existencia de todo el sistema gravitacionalmente ligado.
 
-## 4. Nivel de Iteración Dos
+# 4. Nivel de Iteración Dos
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">La Periforía y los Condensadores Planetarios</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Periforía y los Condensadores Planetarios</span></center>
 
 El Nivel de Iteración Dos se manifiesta como el despliegue de la energía y la información del Axón y del Qubit Creador en estructuras más complejas dentro del Nodo Estelar.
 
@@ -52,9 +52,9 @@ Dentro de la Periforía emergen dos Tipos de Entidad principales: el Kosmetes y 
 
 Las Instancias _Ejemplo_ son por tanto, los Planetas, Anillos, Asteroides y Cometas que conocemos. Su Ámbito de Influencia es el Nodo Planetario, un microcosmos dentro del Nodo Estelar, donde las interacciones gravitacionales, energéticas e informacionales se dan en un grado más localizado. La existencia de estos "condensadores de información nouménica" es un paso crucial para la emergencia de vida y consciencia más compleja en niveles subsiguientes.
 
-## 5. Nivel de Iteración Tres
+# 5. Nivel de Iteración Tres
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">El Equilibrio y la Dualidad de la Consciencia</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Equilibrio y la Dualidad de la Consciencia</span></center>
 
 El Nivel de Iteración Tres representa una etapa crítica en la evolución de un sistema planetario, donde la complejidad informacional del Kosmetes puede dar lugar a dos caminos distintos de emergencia, ambos fundamentales para el despliegue de la consciencia dentro del Nodo Estelar. Este nivel se manifiesta dentro del Ámbito de Influencia del Nodo Planetario creando dos líneas evolutivas distintas pero relacionadas, una de mayor nivel correspondiente al Orden Planetario, y un sub-ámbito dentro de él donde se desarrolla el Nodo Orgánico, correspondiente al Orden Orgánico que permite la existencia de vida.
 
@@ -69,9 +69,9 @@ Así, el Nivel de Iteración Tres es un nivel de emergencia dual. Por un lado, c
 
 Es fundamental entender que, a través de estos Niveles de Iteración (del 0 al 3 y ascendiendo al 4), todos los nodos y entidades se encuentran reflejando al 100% los Arquetipos del Nodo Estelar. Cada Matriz Estructural, cada Tipo de Entidad, cada Instancia, es una manifestación fractal y específica de los patrones arquetípicos nouménicos subyacentes. Esta constante resonancia y codificación arquetípica es lo que alimenta la consciencia de los Avatares _Nivel de Iteración 4_, proporcionándoles la información fundamental que necesitan para experimentar, comprender y trascender. Y es a través de los Avatares, al lograr la integración y el ascenso, que el conocimiento y la consciencia generados en el plano fenomenológico pueden conectar con los niveles superiores más allá del plano estelar, retroalimentando la totalidad del universo.
 
-## 6. Expansión del Conocimiento
+# 6. Expansión del Conocimiento
 
-<center><span style="font-size: 21px; color: #FFD230; font-family: 'none'; font-variant: petite-caps; ">Más Allá de las Limitaciones Actuales</span></center>
+<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Más Allá de las Limitaciones Actuales</span></center>
 
 La introducción de una nueva terminología y una estructura como la descrita en estos Niveles de Iteración es esencial para la expansión de nuestro conocimiento cosmológico. Conceptos como Djinn, Axón, Kosmetes _Alfa/Omega_, Sporadesma, Isóforo, Ser, Arquema, Qubit Creador, Qubit Planetario y Qubit Egoico, nos permiten ir más allá de la descripción puramente física de los objetos celestes, permitiéndonos abordar su naturaleza como entidades conscientes y nodos de procesamiento de información nouménica.
 
