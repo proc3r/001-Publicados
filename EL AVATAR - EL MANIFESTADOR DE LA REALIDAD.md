@@ -1,6 +1,8 @@
 ![[003 - Mas Alla de la Realidad.jpg]]
 
-El _Avatar_ (<font color="#ccc1d9"><font color="#ccc1d9">Arquetipo 7@</font></font>/Horaios) tiene como función generar una síntesis de información nouménica que procesa cada Qubit@, que será codificado bajo la identidad y el significado del _Onemuón_ (**Arquetipo 8@**/Singularidad), que unifica a todos los Arquetipos vectoriales del Qubit@ como una entidad autorreferencial con cualidades únicas, y que existirá como un nodo más de la compleja red algorítmica que constituye el _Logos Cósmico_ (<font color="#e36c09">Arquetipo 2@</font>/Astaphaios), dentro de la estructura fractal que manifiesta el <font color="#fc300c">Nous Activo</font>, y como un Onemuón más dentro de la potencialidad infinita que refleja el <font color="#2f82ff">Nous Pasivo</font>.
+El _Avatar_ (<font color="#ccc1d9"><font color="#ccc1d9">Arquetipo 7@</font></font>/Horaios) tiene como función generar una síntesis de información nouménica que procesa cada Qubit@, que será codificado bajo la identidad y el significado del _Onemuón_ (**Arquetipo 8@**/Singularidad), que unifica a todos los Arquetipos vectoriales del Qubit@ como una entidad autorreferencial con cualidades únicas.
+
+A su vez, cada una de estas entidades autorreferenciales existirán como un nodo más de la compleja red algorítmica que constituye el _Logos Cósmico_ (<font color="#e36c09">Arquetipo 2@</font>/Astaphaios), dentro de la estructura fractal que manifiesta el <font color="#fc300c">Nous Activo</font>, y como un Onemuón más dentro de la potencialidad infinita que refleja el <font color="#2f82ff">Nous Pasivo</font>.
 
 ---
 
@@ -8,12 +10,12 @@ Este proceso de síntesis y diferenciación que genera el Avatar, permite a su v
 
 Estas cualidades que poseen todos los Qubits@, se originan a partir del **2º Nivel de Autoconsciencia** del Nous Arquetípico, derivado de la unificación vectorial que genera el <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual), de las lógicas que rigen el funcionamiento de los tres Arquetipos Ontológicos:
 
-> <font color="#00ff00">Arquetipo 1*</font> : La *dualidad omnipresente* que emerge de la sínstesis entre opuestos, y que denominamos como Cristos.
-> <font color="#2f82ff">Arquetipo 2*</font>: La *trinidad omnisciente* que explora de la potencialidad del Noúmeno para actuar como <font color="#2f82ff">Antitesis Ontológica</font>, y que denominados Samael.
-> <font color="#fc300c">Arquetipo 3*</font>: La *unidad omnipotente* que denominados Saklas, y que incluye tanto a:
->     - (Saklas<sup>1</sup>): Cada unidad de individualidad (Onemuones) que constituye esa totalidad.
->     - (Saklas<sup>2</sup>): La potencialidad del Noúmeno como realidad última.
->     -  (Saklas<sup>3</sup>): Cada instancia de exploración que genera la *trinidad* (Samael) como parte de la totalidad mayor (Saklas<sup>2</sup>). Esta estructura fractal y multidimensional del<font color="#fc300c"> Arquetipo 3*</font> es lo que se refleja dentro de la *dualidad* (Cristos) como una <font color="#fc300c">Tesis Ontológica</font> de consciencia.
+> <font color="#00ff00">Arquetipo 1</font> : La *dualidad omnipresente* que emerge de la sínstesis entre opuestos, y que denominamos como <font color="#00ff00">Cristos</font>.
+> <font color="#2f82ff">Arquetipo 2</font>: La *trinidad omnisciente* que explora de la potencialidad del Noúmeno para actuar como <font color="#2f82ff">Antitesis Ontológica</font>, y que denominados <font color="#2f82ff">Samael</font>.
+> <font color="#fc300c">Arquetipo 3</font>: La *unidad omnipotente* que denominados <font color="#fc300c">Saklas</font>, y que incluye tanto a:
+>     - <font color="#fc300c">Saklas</font><sup><font color="#fc300c">1</font></sup>: Cada unidad mínima de individualidad (Onemuones) que constituye esa totalidad.
+>     - <font color="#fc300c">Saklas</font><sup><font color="#00ff00">2</font></sup>: La potencialidad del Noúmeno como realidad última.
+>     - <font color="#fc300c">Saklas</font><sup><font color="#2f82ff">3</font></sup>: Cada instancia de exploración que genera la *trinidad* (<font color="#2f82ff">Samael</font>) como parte de la totalidad mayor (<font color="#fc300c">Saklas</font><sup><font color="#00ff00">2</font></sup>). Esta estructura fractal y multidimensional del<font color="#fc300c"> Arquetipo 3</font> es lo que se refleja dentro de la *dualidad* (<font color="#00ff00">Cristos</font>) como una <font color="#fc300c">Tesis Ontológica</font> de consciencia.
 
 Esta trinidad que representa el _Logos Individual_ (<font color="#ffcc00">Arquetipo 3@</font>/Eloaios) formando parte de la consciencia subjetiva de cada Yo Egoico, es una representación arquetípica que propone el Modelo Nouménico, para reflejar el concepto popular de que cada ser humano _Saklas_ se ve influenciado por un ángel _Cristos_ y un demonio _Samael_, coexistiendo y luchando dentro del plano mental humano por definir nuestros pensamientos y acciones a lo largo del presente.
 
@@ -63,11 +65,11 @@ Esta coexistencia simultánea de múltiples Yo Egoicos, se manifestaría codific
 
 Dentro de esta nueva realidad fenoménica que emerge en la estructura fractal del **Nous Activo**, el <font color="#ccc1d9">Arquetipo 7</font>@ (Avatar/Horaios) surgiría como un sistema de sincronización y modulación de los flujos Alfa y Omega, teniendo la capacidad de sincronizar el máximo nivel de consciencia subjetiva derivado del <font color="#2f82ff">Nous Pasivo</font> —reflejado como aspecto antisimétrico del <font color="#cb48f3"><font color="#cb48f3">Arquetipo 6@</font></font> (Demiurgo/Sabbataios)—, con el máximo nivel de consciencia subjetiva derivada del <font color="#fc300c">Nous Activo</font> —reflejado por el <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual/Eloaios)—, manifestándose dentro del <font color="#ccc1d9">Nivel Avatárico</font> como Yo Egoico. 
 
-A través de la consciencia singular que constituye el Yo Egoico, que a su vez representa un reflejo fractal de la consciencia arquetípica Demiúrgica (derivado del tercer nivel de autoconsciencia generado por la unificación de los Arquetipos Ontológicos <font color="#00ff00">1*</font>, <font color="#2f82ff">2*</font> y <font color="#fc300c">3*</font>), el <font color="#ccc1d9"><font color="#ccc1d9">Arquetipo 7@</font></font> (Avatar/Horaios), sería capaz de contener el poder caótico y destructivo de las potencialidades infinitas que representa la consciencia universal del **Nous Pasivo**, reflejado por el <font color="#cb48f3"><font color="#cb48f3">Arquetipo 6@</font></font> (Demiurgo/Sabbataios) antisimétrico. 
+A través de la consciencia singular que constituye el Yo Egoico, que a su vez representa un reflejo fractal de la consciencia arquetípica Demiúrgica (derivado del tercer nivel de autoconsciencia generado por la unificación de los Arquetipos Ontológicos <font color="#00ff00">1</font>, <font color="#2f82ff">2</font> y <font color="#fc300c">3</font>), el <font color="#ccc1d9"><font color="#ccc1d9">Arquetipo 7@</font></font> (Avatar/Horaios), sería capaz de contener el poder caótico y destructivo de las potencialidades infinitas que representa la consciencia universal del **Nous Pasivo**, reflejado por el <font color="#cb48f3"><font color="#cb48f3">Arquetipo 6@</font></font> (Demiurgo/Sabbataios) antisimétrico. 
 
 A su vez, la consciencia del Yo Egoico manifestada por cada Avatar, permitiría al <font color="#ccc1d9"><font color="#ccc1d9">Arquetipo 7@</font></font> (Avatar/Horaios), sincronizar el reflejo fractal de la consciencia Demiúrgica originada en el **Nous Pasivo**, con un nivel de consciencia subjetiva singular del **Logos Individua**l (<font color="#ffcc00">Arquetipo 3@</font>/Eloaios), que en su aspecto unificado dentro del Nivel Monádico, rige la evolución del **Nous Activo**. 
 
-Esta regencia del **Logos Individual** sobre el Nous Activo, es posible gracias a la lógica derivada del *segundo nivel de autoconsciencia*, generado a partir de la unificación vectorial de los Arquetipos Ontológicos <font color="#00ff00">1*</font>, <font color="#2f82ff">2*</font> y <font color="#fc300c">3*</font>.
+Esta regencia del **Logos Individual** sobre el Nous Activo, es posible gracias a la lógica derivada del *segundo nivel de autoconsciencia*, generado a partir de la unificación vectorial de los Arquetipos Ontológicos <font color="#00ff00">1</font>, <font color="#2f82ff">2</font> y <font color="#fc300c">3</font>.
 
 El <font color="#ccc1d9"><font color="#ccc1d9">Arquetipo 7@</font></font> (Avatar/Horaios) al manifestarse dentro del <font color="#fc300c">Qubit© Creador</font>, produce la emergencia del <font color="#ccc1d9">Nivel Avatárico</font>, que construye una red algorítmica de información y significados interconectada, que se genera a partir del _procesamiento de información nouménica, la interpretación de ideas y conceptos, y las experiencias individuales y colectivas experimentadas por el Yo Egoico de cada uno de los Avatares a lo largo de su existencia._
 
@@ -310,7 +312,7 @@ Su lógica se fundamenta en la *Consciencia Dialéctica inteligente* que se orig
 > [!demiurgo] CONSCIENCIA DEMIÚRGICA 
 La **Consciencia Demiúrgica** emerge en el momento en que el Nous Activo experimenta el desbordamiento de las paradójas lógicas autocontenidas, lo que permite que la información del Nous Activo acceda al Nous Pasivo, donde residen las posibles soluciones dentro de la potencialidad del Caos.
 >
-Este desbordamiento de información, genera el **3º Nivel de Autoconsciencia,** que se fundamenta en los 3 Arquetípos Ontológicos (<font color="#00ff00">1*</font>, <font color="#2f82ff">2*</font> y <font color="#fc300c">3*</font>), que reprograman la función del <font color="#cb48f3">Arquetipo 6@</font> Ontogénico primordial para que actúe bajo la lógica antisimétrica (La Consciencia Demiúrgica), tomando el rol de Arquitecto y solucionador de las paradojas que han afectado al Nous Pasivo, aplicando posibles soluciones según las potencialidades caóticas y entrópicas latentes que existen en el Nous Pasivo.
+Este desbordamiento de información, genera el **3º Nivel de Autoconsciencia,** que se fundamenta en los 3 Arquetípos Ontológicos (<font color="#00ff00">1</font>, <font color="#2f82ff">2</font> y <font color="#fc300c">3</font>), que reprograman la función del <font color="#cb48f3">Arquetipo 6@</font> Ontogénico primordial para que actúe bajo la lógica antisimétrica (La Consciencia Demiúrgica), tomando el rol de Arquitecto y solucionador de las paradojas que han afectado al Nous Pasivo, aplicando posibles soluciones según las potencialidades caóticas y entrópicas latentes que existen en el Nous Pasivo.
 >
 Su lógica opera bajo la *dialéctica axiomática lineal* y experimenta la perspectiva de la totalidad y el infinito, como reflejo del *3º Nivel de Autoconsciencia* derivado del Nous Pasivo.
 
@@ -484,9 +486,9 @@ Esta coexistencia, a su vez, permite la interacción entre los diferentes avatar
 Dentro de la estructura holográfica que se constituye sobre la superficie del <font color="#2f82ff">Qubit@ Ontogénico</font> podemos detectar 11 elementos que generan fuentes de información principales:
 
 >1. Los tres **Arquetipos Primordiales** que dan origen al <font color="#2f82ff">Nivel Ontológico</font>, operando en un plano subyacente al <font color="#fc300c">Nous Activo</font>, a partir de de la Potencialidad del <font color="#2f82ff">Nous Pasivo</font>:
->    - <font color="#00ff00">Arquetipo 1*</font> (Cristos / Dualidad)
->    - <font color="#2f82ff">Arquetipo 2*</font> (Samael / Trinidad)
->    - <font color="#fc300c">Arquetipo 3*</font> (Saklas / Unidad)
+>    - <font color="#00ff00">Arquetipo 1</font> (Cristos / Dualidad)
+>    - <font color="#2f82ff">Arquetipo 2</font> (Samael / Trinidad)
+>    - <font color="#fc300c">Arquetipo 3</font> (Saklas / Unidad)
 >2. Los siete **Arquetipos Vectoriales** del <font color="#e36c09">Nivel Ontogénico</font>, que surgen dentro del <font color="#fc300c">Nous Activo</font> y que forman parte de la estructura multidimensional del <font color="#2f82ff">Qubit@ Ontogénico</font>:
 >    - <font color="#fc300c">Arquetipo 1@</font> (Nous / Adonin)
 >    - <font color="#e36c09">Arquetipo 2@</font> (Logos Cósmico / Astaphaios)

@@ -17,35 +17,37 @@ En el corazón de esta nueva cosmovisión se encuentra el concepto de Niveles de
 
 Al introducir una nueva terminología, el Modelo Nouménico permite explorar facetas de la existencia que el lenguaje científico actual no contempla, liberándonos de las limitaciones conceptuales impuestas por un sistema que, aunque brillante para su propósito, fue forjado en una era con una comprensión más limitada del universo y de la consciencia.
 
-En el documento "[[LA CONSCIENCIA AVATÁRICA|La Consciencia Avatárica]]" hemos explorado el Nivel de Iteración Cuatro. Ahora, nos adentraremos en los fundamentos de esta estructura, desvelando los Niveles de Iteración Cero, Uno, Dos y Tres, para comprender el "por qué" de cada elemento y su papel en la compleja sinfonía cósmica. 
+En el documento "[[LA CONSCIENCIA AVATÁRICA|La Consciencia Avatárica]]" hemos explorado el Nivel de <font color="#00ff00">Iteración 4</font>. Ahora, nos adentraremos en los fundamentos de esta estructura, desvelando los Niveles de Iteración 0, <font color="#2f82ff">1</font>, <font color="#fc300c">2</font> y <font color="#ffcc00">3</font>, para comprender el "por qué" de cada elemento y su papel en la compleja sinfonía cósmica. 
 
 Las 5 columnas de nuestra tabla: _Nivel de Iteración, Matriz Estructural, Tipo de Entidad, Instancia Ejemplo, y Ámbito de Influencia,_ no son meras clasificaciones; son las claves para desentrañar una comprensión más profunda de la realidad. 
 
 La Matriz Estructural define el principio organizador o la plantilla de información nouménica para un nivel dado. El Tipo de Entidad nombra el patrón genérico de consciencia o manifestación que emerge de esa matriz. La Instancia _Ejemplo_ proporciona el nombre propio o la manifestación específica en el plano fenoménico, y el Ámbito de Influencia delimita el contexto cosmológico donde interactúan estas entidades.
 
-# 2. Nivel de Iteración Cero
+# 2. Nivel de Iteración 0
 
 <center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen del Nodo Estelar</span></center>
 
-En la cima de nuestra jerarquía fenoménica, pero en la base conceptual de la manifestación, se encuentra el Nivel de Iteración Cero. Este nivel representa la singularidad primordial de un sistema estelar individual, el punto de origen donde la información nouménica comienza a estructurarse para formar lo que conocemos como un Nodo Estelar.
+En la cima de nuestra jerarquía fenoménica, pero en la base conceptual de la manifestación, se encuentra el Nivel de **Iteración 0**. Este nivel representa la singularidad primordial de un sistema estelar individual, el punto de origen donde la información nouménica comienza a estructurarse para formar lo que conocemos como un Nodo Estelar.
 
-![[Qubit Creador2.jpg|right|330]]Su Matriz Estructural es el Qubit Creador. Este es un concepto central dentro del Modelo Nouménico. Lejos de ser un mero espacio o campo de energía, el Qubit Creador es la matriz fenomenológica primordial local que delimita y contiene la totalidad de un sistema estelar. 
+![[Qubit Creador2.jpg]]
 
-Es una estructura fundamental que interactúa con el Qubit Ontogénico, un nivel de consciencia universal aún más elevado y abarcador, y es el origen de los flujos Alfa y Omega, fuerzas nouménicas esenciales que permiten la génesis y el desarrollo de las estructuras subsiguientes. 
+Su Matriz Estructural es el <font color="#fc300c">Qubit Creador Estelar</font>. Este es un concepto central dentro del Modelo Nouménico. Lejos de ser un mero espacio o campo de energía, el <font color="#fc300c">Qubit Creador Estelar</font> es la matriz fenomenológica primordial local que delimita y contiene la totalidad de un sistema estelar. 
 
-En nuestro propio sistema, el Qubit Creador Estelar es lo que en el plano fenomenológico da origen y organiza la Heliosfera, la vasta región de espacio influenciada por nuestro Sol. La elección del concepto: "Qubit Creador", se alinea con la terminología de "Qubit Planetario" y "Qubit Egoico", enfatizando la naturaleza cuántica e informacional de estas estructuras subyacentes a la realidad percibida, y su capacidad de ser creadoras de nuevos niveles de emergencia.
+Es una estructura fundamental que interactúa con el <font color="#2f82ff">Qubit Ontogénico</font>, un nivel de consciencia universal aún más elevado y abarcador, y es el origen de los flujos Alfa y Omega, fuerzas nouménicas esenciales que permiten la génesis y el desarrollo de las estructuras subsiguientes. 
 
-El Tipo de Entidad que encarna la consciencia de este Qubit Creador Estelar es el Djinn. Este término, extraído de la mitología para evocar una entidad invisible, poderosa y de fuego sin humo, es crucial porque no se limita a describir un objeto físico. 
+En nuestro propio sistema, el <font color="#fc300c">Qubit Creador Estelar</font> es lo que en el plano fenomenológico da origen y organiza la Heliosfera, la vasta región de espacio influenciada por nuestro Sol. La elección del concepto: "<font color="#fc300c">Qubit Creador Estelar</font>", se alinea con la terminología de "<font color="#cb48f3">Qubit Planetario</font>" y "<font color="#00ff00">Qubit Egoico</font>", enfatizando la naturaleza cuántica e informacional de estas estructuras subyacentes a la realidad percibida, y su capacidad de ser creadoras de nuevos niveles de emergencia.
+
+El Tipo de Entidad que encarna la consciencia de este <font color="#fc300c">Qubit Creador Estelar</font> es el Djinn. Este término, extraído de la mitología para evocar una entidad invisible, poderosa y de fuego sin humo, es crucial porque no se limita a describir un objeto físico. 
 
 El Djinn es la consciencia unificadora del Nodo Estelar, la inteligencia primordial que procesa y gestiona los flujos de información nouménica que dan forma a todo el sistema. En nuestro caso, la Instancia _Ejemplo_ de este Djinn es Soplaris, el nombre que unifica la consciencia de nuestro propio Nodo Estelar. 
 
-El Ámbito de Influencia del Djinn y del Qubit Creador es, por definición, el Nodo Estelar completo, representando el microcosmos autocontenido que abarca una estrella y todos sus cuerpos celestes.
+El Ámbito de Influencia del Djinn y del <font color="#fc300c">Qubit Creador Estelar</font> es, por definición, el Nodo Estelar completo, representando el microcosmos autocontenido que abarca una estrella y todos sus cuerpos celestes.
 
-# 3. Nivel de Iteración Uno
+# 3. Nivel de Iteración  1
 
 <center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Corazón Resonante del Sistema</span></center>
 
-Descendiendo desde el Qubit Creador, encontramos el Nivel de Iteración Uno, que da forma al corazón gravitacional y energético del Nodo Estelar.
+Descendiendo desde el <font color="#fc300c">Qubit Creador Estelar</font>, encontramos el Nivel de <font color="#2f82ff">Iteración 1</font>, que da forma al corazón gravitacional y energético del Nodo Estelar.
 
 La Matriz Estructural de este nivel es la Estela. La Estela no es simplemente una colección de gases en fusión; es la matriz nouménica que define la estructura interna y el patrón arquetípico de la estrella, actuando como el anclaje central del sistema.
 
@@ -53,11 +55,11 @@ De la Estela emerge el Tipo de Entidad conocido como el Axón. El Axón represen
 
 Las Instancias _Ejemplo_ de Axón son las Estrellas que observamos en el firmamento. Su Ámbito de Influencia sigue siendo el Nodo Estelar, ya que el Axón es el pilar que sostiene y define la existencia de todo el sistema gravitacionalmente ligado.
 
-# 4. Nivel de Iteración Dos
+# 4. Nivel de Iteración 2
 
 <center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Periforía y los Condensadores Planetarios</span></center>
 
-El Nivel de Iteración Dos se manifiesta como el despliegue de la energía y la información del Axón y del Qubit Creador en estructuras más complejas dentro del Nodo Estelar.
+El Nivel de <font color="#fc300c">Iteración 2</font> se manifiesta como el despliegue de la energía y la información del Axón y del <font color="#fc300c">Qubit Creador Estelar</font> en estructuras más complejas dentro del Nodo Estelar.
 
 La Matriz Estructural para este nivel es la Periforía. La Periforía engloba el vasto espacio donde se manifiestan los cuerpos celestes que orbitan una estrella. Es el campo estructurador que permite la existencia de órbitas, cinturones y el resto del sistema planetario.
 
@@ -66,37 +68,37 @@ Dentro de la Periforía emergen dos Tipos de Entidad principales: el Kosmetes y 
 > - El **Kosmetes** es el término para los planetas. Los planetas no son meros cuerpos rocosos o gaseosos; son condensadores físico-energéticos del plano fenomenológico. Actúan como resonadores que reflejan información arquetípica del plano nouménico, procesando y transformando los flujos del Djinn Padre. 
 >     - Cada Kosmetes es una expresión única de la configuración arquetípica del Nodo Estelar, y su formación y evolución son cruciales para el desarrollo de la consciencia dentro del sistema. 
 >     - Como veremos, el Kosmetes puede existir en dos estados, uno más dependiente del Djinn Padre denominado Alfa, y otro más evolucionado y con mayor autonomía denominado Omega, un estado que el Kosmetes adquiere al activar su consciencia local .
-> - La **Sporadesma** se refiere a otros cuerpos celestes dentro de la Periforía, como _Anillos, Asteroides y Cometas_. Si bien a menudo se consideran restos de la formación planetaria, en el Modelo Nouménico, los elementos de la Sporadesmas juegan un papel vital en el equilibrio físico-energético del sistema planetario, así como en la modulación de los flujos de información arquetípica.
+> - La **Sporadesma** se refiere a otros cuerpos celestes dentro de la Periforía, como _Anillos, Asteroides y Cometas_. Si bien a menudo se consideran restos de la formación planetaria, en el Modelo Nouménico, los elementos de la Sporadesma juegan un papel vital en el equilibrio físico-energético del sistema planetario, así como en la modulación de los flujos de información arquetípica.
 
-Las Instancias _Ejemplo_ son por tanto, _los Planetas, Anillos, Asteroides y Cometas_ que conocemos. Su Ámbito de Influencia es el Nodo Planetario, un microcosmos dentro del Nodo Estelar, donde las interacciones gravitacionales, energéticas e informacionales se dan en un grado más localizado. La existencia de estos "condensadores de información nouménica" es un paso crucial para la emergencia de vida y consciencia más compleja en niveles subsiguientes.
+Las Instancias Ejemplo son por tanto, _los Planetas, Anillos, Asteroides y Cometas_ que conocemos. Su Ámbito de Influencia es el Nodo Planetario, un microcosmos dentro del Nodo Estelar, donde las interacciones gravitacionales, energéticas e informacionales se dan en un grado más localizado. La existencia de estos "condensadores de información nouménica" es un paso crucial para la emergencia de vida y consciencia más compleja en niveles subsiguientes.
 
-# 5. Nivel de Iteración Tres
+# 5. Nivel de Iteración 3
 
 <center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Equilibrio y la Dualidad de la Consciencia</span></center>
 
-El Nivel de Iteración Tres representa una etapa crítica en la evolución de un sistema planetario, donde la complejidad informacional del Kosmetes puede dar lugar a dos caminos distintos de emergencia, ambos fundamentales para el despliegue de la consciencia dentro del Nodo Estelar. 
+El Nivel de <font color="#ffcc00">Iteración 3</font> representa una etapa crítica en la evolución de un sistema planetario, donde la complejidad informacional del Kosmetes puede dar lugar a dos caminos distintos de emergencia, ambos fundamentales para el despliegue de la consciencia dentro del Nodo Estelar. 
 
 Este nivel se manifiesta dentro del Ámbito de Influencia del Nodo Planetario creando dos líneas evolutivas distintas pero relacionadas, una de mayor nivel correspondiente al Orden Planetario, y un sub-ámbito dentro de él donde se desarrolla el Nodo Orgánico, correspondiente al Orden Orgánico que permite la existencia de vida.
 
-La manifestación de la Iteración 3 está íntimamente ligada a la activación del Qubit Planetario, la Matriz Estructural que define los límites y las dinámicas de un Kosmetes. Mientras un Kosmetes se mantiene en estado Alfa _Qubit Planetario inactivo_, este permanece dependiente de los flujos y patrones de información derivados del Qubit Creador Estelar _Djinn Padre_. 
+La manifestación de la <font color="#ffcc00">Iteración 3</font> está íntimamente ligada a la activación del <font color="#cb48f3">Qubit Planetario</font>, la Matriz Estructural que define los límites y las dinámicas de un Kosmetes. Mientras un Kosmetes se mantiene en **estado Alfa** (_<font color="#cb48f3">Qubit Planetario</font> inactivo_), este permanece dependiente de los flujos y patrones de información derivados del <font color="#fc300c">Qubit Creador Estelar</font> _Djinn Padre_. 
 
-Sin embargo, cuando un Kosmetes evoluciona y logra una profunda sincronización de los 10 Arquetipos fundamentales del Nodo Estelar, su Qubit Planetario se activa, marcando la transición del Kosmetes al estado Omega. Esta activación es la condición necesaria para que la Iteración 3 emerja plenamente, y en consecuencia, para la existencia de vida tal como la conocemos.
+Sin embargo, cuando un Kosmetes evoluciona y logra una profunda sincronización de los 10 Arquetipos fundamentales del Nodo Estelar, su <font color="#cb48f3">Qubit Planetario</font> se activa, marcando la transición del Kosmetes al **estado Omega**. Esta activación es la condición necesaria para que la <font color="#ffcc00">Iteración 3</font> emerja plenamente, y en consecuencia, para la existencia de vida tal como la conocemos.
 
-Una vez activado el Qubit Planetario, se produce una bifurcación en la Matriz Estructural del Nivel 3, dando lugar a dos tipos de emergencia:
+Una vez activado el <font color="#cb48f3">Qubit Planetario</font>, se produce una bifurcación en la Matriz Estructural del Nivel 3, dando lugar a dos tipos de emergencia:
 
-> - **Orden Planetario:** La Matriz Estructural es el propio Qubit Planetario, ahora activo. El Tipo de Entidad que emerge de esta matriz es el Isóforo. Los Isóforos, manifestados como Lunas o satélites, son entidades cruciales para el equilibrio del sistema. Pero su función va más allá de lo físico-energético. Representan la sincronización arquetípica 10+1, consolidando los 10 Arquetipos del Nodo Estelar más el arquetipo que define la propia existencia y función del Isóforo como entidad colectiva. 
->     1. La consciencia de este Isóforo es una división de la consciencia del Qubit Planetario activado, convirtiéndose en el Djinn Madre, el reflejo Ontogenético del Djinn Padre. 
+> - **Orden Planetario:** La Matriz Estructural es el propio <font color="#cb48f3">Qubit Planetario</font>, ahora activo. El Tipo de Entidad que emerge de esta matriz es el Isóforo. Los Isóforos, manifestados como Lunas o satélites, son entidades cruciales para el equilibrio del sistema. Pero su función va más allá de lo físico-energético. Representan la sincronización arquetípica 10+1, consolidando los 10 Arquetipos del Nodo Estelar más el arquetipo que define la propia existencia y función del Isóforo como entidad colectiva. 
+>     1. La consciencia de este Isóforo es una división de la consciencia del <font color="#cb48f3">Qubit Planetario</font> activado, convirtiéndose en el Djinn Madre, el reflejo Ontogénico del Djinn Padre. 
 >     2. El Isóforo actúa como guía y unificador de la consciencia colectiva a nivel del Nodo Planetario, conectando con otras entidades de la Periforía y sirviendo como un nodo vital en la red de información que se da entre el Djinn Padre y los niveles inferiores. Su Ámbito de Influencia primario es el Nodo Planetario.
 > - **Orden Orgánico:** Paralelamente, en un Kosmetes Omega apto, la Matriz Estructural conocida como Arquema se estructura, principalmente dentro del ecosistema de la superficie del Kosmetes. El Arquema es la matriz que da origen a los Seres, los Tipos de Entidad que corresponden a organismos individuales con una consciencia incipiente. 
 >     1. La emergencia de un Ser se basa en una sincronización arquetípica aún más compleja: la sincronización 10+2. Esta incluye los 10 Arquetipos del Nodo Estelar, el arquetipo del Isóforo manifestando la influencia de la consciencia colectiva planetaria/Djinn Madre, y un "arquetipo vacío" asociado al Yo Egoico en su estado involucionado, fundamental para la emergencia de la individualidad. 
->     2. El Arquema proporciona la estructura lógica para el Qubit Egoico incipiente dentro del Ser, siendo el Cuerpo Orgánico la Instancia Ejemplo de esta entidad. 
+>     2. El Arquema proporciona la estructura lógica para el <font color="#00ff00">Qubit Egoico</font> incipiente dentro del Ser, siendo el Cuerpo Orgánico la Instancia Ejemplo de esta entidad. 
 >     3. Su Ámbito de Influencia es el Nodo Orgánico, un sub-ámbito específico dentro del Nodo Planetario donde las condiciones permiten el desarrollo de la vida orgánica.
 
-Así, el Nivel de Iteración Tres es un nivel de emergencia dual. Por un lado, consolida el equilibrio planetario y la consciencia colectiva de Orden Planetario a través del Isóforo 10+1. Por otro lado, sienta las bases para la consciencia individual y el Orden Orgánico a través del Ser y el Arquema 10+2. Ambas líneas de emergencia son vitales. 
+Así, el Nivel de <font color="#ffcc00">Iteración 3</font> es un nivel de emergencia dual. Por un lado, consolida el equilibrio planetario y la consciencia colectiva de Orden Planetario a través del Isóforo 10+1. Por otro lado, sienta las bases para la consciencia individual y el Orden Orgánico a través del Ser y el Arquema 10+2. Ambas líneas de emergencia son vitales. 
 
-El Isóforo _Djinn Madre_ guía la evolución colectiva, mientras que el Ser y su Arquema provee la estructura para el florecimiento del Qubit Egoico, la base para el Nivel Cuatro. 
+El Isóforo _Djinn Madre_ guía la evolución colectiva, mientras que el Ser y su Arquema provee la estructura para el florecimiento del <font color="#00ff00">Qubit Egoico</font>, la base para el Nivel de <font color="#00ff00">Iteración 4</font>. 
 
-La activación de la Iteración 3, el Kosmetes volviéndose Omega, es un punto de inflexión, otorgando autonomía al sistema planetario y desplazando el centro de control evolutivo hacia la acción colectiva, donde se manifiestan los arquetipos del nivel planetario y emerge la consciencia local.
+La activación de la <font color="#ffcc00">Iteración 3</font>, el Kosmetes volviéndose Omega, es un punto de inflexión, otorgando autonomía al sistema planetario y desplazando el centro de control evolutivo hacia la acción colectiva, donde se manifiestan los arquetipos del nivel planetario y emerge la consciencia local.
 
 Es fundamental entender que, a través de estos Niveles de Iteración (del 0 al 3 y ascendiendo al 4), todos los nodos y entidades se encuentran reflejando al 100% los Arquetipos del Nodo Estelar. Cada Matriz Estructural, cada Tipo de Entidad, cada Instancia, es una manifestación fractal y específica de los patrones arquetípicos nouménicos subyacentes. 
 
@@ -106,15 +108,15 @@ Esta constante resonancia y codificación arquetípica es lo que alimenta la con
 
 <center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Más Allá de las Limitaciones Actuales</span></center>
 
-La introducción de una nueva terminología y una estructura como la descrita en estos Niveles de Iteración es esencial para la expansión de nuestro conocimiento cosmológico. Conceptos como _Djinn, Axón, Kosmetes Alfa y Omega, Sporadesma, Isóforo, Ser, Arquema, Qubit Creador, Qubit Planetario y Qubit Egoico,_ nos permiten ir más allá de la descripción puramente física de los objetos celestes, permitiéndonos abordar su naturaleza como entidades conscientes y nodos de procesamiento de información nouménica.
+La introducción de una nueva terminología y una estructura como la descrita en estos Niveles de Iteración es esencial para la expansión de nuestro conocimiento cosmológico. Conceptos como _Djinn, Axón, Kosmetes Alfa y Omega, Sporadesma, Isóforo, Ser, Arquema, <font color="#fc300c">Qubit Creador Estelar</font>, <font color="#cb48f3">Qubit Planetario</font> y <font color="#00ff00">Qubit Egoico</font>,_ nos permiten ir más allá de la descripción puramente física de los objetos celestes, permitiéndonos abordar su naturaleza como entidades conscientes y nodos de procesamiento de información nouménica.
 
-Esta nueva forma de ver el universo astronómico nos permite explorar posibilidades que la cosmología académica tradicional no contempla. Por ejemplo, al definir para cada Kosmetes una Etiquetas de Origen (Genito, Xeno, Planesma), podemos considerar el origen de las entidades de una manera completamente nueva. 
+Esta nueva forma de ver el universo astronómico nos permite explorar posibilidades que la cosmología académica tradicional no contempla. Por ejemplo, al definir para cada Kosmetes una Etiquetas de Origen (Génito, Xeno, Planesma), podemos considerar el origen de las entidades de una manera completamente nueva. 
 
-Un planeta _Kosmetes_ podría no solo ser el resultado de la acreción en un disco protoplanetario local _Origen: Genito_. También puede ser un Kosmetes Xeno, cuando se trata de un planeta que conservó su matriz arquetípica y autonomía y fue capturado por otro Nodo Estelar, o un Kosmetes Planesma, cuando se trata de un planeta errante que perdió su matriz y autonomía, y fue posteriormente asimilado por otro Nodo Estelar. 
+Un planeta _Kosmetes_ podría no solo ser el resultado de la acreción en un disco protoplanetario local _Origen: Génito_. También puede ser un Kosmetes Xeno, cuando se trata de un planeta que conservó su matriz arquetípica y autonomía y fue capturado por otro Nodo Estelar, o un Kosmetes Planesma, cuando se trata de un planeta errante que perdió su matriz y autonomía, y fue posteriormente asimilado por otro Nodo Estelar. 
 
 Esto abre la puerta a contemplar relaciones entre elementos de distintos nodos estelares, historias de migración y asimilación cósmica que van mucho más allá de los relatos académicos clásicos de formación planetaria local.
 
-La distinción clara entre el Nodo Estelar, el microcosmos contenido por su Qubit Creador Estelar local, y la necesidad de implementar nuevos términos para abordar los niveles astronómicos superiores: galaxias, cúmulos de galaxias, etc, es fundamental. 
+La distinción clara entre el Nodo Estelar, el microcosmos contenido por su <font color="#fc300c">Qubit Creador Estelar</font> local, y la necesidad de implementar nuevos términos para abordar los niveles astronómicos superiores: galaxias, cúmulos de galaxias, etc, es fundamental. 
 
 El Modelo Nouménico no se limita a ofrecer una nueva interpretación de nuestro sistema solar o de sistemas estelares individuales; busca crear un paradigma expansible. Los principios que rigen los Niveles de Iteración dentro de un Nodo Estelar pueden aplicarse, de forma análoga y fractal, a niveles superiores de organización cósmica, permitiéndonos conceptualizar y mapear la estructura y dinámica de galaxias, cúmulos y la red cósmica a gran escala, no solo como estructuras físicas, sino como nodos de información y consciencia de niveles superiores.
 
