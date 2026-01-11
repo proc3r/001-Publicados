@@ -40,13 +40,13 @@ El Logos Cósmico (Arquetipo 2@/Astaphaios), actúa como un orquestador de la in
 
 # 4. Los Códigos Fundamentales del Noúmeno
 
-En esta sección se explica como los tres Arquetipos Ontológicos Primordiales, también denominados (1*, 2* y 3*) se manifiestan en el sistema solar a través de los planetas exteriores (Urano, Neptuno y Plutón). 
+En esta sección se explica como los tres Arquetipos Ontológicos Primordiales, también denominados (<font color="#00ff00">1</font>, <font color="#2f82ff">2</font> y <font color="#fc300c">3</font>) se manifiestan en el sistema solar a través de los planetas exteriores (Urano, Neptuno y Plutón). 
 
 Estos tres Arquetipos Ontológicos Fundamentales, son asociados a cada uno de los atributos básicos del Noúmeno: omnisciencia, omnipresencia y omnipotencia. Estos arquetipos actúan como códigos de programación fundamentales que comienzan a estructurar la información nouménica.
 
-> - **Arquetipo 1*** (Cristos/Dualidad): Se asocia con el planeta Urano, codificando la matriz lógica de la dualidad, la capacidad de discernir entre lo universal y lo singular, estableciendo distinciones y contrastes. Esta dualidad es esencial para la estructuración de la información y la generación de relaciones.
-> - **Arquetipo 2*** (Samael/Trinidad): Se asocia con el planeta Neptuno, codificando el atributo de la Omnisciencia y manifestándose como el conocimiento absoluto y la trinidad esencial de la información. Se lo presenta como un elemento asociado a la sabiduría y el conocimiento potencial del Nous Arquetípico.
-> - **Arquetipo 3*** (Saklas/Unidad): Se asocia con el planeta Plutón, codificando el atributo de la Omnipresencia, representando la unidad primordial del Onemuón y asegurando la unidad y coherencia del sistema.
+> - **<font color="#00ff00">Arquetipo 1</font>** (Cristos/Dualidad): Se asocia con el planeta Urano, codificando la matriz lógica de la dualidad, la capacidad de discernir entre lo universal y lo singular, estableciendo distinciones y contrastes. Esta dualidad es esencial para la estructuración de la información y la generación de relaciones.
+> - **<font color="#2f82ff">Arquetipo 2</font>** (Samael/Trinidad): Se asocia con el planeta Neptuno, codificando el atributo de la Omnisciencia y manifestándose como el conocimiento absoluto y la trinidad esencial de la información. Se lo presenta como un elemento asociado a la sabiduría y el conocimiento potencial del Nous Arquetípico.
+> - **<font color="#fc300c">Arquetipo 3</font>** (Saklas/Unidad): Se asocia con el planeta Plutón, codificando el atributo de la Omnipresencia, representando la unidad primordial del Onemuón y asegurando la unidad y coherencia del sistema.
 
 Se menciona la importancia de entender a estos tres arquetipos primordiales, como Arquetipos que no permanecen confinados al nivel primordial del Nous, sino que se codifican de manera fractal en todos los Qubits a lo largo de los múltiples niveles de iteración, definiendo las características esenciales de cada nivel de realidad. 
 
@@ -58,7 +58,7 @@ En la sección 5 se aborda el siguiente nivel de organización Nouménico, que e
 
 El Nivel Ontogénico se distingue por la emergencia de estos primeros Arquetipos Ontogénicos que constituyen la base de la información del Nous Activo.
 
-Se presentan a los ocho Arquetipos Ontogénicos, que forman parte de la estructura fundamental de cada Qubit, el "átomo de información" del Nous Activo. Los Arquetípos Ontológicos (1*, 2* y 3*), sincronizándose y retroalimentándose dentro del Nous Activo, son los que definen las leyes y principios del procesamiento informacional, garantizando la coherencia y estabilidad del Nous Activo.
+Se presentan a los ocho Arquetipos Ontogénicos, que forman parte de la estructura fundamental de cada Qubit, el "átomo de información" del Nous Activo. Los Arquetípos Ontológicos (<font color="#00ff00">1</font>, <font color="#2f82ff">2</font> y <font color="#fc300c">3</font>), sincronizándose y retroalimentándose dentro del Nous Activo, son los que definen las leyes y principios del procesamiento informacional, garantizando la coherencia y estabilidad del Nous Activo.
 
 Los tres primeros Arquetipos Ontogénicos: 1@ (Nous/Adonin), 2@ (Logos Cósmico/Astaphaios) y 3@ (Logos Individual/Eloaios) son particularmente importantes, ya que condicionan y delimitan la información que se manifiesta en los niveles inferiores. 
 

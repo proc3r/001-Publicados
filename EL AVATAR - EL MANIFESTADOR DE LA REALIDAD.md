@@ -10,9 +10,9 @@ Este proceso de síntesis y diferenciación que genera el Avatar, permite a su v
 
 Estas cualidades que poseen todos los Qubits@, se originan a partir del **2º Nivel de Autoconsciencia** del Nous Arquetípico, derivado de la unificación vectorial que genera el <font color="#ffcc00">Arquetipo 3@</font> (Logos Individual), de las lógicas que rigen el funcionamiento de los tres Arquetipos Ontológicos:
 
-> <font color="#00ff00">Arquetipo 1</font> : La *dualidad omnipresente* que emerge de la sínstesis entre opuestos, y que denominamos como <font color="#00ff00">Cristos</font>.
-> <font color="#2f82ff">Arquetipo 2</font>: La *trinidad omnisciente* que explora de la potencialidad del Noúmeno para actuar como <font color="#2f82ff">Antitesis Ontológica</font>, y que denominados <font color="#2f82ff">Samael</font>.
-> <font color="#fc300c">Arquetipo 3</font>: La *unidad omnipotente* que denominados <font color="#fc300c">Saklas</font>, y que incluye tanto a:
+> <font color="#00ff00">Arquetipo 1</font> : La *dualidad omnipresente* que emerge de la síntesis entre opuestos, y que denominamos como <font color="#00ff00">Cristos</font>.
+> <font color="#2f82ff">Arquetipo 2</font>: La *trinidad omnisciente* que explora de la potencialidad del Noúmeno para actuar como <font color="#2f82ff">Antitesis Ontológica</font>, y que denominamos <font color="#2f82ff">Samael</font>.
+> <font color="#fc300c">Arquetipo 3</font>: La *unidad omnipotente* que denominamos <font color="#fc300c">Saklas</font>, y que incluye tanto a:
 >     - <font color="#fc300c">Saklas</font><sup><font color="#fc300c">1</font></sup>: Cada unidad mínima de individualidad (Onemuones) que constituye esa totalidad.
 >     - <font color="#fc300c">Saklas</font><sup><font color="#00ff00">2</font></sup>: La potencialidad del Noúmeno como realidad última.
 >     - <font color="#fc300c">Saklas</font><sup><font color="#2f82ff">3</font></sup>: Cada instancia de exploración que genera la *trinidad* (<font color="#2f82ff">Samael</font>) como parte de la totalidad mayor (<font color="#fc300c">Saklas</font><sup><font color="#00ff00">2</font></sup>). Esta estructura fractal y multidimensional del<font color="#fc300c"> Arquetipo 3</font> es lo que se refleja dentro de la *dualidad* (<font color="#00ff00">Cristos</font>) como una <font color="#fc300c">Tesis Ontológica</font> de consciencia.
