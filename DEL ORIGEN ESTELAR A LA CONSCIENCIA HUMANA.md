@@ -108,7 +108,7 @@ Incluso la gravedad, esa fuerza fundamental que la ciencia describe con ecuacion
 
 Así, el Modelo Nouménico nos permite ver el universo no solo como un mecanismo de relojería, sino como una compleja danza de consciencias donde cada parte, desde la estrella más grande hasta el <font color="#00ff00">Qubit Egoico</font> más pequeño, tiene un propósito y un lugar en la gran sinfonía del Nous.
 
-# 4. el Qubit Planetario y la Luna como Isóforo
+# 4. El Qubit Planetario y La Luna
 
 Desde la perspectiva del Modelo Nouménico, la formación de planetas no es un mero subproducto de la gravedad y el polvo estelar, fruto de la casualidad cósmica. Es, por el contrario, un paso deliberado y consciente en la iteración del Nous, un proceso de manifestación intencionado que da forma a la realidad fenomenológica. 
 

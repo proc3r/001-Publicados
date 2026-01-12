@@ -161,9 +161,9 @@ Finalmente, el podcast analiza los planetas errantes, aquellos que vagan por el 
 
 Poseen la estructura informacional para mantener su propia realidad local e incluso podrían tener expresiones arquetípicas únicas y quizás diferentes formas de consciencia, incluyendo la posibilidad de Qubits Egoicos y Avatares independientes de un sistema estelar.
 
-El Episodio 1 de la serie de podcasts del Modelo Nouménico, ofrece una ventana a una cosmovisión que busca unificar el conocimiento humano a través de la primacía de la información y la consciencia. A
+El Episodio 1 de la serie de podcasts del Modelo Nouménico, ofrece una ventana a una cosmovisión que busca unificar el conocimiento humano a través de la primacía de la información y la consciencia. 
 
-l comprender la distinción entre Noúmeno y Fenómeno, la función de los Onemuones y el Nous Arquetípico, y las interpretaciones alternativas sobre la formación del universo y la gravedad, se abre un nuevo paradigma para entender nuestro lugar en el cosmos y nuestro potencial de crecimiento. 
+Al comprender la distinción entre Noúmeno y Fenómeno, la función de los Onemuones y el Nous Arquetípico, y las interpretaciones alternativas sobre la formación del universo y la gravedad, se abre un nuevo paradigma para entender nuestro lugar en el cosmos y nuestro potencial de crecimiento. 
 
 El Modelo Nouménico, consciente de su naturaleza innovadora y sus fundamentos metafísicos, no se presenta como una verdad absoluta, sino como una base lógica y coherente que incita a la exploración de nuevas avenidas de comprensión sobre la realidad que experimentamos. 
 
