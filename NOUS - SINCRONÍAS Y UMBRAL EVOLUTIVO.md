@@ -16,7 +16,7 @@ Este viaje nos lleva a considerar el siglo actual como un posible "Juicio Final"
 
 Desde las profundidades de la reflexión metafísica hasta los confines de la física cuántica más especulativa, la naturaleza fundamental de la realidad ha sido un enigma persistente, un velo que la conciencia ha intentado descorrer a lo largo de eones. 
 
-Si bien la experiencia cotidiana nos ancla en un mundo de objetos tangibles, de sensaciones perceptibles y de eventos que se desarrollan en el tiempo y el espacio tridimensional, el Modelo Nouménico nos invita a trascender esta manifestación fenomenológica para contemplar una verdad más profunda: *que la totalidad de lo que conocemos como civilización, con sus intrincadas estructuras sociales, económicas, políticas y culturales, no es sino una realidad abstracta, una vasta matriz mental que emerge y se sostiene a través de la interconectada red neuronal de la humanidad*. 
+Si bien la experiencia cotidiana nos ancla en un mundo de objetos tangibles, de sensaciones perceptibles y de eventos que se desarrollan en el tiempo y el espacio tridimensional, el Modelo Nouménico nos invita a trascender esta manifestación fenomenológica para contemplar una verdad más profunda: que la totalidad de lo que conocemos como civilización, con sus intrincadas estructuras sociales, económicas, políticas y culturales, no es sino una realidad abstracta, una vasta matriz mental que emerge y se sostiene a través de la interconectada red neuronal de la humanidad. 
 
 Esta no es una mera metáfora poética, sino una postulación fundamental que sitúa la conciencia humana en el epicentro de la creación y validación de nuestra realidad compartida.
 
