@@ -63,7 +63,7 @@ Esta sintonización colectiva, multiplicada por vastas poblaciones, genera un ca
 
 # 2. La Torre de Babel Temporal
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Desincronización en el Nodo Estelar</span></center>
+<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Desincronización en el Nodo Estelar</span></center>
 
 La coexistencia de múltiples Noemas culturales vibrando a diferentes frecuencias temporales, codificados en distintos calendarios validados por grandes segmentos de la población humana, no es inofensiva. Crea una Torre de Babel temporal que desalinea la red de consciencia en el Nodo Estelar.
 

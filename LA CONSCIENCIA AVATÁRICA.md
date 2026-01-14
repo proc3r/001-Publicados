@@ -1,4 +1,4 @@
-![[Consciencia Avatarica.png]]
+![[Consciencia Avatarica.jpg]]
 
 En el vasto y complejo tapiz del Modelo Nouménico, la realidad se despliega a través de una serie de Niveles de Iteración, cada uno representando una capa de emergencia fractal desde la totalidad arquetípica del Origen hasta las manifestaciones más concretas dentro del plano fenoménico. 
 
