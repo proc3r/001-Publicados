@@ -10,7 +10,7 @@ Estos niveles son anidaciones de información nouménica que se manifiestan en e
 
 Este cuarto nivel es donde la complejidad inherente a la matriz fenomenológica de un Kosmetes alcanza su máxima expresión, dando origen a la Entidad Avatar, cuya Matriz Estructural es el Qubit Egoico. 
 
-El Avatar es la manifestación del Ser que ha logrado un grado de autoconsciencia, experiencia y capacidad de interconexión que trasciende los niveles de iteración previos, configurándose como un puente entre la realidad percibida y los flujos nouménicos fundamentales.
+El Avatar es la manifestación del Ser que ha logrado un grado de autoconsciencia, experiencia y capacidad de interconexión que trasciende los niveles de iteración previos, configurándose como un puente entre la realidad percibida y los flujos nouménicos fundamentales. ^avatar
 
 # 2. El Qubit Egóico
 
