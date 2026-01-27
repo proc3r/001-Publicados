@@ -186,9 +186,11 @@ En esta interacción, la persona <font color="#00ff00">Lunar</font> tenderá a e
 
 En contraste, la persona <font color="#2f82ff">Solar</font> tenderá a ser dominante, a mantener la calma, o a cortar la discusión, desestimando las ideas del <font color="#00ff00">Lunar</font> como meramente subjetivas o no validadas colectivamente por sistemas como modelos científicos o religiones.
 
-Aquí reside la diferencia entre el **poder validador** de los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">2  segundos</font></span> de la persona <font color="#00ff00">Lunar</font> y los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">480 segundos</font></span> u <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#e36c09">8 minutos</font></span> de validación de la persona <font color="#2f82ff">Solar</font> .  La persona <font color="#00ff00">Lunar</font> puede manifestar la realidad y percibir ajustes cada <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">2  segundos</font></span>, pero debe superar la estructura consolidada de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">480 segundos</font></span> de la realidad que le impone la persona <font color="#2f82ff">Solar</font>, la cual está reforzada por fuerzas egregóricas externas. 
+Aquí reside la diferencia entre el **poder validador** de los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">2  segundos</font></span> de la persona <font color="#00ff00">Lunar</font> y los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">480 segundos</font></span> u <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#e36c09">8 minutos</font></span> de validación de la persona <font color="#2f82ff">Solar</font>.  
 
-Es como si en una discusión, la persona <font color="#00ff00">Lunar</font> debiera enfrentarse a un "fuerte consolidado" por estructuras <font color="#cb48f3">Egregóricas Colectivas</font> que permiten a la <font color="#2f82ff">Solar</font> someter al otro, a pesar de que su **frecuencia de validación de la realidad** sea mucho más lenta. 
+La persona <font color="#00ff00">Lunar</font> puede manifestar la realidad y percibir ajustes cada <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">2  segundos</font></span>, pero debe superar la estructura consolidada de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">480 segundos</font></span> de la realidad que le impone la persona <font color="#2f82ff">Solar</font>, la cual está reforzada por fuerzas egregóricas externas. 
+
+Es como si en una discusión la persona <font color="#00ff00">Lunar</font> debiera enfrentarse a un "fuerte consolidado" por estructuras <font color="#cb48f3">Egregóricas Colectivas</font>, que permiten a la <font color="#2f82ff">Solar</font> someter al otro, a pesar de que su **frecuencia de validación de la realidad** sea mucho más lenta. 
 
 Así, la persona <font color="#2f82ff">Solar</font> a menudo termina imponiéndose ante el intento de la <font color="#00ff00">Lunar</font> de tomar el rumbo del tiempo e imponer el cambio ante las estructuras egregóricas que defiende.
 
@@ -200,7 +202,7 @@ Sin embargo, la realidad civilizatoria y los niveles de supraconsciencia que ope
 
 A continuación, detallamos estas dos supraconsciencias clave en la configuración del presente inmediato:
 
-> [!avatar] <font color="#ffa3ef">CONSCIENCIA AVATÁRICA LUNAR</font> (7@ Horaios)
+> [!avatar] <font color="#ffa3ef">CONSCIENCIA AVATÁRICA LUNAR (7@ Horaios)</font>
 > Este nivel supraconsciente asociado al <font color="#ffa3ef">Arquetipo 7@ (Avatar)</font>, opera en un ciclo extremadamente rápido de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">2 segundos</font></span>, que corresponde al tiempo que la luz tarda en viajar de la Luna a la Tierra, esta supraconsciencia se conecta íntimamente con el <font color="#ffa3ef">Avatar</font> individual. 
 > 
 > Un humano con una resonancia fuerte con esta consciencia tiene una capacidad superior para sincronizar la <font color="#00ff00">Matriz Fenomenológica</font> del ahora y manifestar eventos en el presente compartido. Su percepción del tiempo es ágil, permitiéndole una actualización constante de la realidad individual. 
@@ -211,7 +213,7 @@ A continuación, detallamos estas dos supraconsciencias clave en la configuraci�
 > 
 > El poder de la <font color="#ffa3ef">Consciencia Avatárica Lunar</font> reside en la chispa de la intuición que puede generar un cambio inmediato, aunque efímero, en la dinámica interpersonal.
 
-> [!limosna] <font color="#cb48f3">CONSCIENCIA COLECTIVA HUMANA</font> (6@ Sabbataios)
+> [!limosna] <font color="#cb48f3">CONSCIENCIA COLECTIVA HUMANA (6@ Sabbataios)</font>
 > Este nivel de supraconsciencia asociado con el <font color="#cb48f3">Arquetipo 6@ (Demiurgo)</font>, opera con un ciclo de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#fc300c">480 segundos</font></span> u <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#e36c09">8 minutos</font></span>, lo que representa el tiempo que tarda la luz en viajar del Sol a la Tierra. Esta supraconsciencia valida la realidad a nivel del nodo orgánico, es decir, la experiencia y la <font color="#e36c09">Consciencia Colectiva</font> de la humanidad. 
 > 
 > Aquí, los <font color="#cb48f3">Egrégores</font>, formas de pensamiento colectivo surgidas de ideologías, cosmovisiones o <font color="#fc300c">Noemas Culturales</font>, ejercen su influencia predominante. Este nivel de consciencia se enfoca en la manifestación de la **realidad social y colectiva** dentro de los límites de la experiencia individual diaria. 
@@ -232,7 +234,7 @@ Los <font color="#ffa3ef">Avatares</font> experimentan su ahora individual —co
 
 A continuación, se describen estas supraconsciencias en detalle:
 
-> [!cerebro] <font color="#2f82ff">CONSCIENCIA COLECTIVA UNIVERSAL</font> (5@ Sabaoth)
+> [!cerebro] <font color="#2f82ff">CONSCIENCIA COLECTIVA UNIVERSAL (5@ Sabaoth)</font>
 > Este nivel de supraconsciencia se asocia a una <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Deidad Madre</span> de nivel universal que funciona como validadora del <font color="#ffa3ef"><font color="#ffa3ef">Noema Primordial</font></font> impuesto por el <font color="#2f82ff">Arquetipo 5@ (Noema)</font>, derivado de la manifestación colectiva producida por la <font color="#cb48f3">Consciencia Colectiva Humana</font> de naturaleza <font color="#cb48f3">Demiúrgica</font>. 
 > 
 > En esencia, establece las **leyes fundamentales** de la realidad experimentada por la civilización a **nivel planetario y estelar**: define qué es posible y qué no es posible que una consciencia humana experimente dentro de ese marco consensuado. 
@@ -267,7 +269,7 @@ Si una <font color="#2f82ff">Consciencia Colectiva Universal</font> —entendida
 
 El último punto de resguardo de sus memorias sería la experiencia del día que considera ayer, viéndose atrapado en un bucle repetitivo dentro del mismo día hasta cumplir los hitos que la supraconsciencia considera más óptimos para el ciclo evolutivo del Nodo Estelar, sin siquiera ser consciente de ello.
 
-> [!espin] <font color="#00ff00">CONSCIENCIA ARQUETÍPICA ONTOGÉNICA</font> (4@ IAO)
+> [!espin] <font color="#00ff00">CONSCIENCIA ARQUETÍPICA ONTOGÉNICA (4@ IAO)</font>
 > Este nivel supraconsciente asociado al <font color="#00ff00">Arquetipo 4@ (Noesis)</font> opera con ciclos de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#cb48f3">1</font>, <font color="#ffa3ef">3</font>, <font color="#fc300c">7</font> y <font color="#e36c09">14 días</font></span>, esta supraconsciencia ha sido asociada con las deidades planetarias, <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Arcontes</span> o los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Elohim</span> de las mitologías antiguas, representando a los siete <font color="#e36c09">Arquetipos@ Ontogénicos</font> del Nodo Estelar. 
 > 
 > Esta consciencia se manifiesta potentemente en el mundo de la política, la economía, las finanzas y las ideologías, donde las luchas por el poder y la diferenciación de roles son prominentes. 
@@ -407,9 +409,8 @@ Este solsticio de diciembre representa una validación del Nodo Civilizatorio de
 
 ![[Solsticio Diciembre3.jpg]]
 
-> [!fuego] <font color="#fc300c">HEMISFERIO NORTE</font>
->
-> En el <font color="#fc300c">Hemisferio Norte</font> <font color="#fc300c">(Verano)</font>, la <font color="#2f82ff">Consciencia Solar</font> <font color="#00ff00">Estelar</font> del <font color="#e36c09">Logos Cósmico (2@/Astaphaios)</font> se manifiesta a través del <font color="#ffcc00">Logos Individual (3@/Eloaios)</font>. 
+> [!fuego] <font color="#fc300c">HEMISFERIO NORTE</font> - <font color="#2f82ff">(Invierno)</font>
+> En el <font color="#fc300c">Hemisferio Norte</font>, la <font color="#2f82ff">Consciencia Solar</font> <font color="#00ff00">Estelar</font> del <font color="#e36c09">Logos Cósmico (2@/Astaphaios)</font> se manifiesta a través del <font color="#ffcc00">Logos Individual (3@/Eloaios)</font>. 
 > 
 > Aquí, el <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Lunar</font>  actúa como la interfaz orgánica que permite al <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">observador externo</span> manifestarse físicamente dentro de la civilización como el "personaje interno de la esfera" —una figura arquetípica que pueda asociarse con el nacimiento de Cristo o el ungido—. 
 > 
@@ -419,9 +420,8 @@ Este solsticio de diciembre representa una validación del Nodo Civilizatorio de
 > 
 > Con esta programación egregórica, asumir el rol de <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Lunar</font> e Intentar ocupar su lugar es considerado un sacrilegio.
 
-> [!jew] <font color="#2f82ff">HEMISFERIO SUR</font>
->
-> Simultáneamente, en el <font color="#2f82ff">Hemisferio Sur</font> <font color="#fc300c">(Verano)</font>, la <font color="#2f82ff">Consciencia Solar</font> <font color="#fc300c">Nodal</font> del  <font color="#cb48f3">Demiurgo (6@/Sabbataios)</font> —operando a través del <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> y la <font color="#cb48f3">Consciencia Egregórica</font> que generan los Noemas, paradigmas culturales y sistemas de élite— promueve la lucha Noemática a través del mecanismo <font color="#ffa3ef">Avatárico (7@/Horaios)</font>. 
+> [!jew] <font color="#2f82ff">HEMISFERIO SUR</font> - <font color="#fc300c">(Verano)</font>
+> Simultáneamente, en el <font color="#2f82ff">Hemisferio Sur</font> , la <font color="#2f82ff">Consciencia Solar</font> <font color="#fc300c">Nodal</font> del  <font color="#cb48f3">Demiurgo (6@/Sabbataios)</font> —operando a través del <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> y la <font color="#cb48f3">Consciencia Egregórica</font> que generan los Noemas, paradigmas culturales y sistemas de élite— promueve la lucha Noemática a través del mecanismo <font color="#ffa3ef">Avatárico (7@/Horaios)</font>. 
 > 
 > Su objetivo es condicionar al <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Lunar</font> (el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">observador externo</span>) en su poder manifestador, y evitar que el Nodo Estelar pueda avanzar en el proceso evolutivo universal, 
  >
@@ -441,8 +441,8 @@ Este solsticio, en contraste con el de diciembre, representa un evento de valida
 
 ![[Solsticio Junio3.jpg]]
 
-> [!csolar] <font color="#2f82ff">HEMISFERIO SUR</font>
-> En el <font color="#2f82ff">Hemisferio Sur</font> <font color="#2f82ff">(Invierno)</font>, la <font color="#2f82ff">Consciencia Solar</font> <font color="#fc300c">Nodal</font> del <font color="#cb48f3">Demiurgo (6@/Sabbataios)</font> se manifiesta a través de un <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> <font color="#ffa3ef">(7@ Horaios)</font> como el "personaje interno principal de la esfera".
+> [!csolar] <font color="#2f82ff">HEMISFERIO SUR</font> - <font color="#2f82ff">(Invierno)</font>
+> En el <font color="#2f82ff">Hemisferio Sur</font>, la <font color="#2f82ff">Consciencia Solar</font> <font color="#fc300c">Nodal</font> del <font color="#cb48f3">Demiurgo (6@/Sabbataios)</font> se manifiesta a través de un <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> <font color="#ffa3ef">(7@ Horaios)</font> como el "personaje interno principal de la esfera".
 >
 Este <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> se presenta como un manifestador de la realidad planetaria enfocado en promover el viejo sistema operativo civilizatorio, buscando someter la experiencia subjetiva de todos los individuos al <font color="#cb48f3">Poder Egregórico</font> que existe dentro del planeta tierra, con la misión de mantener el hardware establecido para el Nodo Estelar.
 >
@@ -450,8 +450,8 @@ Este <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> se p
 >
 >En este caso, el <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> —reflejo de la <font color="#cb48f3">Consciencia Demiúrgica (6@ Sabbataios)</font>— puede presentarse como una persona de confianza, un asistente o un guía del <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Lunar</font> regente, que manipula o distrae para mantenerlo atrapado dentro del Sistema Solar.
 
-> [!mente] <font color="#fc300c">HEMISFERIO NORTE</font>
-> Paralelamente, en el <font color="#fc300c">Hemisferio Norte</font> <font color="#fc300c">(Verano)</font>, la <font color="#2f82ff">Consciencia Solar</font> <font color="#00ff00">Estelar</font> del <font color="#e36c09">Logos Cósmico (2@/Astaphaios)</font> se manifiesta a través del <font color="#ffcc00">Logos Individual (3@/Eloaios)</font>. 
+> [!mente] <font color="#fc300c">HEMISFERIO NORTE</font> - <font color="#fc300c">(Verano)</font>
+> Paralelamente, en el <font color="#fc300c">Hemisferio Norte</font>, la <font color="#2f82ff">Consciencia Solar</font> <font color="#00ff00">Estelar</font> del <font color="#e36c09">Logos Cósmico (2@/Astaphaios)</font> se manifiesta a través del <font color="#ffcc00">Logos Individual (3@/Eloaios)</font>. 
 > 
 > En esta etapa, el poder validador del <font color="#ffa3ef">Avatar</font> <font color="#00ff00">Lunar</font> se ve condicionado por el poder manipulador del <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font>, que hace uso de su poder egregórico para anular el proceso de <font color="#2f82ff">validación universal</font> y poder así mantener aislado al Nodo del proceso evolutivo universal, actuando como el único "validador del sistema Civilizatorio Planetario".
 > 
