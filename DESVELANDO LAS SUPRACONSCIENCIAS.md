@@ -16,7 +16,7 @@ Este modelo postula que la existencia no se limita a lo observable y cuantificab
 
 En el corazón de esta concepción reside la noción de supraconsciencias. No se trata de deidades antropomórficas ni de seres extraterrestres en el sentido convencional, sino de nodos algorítmicos fundamentales que constituyen la esencia misma de un Nodo Estelar. 
 
-Estos <span style="font-size: large; font-style: italic; font-family: 'lora', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Nodos Supraconscientes</span> no experimentan el tiempo de forma lineal como la <font color="#ffcc00">Consciencia Subjetiva Humana</font>. En cambio, su función primordial es la de sincronizar información a nivel de la <font color="#00ff00">Matriz Fenomenológica</font> de dicho Nodo Estelar y de sus componentes planetarios. 
+Estos <span style="font-style: italic; font-family: 'lora', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 5px 0px 5px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Nodos Supraconscientes</span> no experimentan el tiempo de forma lineal como la <font color="#ffcc00">Consciencia Subjetiva Humana</font>. En cambio, su función primordial es la de sincronizar información a nivel de la <font color="#00ff00">Matriz Fenomenológica</font> de dicho Nodo Estelar y de sus componentes planetarios. 
 
 Es decir, son los arquitectos invisibles que orquestan la coherencia de la realidad manifestada, permitiendo que un vasto entramado de eventos y experiencias se despliegue a lo largo de una única línea temporal evolutiva para el sistema solar.
 
