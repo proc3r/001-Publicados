@@ -168,12 +168,12 @@ Es en este espacio donde la dualidad inherente a la consciencia humana se manifi
 
 Cada hemisferio cerebral actúa como una interfaz única para estas supraconsciencias. 
 
-> [!MOON] <font color="#2f82ff">HEMISFERIO DERECHO</font> (Lunar)
+> [!MOON] <font color="#2f82ff">HEMISFERIO DERECHO</font> <font color="#00ff00">(Lunar)</font>
 > El <font color="#2f82ff">hemisferio derecho</font> —predominantemente <font color="#00ff00">lunar</font>— tiende a ser más receptivo a lo <font color="#2f82ff">nouménico</font>, a la introspección, a la lógica abstracta y a la conceptualización compleja. 
 > 
 > Los individuos cuya consciencia resuenan más con esta frecuencia son más propensos a permitir que las supraconsciencias se manifiesten directamente, aunque esto pueda llevar a explosiones de caos emocional si no logran anclar sus percepciones abstractas en la realidad compartida. 
 
-> [!SUN] <font color="#fc300c">HEMISFERIO IZQUIERDO</font> (Solar)
+> [!SUN] <font color="#fc300c">HEMISFERIO IZQUIERDO</font> <font color="#2f82ff">(Solar)</font>
 > Por otro lado, el <font color="#fc300c">hemisferio izquierdo</font> —predominantemente <font color="#2f82ff">solar</font>—, se ve más afectado por los ciclos fisiológicos, las emociones primarias y los neurotransmisores que modulan las redes neuronales cerebrales. 
 > 
 > Estos individuos, más conectados con lo <font color="#fc300c">fenoménico</font> y lo corporal, son más susceptibles a la manipulación por parte de las <font color="#cb48f3">Consciencias Egregóricas</font> que emergen en el plano social, tendiendo a la dominancia, a mantener la calma externa o incluso a recurrir a la amenaza física en momentos de conflicto, ya que su experiencia manifestadora se fija en lo corporal y lo fisiológico.
@@ -226,7 +226,7 @@ En el contexto de la justicia nouménica, la influencia de esta consciencia se o
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Definiendo las Leyes y la Lucha Noemática</span></center>
 
-Mientras que los niveles anteriores de supraconsciencia delinean la experiencia subjetiva e interpersonal del ahora, los siguientes dos niveles operan a través de los Arquetipos <font color="#2f82ff">5@ (Noema)</font> —asociado a la <font color="#2f82ff">Consciencia Colectiva Universal</font>—, y <font color="#00ff00">4@ (Noesis)</font> —asociado a la <font color="#00ff00">Consciencia Arquetípica Ontogénica</font>—.
+Mientras que los niveles anteriores de supraconsciencia delinean la experiencia subjetiva e interpersonal del ahora, los siguientes dos niveles operan a través de los Arquetipos <font color="#2f82ff">5@ (Noema)</font> asociado a la <font color="#2f82ff">Consciencia Colectiva Universal</font>, y <font color="#00ff00">4@ (Noesis)</font> asociado a la <font color="#00ff00">Consciencia Arquetípica Ontogénica</font>.
 
 Estas dos niveles operan en un ámbito de validación de la realidad mucho más amplio y abstracto. Son estas supraconsciencias las que construyen la **realidad colectiva del mundo**, proporcionando coherencia y estructura a las experiencias subjetivas de los <font color="#ffa3ef">Avatares</font>. 
 
@@ -302,7 +302,7 @@ Esto permite que ciertos personajes sean cooptados por el poder egregórico y al
 
 En esta lucha noemática el bien siempre representa la mirada subjetiva del referente egregórico que lidera un grupo social, y el mal representa la mirada opuesta, sin importar si la verdad o el beneficio colectivo se encuentra en resonancia con el primero o con el segundo.
 
-En este nivel los **líderes** que representan a los grupos colectivos se convierten en los <font color="#ffa3ef">Avatares</font> <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#2f82ff">Solares</font></span> que adquieren el poder de definir el destino del mundo. Son los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Elohim</span> de naturaleza humana que construyen la civilización planetaria con sus decisiones, proyecciones, acuerdos y acciones, las cuales inevitablemente generan cambios en aspectos que resuenan directamente en la vida del ciudadano o la familia —como la economía, la salud, la educación o la seguridad—.
+En este nivel los **líderes** que representan a los grupos colectivos se convierten en los <font color="#ffa3ef">Avatares</font> <font color="#2f82ff">Solares</font> que adquieren el poder de definir el destino del mundo. Son los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Elohim</span> de naturaleza humana que construyen la civilización planetaria con sus decisiones, proyecciones, acuerdos y acciones, las cuales inevitablemente generan cambios en aspectos que resuenan directamente en la vida del ciudadano o la familia —como la economía, la salud, la educación o la seguridad—.
 
 Como hemos mencionado antes, en este nivel es donde emergen los <font color="#cb48f3">Egrégores</font> —mencionados simbólicamente en las escrituras apócrifas que presentan la historia de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Enoc</span> como los <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Vigilantes</span>. 
 
@@ -331,34 +331,33 @@ En un nivel más profundo de manifestación nouménica, encontramos la dualidad 
 Ambos aspectos de la <font color="#2f82ff">Consciencia Solar</font> son parte de una dualidad codificada a través de los flujos Nouménicos que procesan los Arquetipos <font color="#e36c09">2@ (Logos Cósmico)</font> y <font color="#ffcc00">3@ (Logos Individual)</font>, en sincronía con los Arquetipos <font color="#cb48f3">6@ (Demiurgo)</font> y <font color="#ffa3ef">7@ (Avatar)</font>, manifestándose dentro de la <font color="#00ff00">Matriz Fenomenológica</font> planetaria a través de cuatro configuraciones distintas, cada una en sincronía con un solsticio según el hemisferio terrestre que se considere.
 
 Para comprender cómo el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Logos</span> se despliega imaginemos al Nodo Estelar —nuestro sistema solar— como una esfera que contiene una sustancia nouménica fluida, compuesta por flujos de cuatro colores fundamentales. Estos colores no son meras pigmentaciones, sino diferentes flujos de información nouménica que codifican información arquetípica y representan las distintas perspectivas y manifestaciones del <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Logos</span> en la realidad.
-
 > [!Saklas] <font color="#fc300c">LOGOS CÓSMICO UNIVERSAL - Flujo Rojo (<font color="#2f82ff">Consciencia Solar</font> <font color="#00ff00">Estelar</font>)</font>
 > El <font color="#fc300c">Flujo Rojo</font> es el nivel más abarcador de la <font color="#2f82ff">Consciencia Solar</font> manifestada a través de su aspecto <font color="#00ff00">Estelar</font>. Contiene codificada holográficamente sobre la superficie del Nodo Estelar a toda la información del universo, incluyendo a la <font color="#00ff00">Consciencia Universal</font> que se manifiesta como un <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">observador externo</span> a la esfera que interpreta el contenido de la misma. 
 >
-![[01 - Solar Estelar2.jpg|500]]
+![[01 - Solar Estelar3.jpg]]
 > 
 > Esta es la sabiduría que todo lo contiene y valida a la escala más vasta, siendo representada por el <font color="#e36c09">Arquetipo 2@ (Logos Cósmico/Astaphaios)</font>
 
 > [!cerebro] <font color="#2f82ff">LOGOS CÓSMICO SOLAR - Flujo Azul (<font color="#2f82ff">Consciencia Solar</font> <font color="#fc300c">Nodal</font>)</font>
 > El <font color="#2f82ff">Flujo Azul</font> también es una manifestación de la <font color="#2f82ff">Consciencia Solar</font> pero en un segundo nivel de iteración <font color="#fc300c">Nodal</font>, que representa el universo fenoménico local del sistema solar. Contiene codificada la información nouménica  de toda la esfera —nuestro sistema solar— y a la totalidad de la sustancia que representan los flujos nouménicos internos. 
 >
-![[02 - Solar Noda.jpg|500]]
+![[02 - Solar Nodal3.jpg]]
 >
 > Representa la validación del Nodo a nivel de nuestro sistema estelar, manifestado por el <font color="#cb48f3">Arquetipo 6@ (Demiurgo/Sabbataios)</font>
 
 > [!clunar] <font color="#00ff00">LOGOS INDIVIDUAL AVATÁRICO - Flujo Verde</font> (<font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font>)</font>
 > El <font color="#00ff00">Flujo Verde</font> es otro aspecto de la <font color="#2f82ff">Consciencia Solar</font> <font color="#fc300c">Nodal</font> pero en un tercer nivel de iteración que surge en la singularidad central de la esfera solar.
 > 
-> Se manifiesta como un "personaje" o reflejo de un humano que aparece dentro de la esfera del Nodo Estelar, experimentando la realidad desde su subjetividad que se desarrolla dentro de la sustancia nouménica, y que es percibido por el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">observador externo</span> <font color="#e36c09">Arquetipo 2@ (Logos Cósmico/Astaphaios)</font> como si fuese una imagen en una película. 
+> Se manifiesta como un "personaje" o reflejo de un humano que aparece dentro de la esfera del Nodo Estelar, experimentando la realidad desde su subjetividad que se desarrolla dentro de la sustancia nouménica, y que es percibido por el  <font color="#e36c09">Arquetipo 2@ (Logos Cósmico/Astaphaios)</font> como si fuese una imagen en una película. 
 > 
-![[04 - Solar Avatar.jpg|500]]
+![[04 - Solar Avatar3.jpg]]
 > 
-> El <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> es la singularidad ontológica del Nodo Estelar, la experiencia individual encarnada que es observada por el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">observador externo</span> mismo —la <font color="#00ff00">Consciencia Universal</font>— como un reflejo del <font color="#ffa3ef">Arquetipo 7@ (Avatar/Horaios)</font>.
+> El <font color="#cb48f3">Avatar</font> <font color="#2f82ff">Solar</font> es la singularidad ontológica del Nodo Estelar que genera el <font color="#ffa3ef">Arquetipo 7@ (Avatar/Horaios)</font>, la experiencia individual encarnada que es observada por el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">observador externo</span> mismo —la <font color="#00ff00">Consciencia Universal</font>—.
 
 > [!monadico] <font color="#ffcc00">LOGOS INDIVIDUAL UNIVERSAL - Flujo Amarillo</font> (<font color="#ffa3ef">Avatar</font> <font color="#00ff00">Lunar</font>)
 > El <font color="#ffcc00">Flujo Amarillo</font> es un aspecto de la <font color="#2f82ff">Consciencia Solar</font> <font color="#00ff00">Estelar</font> que se ve reflejado dentro del Nodo Estelar como una expresión de la <font color="#00ff00">Consciencia Universal</font>. Representa la consciencia del <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">observador externo</span> que experimenta la realidad interna de la esfera e intenta comprender los flujos nouménicos de la sustancia que contiene. 
 > 
-> ![[03 - Lunar Avatar.jpg|500]]
+> ![[03 - Lunar Avatar3.jpg]]
 > 
 > Este flujo representa la capacidad de adquirir subjetividad de la <font color="#00ff00">Consciencia Universal</font> para experimentar su propia creación y poder  obtener un mayor nivel de entendimiento, representada por el <font color="#ffcc00">Arquetipo 3@ (Logos Individual/Eloaios)</font>.
 
