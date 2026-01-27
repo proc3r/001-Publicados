@@ -7,17 +7,16 @@ Sin embargo, a medida que nuestra comprensión avanza, surgen preguntas que los 
 
 El Modelo Nouménico no busca reemplazar los logros de la ciencia, sino construir un puente, ofreciendo una nueva cosmología que expande nuestra visión del cosmos, integrando principios que van más allá de lo puramente fenomenológico para abordar la naturaleza subyacente de la información y la consciencia.
 
----
 
 # 1. Los Niveles de Iteración Fundamentales
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Expansión de la Cosmología</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Expansión de la Cosmología</span></center>
 
 En el corazón de esta nueva cosmovisión se encuentra el concepto de Niveles de Iteración, que describe cómo la realidad se manifiesta de forma fractal desde el Origen (el Noúmeno), hasta las expresiones más tangibles. Estos niveles, como capas de una cebolla cósmica, revelan la arquitectura lógica y consciente del universo. 
 
 Al introducir una nueva terminología, el Modelo Nouménico permite explorar facetas de la existencia que el lenguaje científico actual no contempla, liberándonos de las limitaciones conceptuales impuestas por un sistema que, aunque brillante para su propósito, fue forjado en una era con una comprensión más limitada del universo y de la consciencia.
 
-En el documento "[[LA CONSCIENCIA AVATÁRICA|La Consciencia Avatárica]]" hemos explorado el Nivel de <font color="#00ff00">Iteración 4</font>. Ahora, nos adentraremos en los fundamentos de esta estructura, desvelando los Niveles de Iteración 0, <font color="#2f82ff">1</font>, <font color="#fc300c">2</font> y <font color="#ffcc00">3</font>, para comprender el "por qué" de cada elemento y su papel en la compleja sinfonía cósmica. 
+En el documento [[LA CONSCIENCIA AVATÁRICA|La Consciencia Avatárica]] hemos explorado el Nivel de <font color="#00ff00">Iteración 4</font>. Ahora, nos adentraremos en los fundamentos de esta estructura, desvelando los Niveles de Iteración 0, <font color="#2f82ff">1</font>, <font color="#fc300c">2</font> y <font color="#ffcc00">3</font>, para comprender el "por qué" de cada elemento y su papel en la compleja sinfonía cósmica. 
 
 Las 5 columnas de nuestra tabla: _Nivel de Iteración, Matriz Estructural, Tipo de Entidad, Instancia Ejemplo, y Ámbito de Influencia,_ no son meras clasificaciones; son las claves para desentrañar una comprensión más profunda de la realidad. 
 
@@ -25,7 +24,7 @@ La Matriz Estructural define el principio organizador o la plantilla de informac
 
 # 2. Nivel de Iteración 0
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen del Nodo Estelar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen del Nodo Estelar</span></center>
 
 En la cima de nuestra jerarquía fenoménica, pero en la base conceptual de la manifestación, se encuentra el Nivel de **Iteración 0**. Este nivel representa la singularidad primordial de un sistema estelar individual, el punto de origen donde la información nouménica comienza a estructurarse para formar lo que conocemos como un Nodo Estelar.
 
@@ -45,7 +44,7 @@ El Ámbito de Influencia del Djinn y del <font color="#fc300c">Qubit Creador Est
 
 # 3. Nivel de Iteración  1
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Corazón Resonante del Sistema</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Corazón Resonante del Sistema</span></center>
 
 Descendiendo desde el <font color="#fc300c">Qubit Creador Estelar</font>, encontramos el Nivel de <font color="#2f82ff">Iteración 1</font>, que da forma al corazón gravitacional y energético del Nodo Estelar.
 
@@ -57,7 +56,7 @@ Las Instancias _Ejemplo_ de Axón son las Estrellas que observamos en el firmame
 
 # 4. Nivel de Iteración 2
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Periforía y los Condensadores Planetarios</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Periforía y los Condensadores Planetarios</span></center>
 
 El Nivel de <font color="#fc300c">Iteración 2</font> se manifiesta como el despliegue de la energía y la información del Axón y del <font color="#fc300c">Qubit Creador Estelar</font> en estructuras más complejas dentro del Nodo Estelar.
 
@@ -74,7 +73,7 @@ Las Instancias Ejemplo son por tanto, _los Planetas, Anillos, Asteroides y Comet
 
 # 5. Nivel de Iteración 3
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Equilibrio y la Dualidad de la Consciencia</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Equilibrio y la Dualidad de la Consciencia</span></center>
 
 El Nivel de <font color="#ffcc00">Iteración 3</font> representa una etapa crítica en la evolución de un sistema planetario, donde la complejidad informacional del Kosmetes puede dar lugar a dos caminos distintos de emergencia, ambos fundamentales para el despliegue de la consciencia dentro del Nodo Estelar. 
 
@@ -106,7 +105,7 @@ Esta constante resonancia y codificación arquetípica es lo que alimenta la con
 
 # 6. Expansión del Conocimiento
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Más Allá de las Limitaciones Actuales</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Más Allá de las Limitaciones Actuales</span></center>
 
 La introducción de una nueva terminología y una estructura como la descrita en estos Niveles de Iteración es esencial para la expansión de nuestro conocimiento cosmológico. Conceptos como _Djinn, Axón, Kosmetes Alfa y Omega, Sporadesma, Isóforo, Ser, Arquema, <font color="#fc300c">Qubit Creador Estelar</font>, <font color="#cb48f3">Qubit Planetario</font> y <font color="#00ff00">Qubit Egoico</font>,_ nos permiten ir más allá de la descripción puramente física de los objetos celestes, permitiéndonos abordar su naturaleza como entidades conscientes y nodos de procesamiento de información nouménica.
 

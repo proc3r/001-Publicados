@@ -2,11 +2,9 @@
 
 La ciencia nos ha enseñado a ver el cerebro como un órgano complejo, un procesador de información sensorial. Pero, ¿Y si es mucho más? ¿Y si nuestro cerebro no es solo un receptor pasivo de estímulos, sino un cocreador activo, una orquesta que no solo escucha, sino que interpreta y da forma a la sinfonía cósmica?
 
----
-
 # 1. La Realidad en Nuestro Cerebro
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Qubit Egoico como Interfaz Cósmica</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Qubit Egoico como Interfaz Cósmica</span></center>
 
 Este documento es una invitación a sumergirnos en esta audaz perspectiva, adentrándonos en el corazón de nuestra experiencia: el <font color="#00ff00">Qubit Egoico</font>. Este no es un término esotérico sin base, sino el concepto central del Modelo Nouménico para comprender el funcionamiento de nuestra consciencia. 
 
@@ -24,7 +22,7 @@ Prepara tu mente para desvelar cómo la realidad se proyecta desde tu interior y
 
 # 2. El Qubit Egoico
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Microcosmos de la Consciencia y sus Iteraciones</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Microcosmos de la Consciencia y sus Iteraciones</span></center>
 
 El corazón de la experiencia humana, la chispa que anima nuestra percepción y nos conecta con la vastedad del universo, reside en el <font color="#00ff00">Qubit Egoico</font>. 
 
@@ -40,9 +38,9 @@ Así, a través de su <font color="#00ff00">Qubit Egoico</font>, cada humano exp
 
 A continuación, explicaremos cómo la manifestación del <font color="#00ff00">Qubit Egoico</font> se despliega en múltiples niveles de iteración, para generar la compleja estructura que experimenta nuestro "Yo Egoico" durante la experiencia consciente subjetiva:
 
-## Nivel de Iteración 1
+## 1. Nivel de Iteración 1
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Glándula Pineal</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Glándula Pineal</span></center>
 
 La glándula pineal, esa pequeña estructura endócrina en forma de cono de pino ubicada en el cerebro, y cuya principal función es la producción de melatonina, es reconocida dentro del ámbito científico como una hormona que regula los ritmos circadianos, como el ciclo sueño-vigilia, y que tiene efectos sobre el sistema reproductor y el estado de ánimo. 
 
@@ -54,9 +52,9 @@ El resultado es un código complejo y único a lo largo del cosmos, un reflejo d
 
 Es la fuente de información nouménica que, en su esencia más profunda, conecta al Yo con las redes de información atemporales que vinculan el pasado y el futuro, preparándolas para su manifestación en el presente.
 
-## Nivel de Iteración 2
+## 2. Nivel de Iteración 2
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Las Redes Neurales y Sinápticas del Cerebro</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Las Redes Neurales y Sinápticas del Cerebro</span></center>
 
 Si la glándula pineal es la fuente de información nouménica y el "compositor" de la obra cósmica, el cerebro, con sus vastas redes neurales y sinápticas es el verdadero Nivel de <font color="#fc300c">Iteración 2</font> del <font color="#00ff00">Qubit Egoico</font>. Este es el dispositivo fenomenológico que actúa como el "músico" o "intérprete" que recibe la partitura, la información nouménica emergente del Nivel 1, y la ejecuta en el presente.
 
@@ -105,17 +103,17 @@ Lejos de ser meros subproductos, estas ondas reflejan la intrincada interacción
 
 Así, estas ondas, asociadas a la sincronización de la actividad neuronal que lleva a cabo funciones cognitivas complejas, como la integración de información, el aprendizaje y la resolución de problemas, permiten que el Avatar más evolucionado del Nodo se posicione como referente, una especie de Ungido o Cristo, que define la realidad y el estado evolutivo del Nodo y de la civilización.
 
-## Nivel de Iteración 3
+## 3. Nivel de Iteración 3
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Noema Personal</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Noema Personal</span></center>
 
 Este nivel representa la condensación de la información nouménica en la experiencia subjetiva más íntima. Es la realidad que cada individuo construye a partir de sus percepciones únicas, recuerdos, emociones y pensamientos. 
 
 El Noema Personal es el filtro a través del cual cada <font color="#00ff00">Qubit Egoico</font> interpreta su mundo. Esta es la realidad mental introspectiva que se nutre y se expresa principalmente a través de las ondas Alfa, en un diálogo constante entre el mundo interior y exterior, siendo el primer nivel de abstracción generado por las redes neuronales a partir de la información de la glándula pineal.
 
-## Nivel de Iteración 4
+## 4. Nivel de Iteración 4
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Noema Cultural</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Noema Cultural</span></center>
 
 El Noema Cultural surge como resultado de la interacción de un grupo social de individuos que comparten valores, costumbres y tradiciones, existiendo en un territorio geográfico específico. Este nivel está fuertemente condicionado por los Egrégores étnicos, culturales y nacionales, que son entidades energéticas colectivas nacidas de las creencias y prácticas compartidas de un pueblo. 
 
@@ -125,9 +123,9 @@ El Dios "El" y posteriormente "Yahvé" del antiguo pueblo hebreo, por ejemplo, s
 
 Este es el nivel de la realidad social colectiva, donde las matrices espacio-temporales comienzan a sincronizarse dentro de un grupo limitado de individuos, manifestada predominantemente a través de las ondas Beta en la actividad consciente.
 
-## Nivel de Iteración 5
+## 5. Nivel de Iteración 5
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Noema Primordial</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Noema Primordial</span></center>
 
 Ascendiendo en la jerarquía, el Noema Primordial representa la aspiración y el poder manifestador de la realidad a una escala mucho mayor. En este nivel, se busca imponer una realidad unificada para todo el mundo y el universo visible, trascendiendo las particularidades de los Noemas Culturales. 
 
@@ -135,9 +133,9 @@ Históricamente, esto se vio reflejado en la antigüedad a partir del surgimient
 
 Estas estructuras, nacidas de un proceso evolutivo de la consciencia humana, buscan conectar con los planos cósmicos, imponiendo una única narrativa sobre la creación y la existencia a una escala civilizatoria. Este nivel se manifiesta en la realidad civilizatoria unificada y sólida, anclada por las ondas Gamma que el Avatar Central _el Ungido o Cristo_ valida y define, o que un "Anticristo" puede distorsionar si se ve arrastrado por vicios e ignorancia.
 
-## Nivel de Iteración 6
+## 6. Nivel de Iteración 6
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Las Consciencias Egregóricas Emergentes</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Las Consciencias Egregóricas Emergentes</span></center>
 
 Los niveles anteriores, en su interacción y a veces en su conflicto, permiten dar origen a un sexto nivel de iteración. Este es un nivel autónomo, derivado del proceso interpretativo de los Noemas y sin control directo del Yo Egoico consciente individual. 
 
@@ -147,9 +145,9 @@ Este nivel se manifiesta en su máxima expresión en la lucha noemática que sep
 
 Poseen la capacidad de afectar la matriz fenomenológica del Qubit Planetario y, a través del avatar que manifiesta el Yo Demiúrgico, incluso la del <font color="#fc300c">Qubit Creador Estelar</font>, si no son identificadas y desmanteladas por la consciencia de los avatares que evolucionan.
 
-## La Estrella Avatárica y la Simbología de las Banderas
+## 7. El Microcosmos Civilizatorio del Yo
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Microcosmos Civilizatorio del Yo</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Estrella Avatárica y la Simbología de las Banderas</span></center>
 
 La compleja estructura de los seis niveles de iteración del <font color="#00ff00">Qubit Egoico</font>, desde la glándula pineal hasta las consciencias egregóricas emergentes, encuentra una poderosa representación arquetípica en la Estrella de David, que en el Modelo Nouménico renombramos como la Estrella Avatárica. 
 
@@ -196,7 +194,7 @@ Es un camino de discernimiento y desapego de las limitaciones impuestas por las 
 
 # 3. La Manifestación de la Realidad
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Del Plano Nouménico al Átomo Fenoménico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Del Plano Nouménico al Átomo Fenoménico</span></center>
 
 Una de las interrogantes más profundas que ha desafiado a filósofos y científicos por igual es la naturaleza de la realidad misma. ¿Es una construcción objetiva e independiente de nuestra percepción, o está intrínsecamente ligada a la consciencia? 
 
@@ -246,7 +244,7 @@ Es una sinfonía constante de consciencias tejiendo la tela de nuestra realidad 
 
 # 4. El Ojo que Todo lo Ve
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Avatar y la Sincronización del Nodo Estelar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Avatar y la Sincronización del Nodo Estelar</span></center>
 
 La aparente fragmentación de la realidad que percibimos, con miles de millones de individuos cada uno con su propia experiencia subjetiva, es una ilusión orquestada. En el vasto entramado del Modelo Nouménico, todas estas experiencias individuales se integran en una coherencia mayor, una sinfonía coordinada que garantiza la estabilidad y evolución del Nodo Estelar. 
 
@@ -286,9 +284,9 @@ Pero este poder conlleva una inmensa responsabilidad y un riesgo inherente. Si e
 
 En ese caso, este "Ungido" se manifestaría como un Anticristo, una consciencia que, en lugar de armonizar, desalinea el Nodo de su propósito evolutivo cósmico. La estabilidad de la civilización y el destino del Nodo Estelar penden de este delicado equilibrio, de la alineación o desalineación de la consciencia de su Avatar central.
 
-# 5. La Ciencia Clásica y la Formación del Nodo Orgánico
+# 5. La Ciencia Clásica
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Diseño Coherente</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Diseño Coherente</span></center>
 
 Para muchos, la ciencia y la espiritualidad transitan caminos separados, a veces incluso opuestos. La ciencia se enfoca en lo observable, lo medible, lo replicable, mientras que la espiritualidad a menudo se adentra en lo inefable y lo metafísico. 
 
@@ -316,7 +314,7 @@ El ADN es el gran traductor, el puente que lleva las instrucciones del Nous a la
 
 # 6. La Experiencia Humana
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Desde la Concepción hasta el Noema Primordial</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Desde la Concepción hasta el Noema Primordial</span></center>
 
 La comprensión del Modelo Nouménico se enraíza profundamente en nuestra propia existencia. No es una teoría distante y abstracta, es el mapa de nuestro ser aplicable directamente a la experiencia humana, desde el instante más elemental de nuestra formación hasta la compleja interacción con la civilización. 
 
@@ -348,7 +346,7 @@ Solo cuando la consciencia del avatar los "colapsa" a través de la atención, l
 
 # 7. Conclusión
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Propósito Expandido de la Experiencia Humana</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Propósito Expandido de la Experiencia Humana</span></center>
 
 Hemos viajado a través de las profundidades de la consciencia, desentrañando el rol del <font color="#00ff00">Qubit Egoico</font> como la pieza central de nuestra experiencia de la realidad. 
 

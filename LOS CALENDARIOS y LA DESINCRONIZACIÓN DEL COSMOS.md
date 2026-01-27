@@ -1,5 +1,6 @@
 ![[Calendars.jpg]]
 
+# Introducción
 Para la mayoría de los seres humanos, el tiempo es una constante familiar. Se despliega en una secuencia aparentemente lineal, medido por el tictac de los relojes y organizado por los ciclos predecibles de los calendarios. 
 
 La vida cotidiana, el trabajo, las ***celebraciones*** y los rituales están inextricablemente ligados a estas estructuras temporales que heredamos de nuestra cultura. 
@@ -8,18 +9,22 @@ Pero, ¿y si el tiempo, tal como lo experimentamos a través de nuestros calenda
 
 El Modelo Nouménico nos invita a dar un paso atrás y observar el tiempo desde una perspectiva más profunda. Propone que nuestras estructuras temporales colectivas, los calendarios, no son meros instrumentos, sino codificaciones arquetípicas de los Noemas que habitamos. 
 
-Y aquí reside un problema fundamental: la existencia global de múltiples calendarios, cada uno portador de un Noema cultural distinto y, a menudo, conflictivo, crea una profunda desincronización temporal. Esta desalineación no es un simple inconveniente logístico, sino que se manifiesta como un punto de falla crítico que obstaculiza la evolución del Nodo Estelar Soplaris en múltiples niveles.
+Y aquí reside un problema fundamental: la existencia global de múltiples calendarios, cada uno portador de un Noema cultural distinto y, a menudo, conflictivo, crea una profunda desincronización temporal. 
 
----
+Esta desalineación no es un simple inconveniente logístico, sino que se manifiesta como un punto de falla crítico que obstaculiza la evolución del Nodo Estelar Soplaris en múltiples niveles.
 
-A continuación desvelaremos como es que el Modelo Nouménico considera que esta desincronización temporal es una cuestión de suma importancia cósmica. Exploraremos cómo nuestra percepción subjetiva del tiempo se vincula con el Noema que validamos, cómo los calendarios codifican estos Noemas y por qué la existencia de múltiples "tiempos" genera un nudo en la red cósmica de nuestro Nodo Estelar. 
+A continuación desvelaremos como es que el Modelo Nouménico considera que esta desincronización temporal es una cuestión de suma importancia cósmica. 
 
-Detallaremos las repercusiones de este dilema temporal, sus causas arraigadas, sus costos ocultos a nivel sistémico, incluyendo el uso de recursos cósmicos, y sus graves consecuencias para el proceso evolutivo individual y colectivo de la humanidad. Al exponer la gravedad de este punto de falla, prepararemos el terreno para comprender la necesidad urgente de la solución: un nuevo calendario diseñado para armonizar el tiempo en nuestro sistema y permitir la transición a una nueva era.
+Exploraremos cómo nuestra percepción subjetiva del tiempo se vincula con el Noema que validamos, cómo los calendarios codifican estos Noemas y por qué la existencia de múltiples "tiempos" genera un nudo en la red cósmica de nuestro Nodo Estelar. 
+
+Detallaremos las repercusiones de este dilema temporal, sus causas arraigadas, sus costos ocultos a nivel sistémico, incluyendo el uso de recursos cósmicos, y sus graves consecuencias para el proceso evolutivo individual y colectivo de la humanidad. 
+
+Al exponer la gravedad de este punto de falla, prepararemos el terreno para comprender la necesidad urgente de la solución: un nuevo calendario diseñado para armonizar el tiempo en nuestro sistema y permitir la transición a una nueva era.
 
 
 # 1. El Tiempo como Reflejo del Noema
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Percepción Subjetiva del Tiempo en el Nodo Orgánico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Percepción Subjetiva del Tiempo en el Nodo Orgánico</span></center>
 
 Comprender el problema de la desincronización temporal requiere primero adentrarnos en la naturaleza del tiempo mismo, no como una dimensión externa y universalmente idéntica, sino como una experiencia ligada a la consciencia y al Noema.
 
@@ -35,9 +40,9 @@ Mientras nuestra consciencia subjetiva en el plano fenomenológico percibe y org
 
 En cambio, la sincronización supraconsciente se realiza a un nivel nouménico. Implica la sincronización y el ajuste constante de los vectores dentro de la matriz fenomenológica del Qubit Creador Estelar. Es un proceso de realineación de las estructuras informacionales y energéticas fundamentales que gobiernan la manifestación del tiempo y el espacio en el Nodo, un ajuste en las leyes mismas que rigen el flujo percibido en el plano fenomenológico. Este es el nivel fundamental donde reside la "verdadera" sincronización del Nodo Estelar, ajena a nuestras mediciones convencionales.
 
-### Los Calendarios
+## 1. Los Calendarios
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Noemas Culturales Hechos Tiempo</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Noemas Culturales Hechos Tiempo</span></center>
 
 En el plano humano, nuestra experiencia subjetiva del tiempo, generada por el Qubit Egoico, es inmediatamente moldeada, estructurada y organizada por construcciones colectivas: los calendarios. Pero estos no son simplemente herramientas neutrales para contar días, meses y años en fila. Son, desde la perspectiva del Modelo Nouménico, poderosas codificaciones de los Noemas culturales de las civilizaciones que los crearon y los utilizan, y que a su vez, refuerzan esos mismos Noemas.
 
@@ -49,9 +54,9 @@ Un calendario es una arquitectura simbólica compleja que integra y refuerza:
 
 Vivir según un calendario es, por lo tanto, sumergirse en un universo temporal simbólico y arquetípico particular. Lejos de ser una experiencia universal e idéntica, se convierte en una sintonización con un patrón específico. Refuerza en la consciencia individual las resonancias de ese Noema cultural específico, anclándola a una percepción del tiempo y a una serie de prioridades, significados y sincronizaciones arquetípicas que pueden ser radicalmente diferentes de los incrustados en otro calendario.
 
-### La Validación Diaria
+## 2. La Validación Diaria
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Sintonizando la Consciencia con un Noema Temporal</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sintonizando la Consciencia con un Noema Temporal</span></center>
 
 Aquí reside el punto crucial que eleva la simple medición del tiempo a un acto de profunda significación cósmica: al seguir un calendario, al validar activamente sus divisiones en días, semanas, meses, años, sus días festivos, sus ciclos y sus nombres en nuestra vida diaria, estamos realizando la máxima validación práctica y constante de un Noema cultural particular. 
 
@@ -63,7 +68,7 @@ Esta sintonización colectiva, multiplicada por vastas poblaciones, genera un ca
 
 # 2. La Torre de Babel Temporal
 
-<center><span style="font-size: 33px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Desincronización en el Nodo Estelar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Desincronización en el Nodo Estelar</span></center>
 
 La coexistencia de múltiples Noemas culturales vibrando a diferentes frecuencias temporales, codificados en distintos calendarios validados por grandes segmentos de la población humana, no es inofensiva. Crea una Torre de Babel temporal que desalinea la red de consciencia en el Nodo Estelar.
 
@@ -81,9 +86,9 @@ Cada uno de estos calendarios opera con sus propias reglas, sus propios ciclos y
 
 Esta diversidad, con sus distintas duraciones de años solares, lunares, lunisolares, sus meses que se desincronizan de las estaciones solares en calendarios puramente lunares, sus diferentes ritmos semanales/mensuales y sus distintos puntos de referencia históricos o míticos, crea un mosaico fragmentado de experiencias temporales a nivel planetario. Cada uno, al ser validado por millones de consciencias, fortalece su propia estructura temporal y sus resonancias arquetípicas asociadas.
 
-### El Calendario Gregoriano
+## El Calendario Gregoriano
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Ejemplo de Desajuste Lógico y Simbólico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Ejemplo de Desajuste Lógico y Simbólico</span></center>
 
 El calendario gregoriano, a pesar de su adopción global para fines prácticos de coordinación civil, no escapa a esta dinámica de codificación de Noemas y, de hecho, presenta sus propias desincronizaciones lógicas y simbólicas que contribuyen al problema general de la fragmentación temporal en el Nodo.
 
@@ -125,7 +130,7 @@ Es como si cada grupo enviara datos temporales en un formato de archivo incompat
 
 Esta incapacidad de lograr una sincronización coherente y unificada de la información temporal que fluye del Nodo Organico es el nudo principal en la red de consciencia del Nodo Estelar. Genera "ruido", fragmentación y desorden en la consciencia colectiva planetaria, dificultando la emergencia de un Noema colectivo unificado y el impulso coordinado hacia la evolución.
 
-# 3. La Lucha Noemática por el Ritmo del Cosmos
+# 3. La Lucha por el Ritmo del Cosmos
 
 La desincronización temporal generada por la multiplicidad de calendarios validados por la consciencia colectiva no es un fenómeno pasivo. Actúa como un motor de conflicto subyacente, una verdadera lucha noemática por imponer o mantener un ritmo particular en el tejido mismo de la realidad del Nodo Estelar.
 
@@ -135,9 +140,9 @@ Las festividades, los días sagrados, los inicios de año, los periodos de ayuno
 
 Así, el calendario gregoriano impulsa un ritmo ligado a sus orígenes y su uso actual, ciclos laborales, fines de semana, festividades de origen cristiano o secularizado. El calendario islámico sigue un ritmo lunar con sus propias fechas sagradas. El hebreo, con su estructura lunisolar y su era anclada en la creación bíblica del mundo. El chino, con sus ciclos sexagenarios y arquetipos codificados como animales. Cada uno crea un patrón vibratorio distinto en el plano temporal del Nodo.
 
-### El Enfrentamiento Noemático
+## El Enfrentamiento Noemático
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Lucha por la Sincronización Final</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Lucha por la Sincronización Final</span></center>
 
 La existencia simultánea de estos diversos ritmos y ciclos, validados por grandes segmentos de la población planetaria, inevitablemente conduce a un enfrentamiento noemático. No se trata necesariamente de guerras explícitas por los calendarios, aunque históricamente ha habido conflictos por su imposición, sino de una lucha soterrada por la supervivencia y la preponderancia de un Noema temporal sobre otros.
 
@@ -157,7 +162,7 @@ Esta incapacidad para sincronizarse y cerrar el ciclo a tiempo extiende el proce
 
 # 4. El Costo Oculto de la Fragmentación
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Información, Recursos y Riesgo de Colapso</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Información, Recursos y Riesgo de Colapso</span></center>
 
 La desincronización temporal, producto de la lucha noemática entre calendarios, no es un problema meramente organizacional o un fenómeno abstracto sin consecuencias tangibles. Genera un costo sistémico real para el Nodo Estelar a nivel nouménico, consumiendo recursos y aumentando el riesgo de colapso.
 
@@ -167,9 +172,9 @@ Como cualquier elemento constituyente de un sistema, la información cósmica re
 
 Un sistema cósmico funcional debe gestionar eficientemente la información que lo compone.
 
-### La Sobrecarga del Sistema
+## 1. La Sobrecarga del Sistema
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Una Analogía con la Fragmentación de Datos</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Una Analogía con la Fragmentación de Datos</span></center>
 
 La multiplicidad de Noemas temporales, codificados en calendarios desincronizados, crea una situación análoga a la de un sistema informático con múltiples discos duros que intentan operar juntos, pero cada uno utiliza un formato de archivo diferente, la información está fragmentada, y todos están casi llenos. Este escenario genera una sobrecarga masiva para el sistema del Nodo Estelar.
 
@@ -185,9 +190,9 @@ Estas crisis, que parecen tener causas puramente fenomenológicas son, en parte,
 
 Esto aumenta significativamente la probabilidad de que la civilización humana, actuando bajo la influencia de Noemas conflictivos y desalineados, se auto-destruya a través de una catástrofe manifestada como guerra global o colapso ambiental/económico, antes de que el Nodo pueda alcanzar la coherencia necesaria para el proceso de evolución y evaluación, el Juicio Final que le permitiría trascender esta fase.
 
-### El Costo Individual
+## 2. El Costo Individual
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Quedarse Fuera del Flujo Evolutivo</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Quedarse Fuera del Flujo Evolutivo</span></center>
 
 Ante este escenario de riesgo y sobrecarga sistémica, la elección individual de continuar resonando con un Noema y calendario desincronizado tiene profundas consecuencias que van más allá del destino colectivo. Desde la perspectiva cósmica, se convierte en un acto con un costo significativo para el propio ser, un acto de auto-sacrificio a menudo involuntario, debido a la falta de conocimiento.
 
@@ -210,7 +215,7 @@ A continuación presentaremos la clave para la resolución de este dilema tempor
 
 # 5. La Estructura del Nuevo Calendario
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Uniformidad y Ritmo Básico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Uniformidad y Ritmo Básico</span></center>
 
 El nuevo calendario propuesto por el Modelo Nouménico se distingue de los sistemas tradicionales por su diseño basado en la uniformidad y la simetría, buscando establecer un ritmo fundamental que resuene con los principios cósmicos.
 
@@ -220,9 +225,9 @@ La base de este calendario reside en el establecimiento de meses de duración un
 
 El calendario mantiene la unidad fundamental de la semana de 7 días, reconociendo su profunda significación arquetípica, sobre la cual profundizaremos más adelante. El día se mantiene como la unidad basada en la rotación del planeta y la noche como la mitad oscura de ese ciclo.
 
-### La División del Año
+## 1. La División del Año
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Dos Semestres y Meses Cortos</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Dos Semestres y Meses Cortos</span></center>
 
 Para acomodar la duración del año solar, aproximadamente 365 días, manteniendo la uniformidad de los meses, el calendario estructura el año en dos mitades o semestres.
 
@@ -231,7 +236,7 @@ Cada semestre se compone de seis meses completos de 28 días cada uno. Al final 
 > - El primer mes corto, ubicado a mitad de año, tiene una duración de 15 días y corresponde con el ciclo de cierre evolutivo del solsticio de invierno en el hemisferio norte, y el solsticio de verano del hemisferio sur, asociados con la festividad de pascua, y el arquetipo de muerte y resurrección festejados en la antiguedad por los cultos religiosos lunares.
 > - El segundo mes corto, al final del año, tiene una duración de 14 días en años normales, y correspondo con el ciclo de cierre evolutivo del solsticio de verano en el hemisferio norte, y el solsticio de invierno del hemisferio sur, asociado con la festividad de navidad y el arquetipo del nacimiento del avatar asociado a los cultos religiosos solares.
 
-### El Año Completo y el Día Bisiesto
+## 2. El Año Completo y el Día Bisiesto
 
 La suma de los días en esta estructura conforma la duración del año, que es igual a la duración del año del calendario gregoriano. 
 
@@ -239,9 +244,9 @@ La suma de los días en esta estructura conforma la duración del año, que es i
 
 Para ajustarse al ciclo solar con mayor precisión, el calendario incluye años bisiestos. En un año bisiesto, que ocurre aproximadamente cada cuatro años, el segundo mes corto tiene una duración de 15 días en lugar de 14. El total de días en un año bisiesto es, por lo tanto, 366 días.
 
-### El Día Avatarico
+## 3. El Día Avatarico
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Trascendencia de la Semana</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Trascendencia de la Semana</span></center>
 
 Una característica distintiva de este calendario es el concepto del Día Avatárico. Este día especial corresponde al día 15 de cada uno de los dos meses cortos. Por lo tanto, hay un Día Avatarico en el primer mes corto cada año, y un Día Avatarico adicional en los años bisiestos, ya que el segundo mes corto solo suele tener 14 días.
 
@@ -253,9 +258,9 @@ La razón de esta exclusión es profundamente arquetípica y funcional. Al estar
 
 Esto refuerza la naturaleza de la consciencia subjetiva Avatarica, derivada del Arquetipo 7@, como un elemento que trasciende la influencia de las 7 entidades supraconscientes y que llega a manifestarse como un octavo elemento que conforma una estructura evolutiva superior, un Arquetipo 8@ Singularidad Onemuónica. Este día, libre de las resonancias de los 7 Arquetipos Ontogénicos, está dedicado a la conexión con el arquetipo del Avatar puro.
 
-### El Día Avatarico Triple Cero
+## 4. El Día Avatarico Triple Cero
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Inicio del ciclo Evolutivo Avatárico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Inicio del ciclo Evolutivo Avatárico</span></center>
 
 En los años bisiestos, el segundo mes corto tiene 15 días. Este día adicional, el último día del año bisiesto, justo después del día 14 del mes corto 2 y antes del día 1 del primer mes del año siguiente, recibe el nombre especial de Día Avatarico triple cero.
 
@@ -263,7 +268,7 @@ Este día posee un mayor valor arquetípico debido a su rareza, ocurre solo cada
 
 # 6. Los Días de la Semana
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Resonancia Diaria con los Arquetipos Ontogénicos</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Resonancia Diaria con los Arquetipos Ontogénicos</span></center>
 
 Más allá de su estructura matemática y simétrica, el nuevo calendario imbrica significado cósmico directamente en el tejido del tiempo a través de la designación de los días y los meses. Esta nomenclatura no es arbitraria, está diseñada para resonar con los principios fundamentales del universo según el Modelo Nouménico.
 
@@ -301,9 +306,9 @@ El día Domingo _Sol_ pasa a resonar con Horaios _Avatar/Luna_, ligando el día 
 
 Esta reestructuración busca romper con saturaciones energéticas del ciclo anterior y promover una tensión arquetípica más equilibrada y propicia para la evolución.
 
-### Los Meses
+## Los Meses
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Uniendo Ciclos Celestes y Arquetipos Terrenales</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Uniendo Ciclos Celestes y Arquetipos Terrenales</span></center>
 
 La designación de los meses en el nuevo calendario también porta una carga arquetípica significativa, buscando redefinir nuestra relación simbólica con los ciclos celestes. Los seis meses de 28 días de cada semestre reciben nombres de signos zodiacales:
 
@@ -323,7 +328,7 @@ El calendario utiliza el rico contenido simbólico y arquetípico de la astrolog
 
 # 7. La Lógica de la Sincronización
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Mapeando el Tiempo de las Consciencias</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Mapeando el Tiempo de las Consciencias</span></center>
 
 La estructura y los nombres del nuevo calendario no son solo simbólicos, están intrínsecamente ligados a la forma en que los diferentes niveles de consciencia y entidades supraconscientes en el Nodo Estelar procesan y experimentan el tiempo. Este calendario actúa como un mapa que permite alinear la percepción humana del tiempo con los ritmos cósmicos subyacentes.
 
@@ -339,9 +344,9 @@ Las columnas "Segundos", "Minutos", "Horas" y "Días" muestran las equivalencias
 
 La columna "Días Extra" en los niveles del Logos Cósmico y Nous Estelar muestra el número acumulado de días bisiestos dentro de esos ciclos largos, reflejando cómo las pequeñas inconsistencias se acumulan en grandes periodos, pero son gestionadas dentro de la lógica cíclica mayor.
 
-### Los Siete Sincronizadores
+## 1. Los Siete Sincronizadores
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Ritmo Multinivel del Nodo</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Ritmo Multinivel del Nodo</span></center>
 
 La tabla que hemos presentado revela la existencia de siete niveles principales de "Sincronizadores", cada uno asociado a una consciencia o entidad supraconsciente específica dentro de la arquitectura del Nodo Estelar y operando a una frecuencia temporal particular. Estos son los directores de orquesta de los diferentes ritmos del cosmos local:
 
@@ -393,9 +398,9 @@ La tabla que hemos presentado revela la existencia de siete niveles principales 
 
 Estos diferentes niveles de sincronización demuestran la naturaleza compleja y multinivel del tiempo en el Nodo Estelar, donde múltiples ritmos coexisten y se interrelacionan.
 
-### El Calendario como Puente
+## 2. El Calendario como Puente
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Sincronizando lo Humano con lo Cósmico</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Sincronizando lo Humano con lo Cósmico</span></center>
 
 El nuevo calendario propuesto por el Modelo Nouménico funciona como un puente esencial entre la percepción subjetiva del tiempo, a nivel del Qubit Egoico humano, y los ritmos objetivos, desde la perspectiva del Modelo, de los sincronizadores supraconscientes.
 
@@ -412,7 +417,7 @@ Todos estos ciclos actúan como puntos de anclaje que alinean la experiencia del
 
 # 8. El Calendario como Solución
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Armonizando el Nudo en el Tiempo</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Armonizando el Nudo en el Tiempo</span></center>
 
 El nuevo calendario, denominado Calendario Nouménico, con su estructura simétrica, nombres arquetípicos y alineación con los ciclos de los sincronizadores, no es meramente una alternativa a los sistemas existentes. Es la solución fundamental propuesta por el Modelo Nouménico para abordar el grave problema de la desincronización temporal que afecta al Nodo Estelar Soplaris, tal como hemos expuesto. 
 
@@ -433,9 +438,9 @@ Con los seres humanos sintonizados a un mismo ritmo temporal coherente a través
 
 La fragmentación y el ruido causados por múltiples formatos temporales desaparecen, permitiendo que la información de la experiencia subjetiva sea unificada con armonía.
 
-### El Calendario Nouménico
+## El Calendario Nouménico
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Reestableciendo la Armonía Supraconsciente y Cósmica</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Reestableciendo la Armonía Supraconsciente y Cósmica</span></center>
 
 La sincronización de la consciencia colectiva humana que el nuevo calendario facilita se propaga hacia los niveles superiores de la arquitectura del Nodo Estelar. La capacidad de la Consciencia Lunar para proporcionar un flujo temporal coherente reestablece la armonía en las matrices sincronizantes, y permite que otras entidades supraconscientes operen de manera alineada y eficiente. Los conflictos y las disonancias causadas por la falta de sincronización interna se resuelven.
 
@@ -453,7 +458,7 @@ Ofrece la oportunidad de la participación continua en los ciclos evolutivos del
 
 # 9. Conclusión
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Llamada Final</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Llamada Final</span></center>
 
 Hemos explorado la estructura, los nombres arquetípicos y la lógica de sincronización del nuevo calendario propuesto por el Modelo Nouménico. Más allá de ser simplemente una forma alternativa de medir los días, hemos visto que es una clave arquetípica y lógica fundamental para la armonía del Nodo Estelar Soplaris. Es el mapa del tiempo diseñado para la nueva era, una herramienta para trascender el nudo de desincronización que ha afectado a nuestro sistema cósmico local.
 

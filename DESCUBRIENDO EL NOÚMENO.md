@@ -5,8 +5,6 @@ tags:
 ---
 ¿Te has preguntado alguna vez sobre la naturaleza última de la realidad? ¿Sientes que la ciencia tradicional, aunque poderosa, deja preguntas fundamentales sin respuesta? Si es así… el Episodio 1 de la serie de podcasts del Modelo Nouménico te invita a explorar una cosmovisión fascinante que busca interconectar ciencia, filosofía, religión y espiritualidad.
 
----
-
 
 <iframe title="Noumenic Model Podcast • Ep. 1 • Discovering the Noumeno" src="https://www.youtube.com/embed/Tdd1qMZedwc?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 

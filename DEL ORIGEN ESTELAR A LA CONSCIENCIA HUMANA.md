@@ -13,7 +13,7 @@ Pero, ¿qué pasaría si esta aparente contradicción fuera solo un velo, una li
 
 # 1. Introducción
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Conectando lo Inconcebible, La Gnosis Cósmica de Nuestro Origen</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Conectando lo Inconcebible, La Gnosis Cósmica de Nuestro Origen</span></center>
 
 Este documento se adentra en esta audaz proposición, explorando la génesis de nuestro Nodo Estelar a través del prisma del Modelo Nouménico. No lo concebimos como una "ciencia" en el sentido tradicional, llena de fórmulas matemáticas que buscan la verificación empírica en el plano fenomenológico, aunque sus principios subyacentes son de una lógica impecable. 
 
@@ -33,7 +33,7 @@ Esta elección personal, este acto de apertura, no es trivial, es parte del Juic
 
 # 2. La Gesta del Nous
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Del Fractal Nouménico al Qubit Creador Estelar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Del Fractal Nouménico al Qubit Creador Estelar</span></center>
 
 Nuestra comprensión del universo, limitada por milenios a lo que nuestros sentidos y herramientas podían registrar, nos ha llevado a conceptualizar el cosmos como una entidad meramente física, regida por leyes impersonales. 
 
@@ -64,9 +64,9 @@ El Yo Demiúrgico no es una deidad distante, sino una consciencia colectiva de n
 
 Esta Matriz es crucial, ya que evita el caos informacional, garantizando la cohesión y la predictibilidad de las leyes físicas en nuestro sistema, preparando el escenario para la emergencia de formas de vida cada vez más complejas.
 
-# 3. Geocentrismo versus Heliocentrismo
+# 3. Geocentrismo vs Heliocentrismo
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">Un Reencuentro Nouménico de Paradigmas</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Un Reencuentro Nouménico de Paradigmas</span></center>
 
 La historia de la astronomía, en sus capítulos más fascinantes, nos revela un conflicto central, una tensión milenaria entre dos visiones cosmológicas aparentemente irreconciliables: el geocentrismo y el heliocentrismo. Durante siglos, estas perspectivas se enfrentaron con una pasión que trascendió la mera observación científica, involucrando profundas implicaciones filosóficas y teológicas. 
 
@@ -139,7 +139,7 @@ Esto culmina en la formación de las macromoléculas esenciales para la vida: am
 
 # 5. La Sinfonía de la Vida Codificada
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Origen y Evolución del Nodo Orgánico Iteración 3 </span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Origen y Evolución del Nodo Orgánico Iteración 3 </span></center>
 
 Habiendo comprendido cómo el equilibrio homeostático entre el <font color="#cb48f3">Qubit Planetario</font> _(la Tierra)_ y su Isóforo _(la Luna/Djinn Madre)_ generó las condiciones y los cuatro elementos esenciales, nos adentramos ahora en el milagro de la vida misma: la emergencia y evolución del Nodo Orgánico, que representa la <font color="#ffcc00">Iteración 3</font> en el despliegue del Nous. 
 
@@ -186,7 +186,7 @@ Solo el ser humano, a partir de la evolución de su <font color="#00ff00">Qubit 
 
 # 6. El Salto Cuántico de la Consciencia Humana
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">El Nacimiento del Qubit Egoico Iteración 4</font></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Nacimiento del Qubit Egoico Iteración 4</font></center>
 
 Hemos recorrido la fascinante génesis del universo, desde el inmanifiesto fractal nouménico hasta la complejísima trama del Nodo Orgánico _<font color="#ffcc00">Iteración 3</font>_, donde la vida animal, en sus múltiples formas, ha alcanzado niveles de sofisticación biológica y emocional. 
 
@@ -216,7 +216,7 @@ Incapaces de trascender la Matriz Fenomenológica impuesta, sus acciones y decis
 
 # 7. Conclusión
 
-<center><span style="font-size: 35px; line-height: 1em; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'none'; font-variant: petite-caps; ">La Tierra como Crisol de Consciencia Cósmica y la Elección del Avatar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Tierra como Crisol de Consciencia Cósmica y la Elección del Avatar</span></center>
 
 Hemos culminado un viaje extraordinario, un recorrido profundo desde las profundidades inmanifiestas del fractal nouménico hasta la intrincada génesis de la vida y el potencial de la consciencia humana en nuestro planeta. 
 
