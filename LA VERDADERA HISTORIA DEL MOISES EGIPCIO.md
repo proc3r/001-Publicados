@@ -771,7 +771,7 @@ Al asumir el rol de Gran Esposa Real de <font color="#2f82ff">Tuthmose I</font>,
 > - <font color="#cb48f3">Wadjmose</font>: Un príncipe que también murió joven. Su fallecimiento podría coincidir temporalmente con la última plaga, la muerte de los primogénitos, siendo tal vez el único hijo varón al momento de los eventos conocidos como el cruce del Mar Rojo, habría sido una señal ominosa y una profunda humillación para el faraón, que vería cómo su propio heredero era alcanzado por la misma "maldición" que él había desafiado.
 > - <font color="#00ff00">Tuthmose II</font> : El futuro sucesor de <font color="#2f82ff">Tuthmose I</font>. Su nacimiento habría ocurrido después de que <font color="#2f82ff">Tuthmose I</font> regresara de los eventos asociados al cruce del Mar Rojo, lo que le habría permitido traer al mundo al nuevo heredero y asegurar la línea de sucesión tras la debacle y la perdida de su único heredero varón. 
 
-La pérdida de su primogénito varón, sumada a la derrota militar, debió haber provocado una profunda crisis de fe en el culto lunar faraónico. Los mismos egipcios que creían en su faraón y en sus dioses lunares, al haber visto que <font color="#ffa3ef">Amenmose</font> —quien también representaba al mismo culto lunar pero desde una facción diferente y aparentemente favorecido por los dioses— había prevalecido, habrían comenzado a dudar. Esto fue el inicio de la decadencia del culto lunar oficial, tal como se practicaba en la corte.
+La pérdida de su primogénito varón, sumada a la derrota militar, debió haber provocado una profunda crisis de fe en el culto lunar faraónico. Los mismos egipcios que creían en su faraón y en sus dioses lunares, al haber visto que <font color="#ffa3ef">Amenmose</font> —quien también representaba al mismo culto lunar pero desde una facción diferente— había prevalecido, habrían comenzado a dudar. Esto fue el inicio de la decadencia del culto lunar oficial, tal como se practicaba en la corte.
 
 Con la trágica muerte de <font color="#cb48f3">Wadjmose</font>, la sucesión quedó en vilo. Afortunadamente para el faraón, <font color="#00ff00">Tuthmose II</font> nació después de estos eventos devastadores, siendo el nuevo heredero varón. Sin embargo, <font color="#2f82ff">Tuthmose I</font> moriría cuando su hijo era aún un niño. 
 
@@ -781,15 +781,19 @@ Mientras el palacio real se recuperaba y reorganizaba, la trama de la saga de <f
 
 Al cruzar la frontera del Egipto dinástico, <font color="#ffa3ef">Amenmose</font> y sus padres, portadores de la sangre de la dinastía <font color="#2f82ff">Ahmose</font>, no solo llevaban consigo tesoros físicos, sino el archivo sagrado de la Luna. En el aislamiento del Sinaí, la figura de <font color="#ffa3ef">Amenmose</font> —visto como la encarnación de <font color="#ffcc00">Khonsu</font> (el viajero lunar)— transformó el culto cortesano a <font color="#2f82ff">Iah</font> en una ley de supervivencia para el pueblo hicso que los seguía. 
 
-El desierto, un entorno donde el sol es un verdugo y la luna es la guía benévola, se convirtió en el laboratorio perfecto para que <font color="#2f82ff">Iah</font> fuera renombrado. Bajo el cielo estrellado del desierto, el nombre <font color="#2f82ff">Yah-weh</font> comenzó a resonar no solo como un verbo semítico, sino como una estructura compuesta. 
+El desierto, un entorno donde el sol es un verdugo y la luna es la guía benévola, se convirtió en el laboratorio perfecto para que <font color="#2f82ff">Iah</font> fuera renombrado. Bajo el cielo estrellado del desierto, el nombre <font color="#2f82ff">Yahweh</font> comenzó a resonar no solo como un verbo semítico, sino como una estructura compuesta. 
 
 Mientras que la raíz <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">HWY</span> sugería <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"el que sopla"</span> o <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"el que se manifiesta"</span>, para la élite iniciada por los principes exiliados <font color="#00ff00">Ahmose Ankh</font> y <font color="#2f82ff">Ahmose Sitamón</font> —que ahora eran conocidos como <font color="#fc300c">Áaron</font> y <font color="#2f82ff">Miriam</font>—, el prefijo <font color="#2f82ff">Yah</font> seguía siendo el ancla egipcia: la presencia de la Luna que mide el tiempo. 
 
-Esta codificación permitió que el nuevo dios conservara las funciones de <font color="#ffcc00">Khonsu</font> y <font color="#ffcc00">Thot</font> —señores del cómputo del tiempo, la escritura y la magia— bajo un nuevo ropaje tribal. La transición de <font color="#2f82ff">Iah</font> a <font color="#2f82ff">Yahweh</font> fue el acto final de soberanía de estos príncipes exiliados: si ya no podían reinar sobre el Nilo, reinarían sobre el tiempo mismo a través de un calendario lunar que separaba radicalmente a su pueblo de los cultos solares del faraón reinante.
+Esta codificación permitió que el nuevo dios conservara las funciones de <font color="#ffcc00">Khonsu</font> y <font color="#ffcc00">Thot</font> —señores del cómputo del tiempo, la escritura y la magia— bajo un nuevo ropaje tribal. 
+
+La transición de <font color="#2f82ff">Iah</font> a <font color="#2f82ff">Yahweh</font> fue el acto final de soberanía de estos príncipes exiliados: si ya no podían reinar sobre el Nilo, reinarían sobre el tiempo mismo a través de un calendario lunar que separaba radicalmente a su pueblo de los cultos solares del faraón reinante.
 
 La importancia del registro escrito fue crucial en esta metamorfosis. <font color="#ffa3ef">Amenmose</font>, conocedor del poder de la palabra jeroglífica (Medu Neter) <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"palabras divinas"</span> o <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"palabras de dios"</span>, entendía que para que una deidad lunar sobreviviera al exilio, debía ser fijada en el texto. Así, el ritual lunar egipcio se transcribió en leyes y tabernáculos.
 
-La "Gloria de <font color="#2f82ff">Yahweh</font>" que descendía sobre el Arca no era otra cosa que el brillo plateado de <font color="#2f82ff">Iah</font>, el dios que camina de noche, ahora nacionalizado como el protector de Israel. El sincretismo se completó cuando la memoria de los padres de <font color="#ffa3ef">Amenmose</font> fue asimilada en las figuras de <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Miriam</font>, estableciendo un linaje sacerdotal que custodiaría el secreto de la Luna bajo la apariencia de una nueva revelación monoteísta.
+La "Gloria de <font color="#2f82ff">Yahweh</font>" que descendía sobre el Arca no era otra cosa que el brillo plateado de <font color="#2f82ff">Iah</font>, el dios que camina de noche, ahora nacionalizado como el protector de Israel. 
+
+El sincretismo se completó cuando la memoria de los padres de <font color="#ffa3ef">Amenmose</font> fue asimilada en las figuras de <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Miriam</font>, estableciendo un linaje sacerdotal que custodiaría el secreto de la Luna bajo la apariencia de una nueva revelación monoteísta.
 
 ## 2. La Consciencia Lunar en el Desierto
 
@@ -801,7 +805,9 @@ Este viaje por el desierto, más allá de la peregrinación física, fue un viaj
 
 Aquí, el culto lunar de <font color="#2f82ff">Iah</font> se consolidó como la deidad central. <font color="#fc300c">Aarón</font> / <font color="#00ff00">Ahmose Ankh</font> como el sumo sacerdote, y <font color="#2f82ff">Miriam</font> / <font color="#2f82ff">Ahmose Sitamón</font> como la profetisa lunar, jugaron un papel crucial en la reestructuración religiosa y social de este pueblo. 
 
-El dios lunar <font color="#2f82ff">Iah</font> —asociado a la noche, el misterio, la introspección y la promesa de un salvador—, resonaba profundamente con la experiencia de un pueblo que vivía al margen, buscando una guía y una esperanza. El Sinaí se convirtió en el núcleo místico de esta nueva fe. Las "tablas de la ley" y los mandamientos no serían solo revelaciones divinas, sino también un código moral y legal fundamental para cohesionar a un pueblo diverso en una identidad unificada. 
+El dios lunar <font color="#2f82ff">Iah</font> —asociado a la noche, el misterio, la introspección y la promesa de un salvador—, resonaba profundamente con la experiencia de un pueblo que vivía al margen, buscando una guía y una esperanza. 
+
+El Sinaí se convirtió en el núcleo místico de esta nueva fe. Las "tablas de la ley" y los mandamientos no serían solo revelaciones divinas, sino también un código moral y legal fundamental para cohesionar a un pueblo diverso en una identidad unificada. 
 
 Las leyes de <font color="#2f82ff">Yahweh</font> serían un reflejo de la necesidad de orden, justicia y una moralidad colectiva para sobrevivir en las duras condiciones del desierto y para establecer una sociedad justa una vez que llegaran a una "tierra prometida".
 
@@ -809,13 +815,15 @@ La sincretización de <font color="#2f82ff">Iah</font> con las tradiciones semit
 
 La ausencia de <font color="#2f82ff">Yahweh</font> en el panteón cananeo previo, donde <font color="#ffcc00">“Baal”</font> y <font color="#fc300c">“El”</font> dominaban, y su posterior aparición como una deidad monoteísta o henoteísta, sugiere que no era un dios antiguo de Canaán, sino una reconceptualización o reinterpretación de la deidad lunar <font color="#2f82ff">Iah</font>, catalizada por los eventos aquí descritos. 
 
-La religión hebrea, y posteriormente el judaísmo, surgieron a partir de esta poderosa fusión entre la deidad lunar egipcia <font color="#2f82ff">Iah</font>, las experiencias históricas de exilio y confrontación, y la brillante codificación sacerdotal de <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Miriam</font> realizada por los escribas hebreos que residieron en Babilonia. Este es el verdadero nacimiento de una nueva religión, forjada en el crisol de la adversidad y la visión de sus líderes.
+La religión hebrea, y posteriormente el judaísmo, surgieron a partir de esta poderosa fusión entre la deidad lunar egipcia <font color="#2f82ff">Iah</font>, las experiencias históricas de exilio y confrontación, y la brillante codificación sacerdotal de <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Miriam</font> realizada por los escribas hebreos que residieron en Babilonia. 
+
+Este es el verdadero nacimiento de una nueva religión, forjada en el crisol de la adversidad y la visión de sus líderes.
 
 ## 3. El Semillero del Monoteísmo
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">De <font color="#2f82ff">Yahweh</font> a Cristo, Dos Codificaciones Noemáticas</span></center>
 
-La compleja trayectoria de nuestra narrativa culmina en la revelación de cómo los eventos que rodearon a <font color="#ffa3ef">Amenmose</font> —el <font color="#ffcc00">Moisés</font> egipcio y <font color="#2f82ff">Avatar Lunar</font> de del dios <font color="#2f82ff">Iah</font> —, y el desarrollo del culto lunar de <font color="#2f82ff">Iah</font> / <font color="#2f82ff">Yahweh</font> se convirtieron en las dos fuentes fundamentales que, a través de distintas codificaciones noemáticas, dieron origen a las bases del cristianismo. 
+La compleja trayectoria de nuestra narrativa culmina en la revelación de cómo los eventos que rodearon a <font color="#ffa3ef">Amenmose</font> —el <font color="#ffcc00">Moisés</font> egipcio y <font color="#2f82ff">Avatar Lunar</font> del dios <font color="#2f82ff">Iah</font> —, y el desarrollo del culto lunar de <font color="#2f82ff">Iah</font> / <font color="#2f82ff">Yahweh</font> se convirtieron en las dos fuentes fundamentales que, a través de distintas codificaciones noemáticas, dieron origen a las bases del cristianismo. 
 
 La Biblia, tal como la conocemos, no se presenta como un relato lineal y unitario, sino como una construcción multifacética, donde el <font color="#fc300c">Antiguo</font> y el <font color="#2f82ff">Nuevo Testamento</font> representan dos codificaciones noemáticas distintas de pueblos diferentes, cada una adaptando y reinterpretando mitos e historias preexistentes para forjar sus propios relatos fundacionales y avatares.
 
@@ -823,7 +831,9 @@ La Biblia, tal como la conocemos, no se presenta como un relato lineal y unitari
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Avatar Hebreo Nacido en Egipto</span></center>
 
-La Torá, y posteriormente el <font color="#fc300c">Antiguo Testamento</font> de la Biblia cristiana, es una codificación magistral que emergió de la tradición hebrea, especialmente durante y después del exilio babilónico. En ese período crucial, los escribas hebreos, en contacto con las ricas mitologías y narrativas mesopotámicas —como la de Gilgamesh y el diluvio, o la veneración a deidades lunares como Sin— tomaron historias y mitos de origen tanto egipcio —como la saga de <font color="#ffa3ef">Amenmose</font>—, y mesopotámico para tejer su propio mito fundacional. 
+La Torá, y posteriormente el <font color="#fc300c">Antiguo Testamento</font> de la Biblia cristiana, es una codificación magistral que emergió de la tradición hebrea, especialmente durante y después del exilio babilónico. 
+
+En ese período crucial, los escribas hebreos, en contacto con las ricas mitologías y narrativas mesopotámicas —como la de Gilgamesh y el diluvio, o la veneración a deidades lunares como Sin— tomaron historias y mitos de origen tanto egipcio —como la saga de <font color="#ffa3ef">Amenmose</font>—, y mesopotámico para tejer su propio mito fundacional. 
 
 ![[Josue.png|500]]
 
