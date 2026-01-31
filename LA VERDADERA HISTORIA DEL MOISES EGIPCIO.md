@@ -379,7 +379,7 @@ Esta conexión nos permitirá entender las relaciones que aparecen en los regist
 
 Por otro lado, a <font color="#ffa3ef">Amenmose</font> se lo menciona como hermano de <font color="#cb48f3">Wadjmose</font>, <font color="#fc300c">Hatshepsut</font> y <font color="#ffcc00">Neferubity</font>, todos estos serían hijos de sangre de <font color="#e36c09">Mutnefert</font> y <font color="#2f82ff">Tuthmose I</font> (tía y sobrino).
 
-Es importante volver a mencionar que al ser coronado faraón, <font color="#2f82ff">Tuthmose I</font> habría contraído matrimonio con su tía <font color="#e36c09">Ahmose Meritamón</font> <font color="#e36c09">(Mutnefert)</font> previamente regente junto a <font color="#fc300c">Amenhotep I</font>, encargados de criar tanto a <font color="#2f82ff">Tuthmose I</font> como a <font color="#ffa3ef">Amenmose</font> durante su estancia en el palacio.
+Es importante volver a mencionar que al ser coronado faraón, <font color="#2f82ff">Tuthmose I</font> habría contraído matrimonio con su tía <font color="#e36c09">Ahmose Meritamón</font> <font color="#e36c09">(Mutnefert)</font> previamente regente junto a su hermano <font color="#fc300c">Amenhotep I</font>, ambos encargados de criar tanto a <font color="#2f82ff">Tuthmose I</font> como a <font color="#ffa3ef">Amenmose</font> durante su estancia en el palacio.
 
 Esto nos permite asumir que al contraer matrimonio con su sobrino y nuevo faraón <font color="#2f82ff">Tuthmose I</font>, <font color="#ffa3ef">Amenmose</font> pasaría de ser el primo de <font color="#2f82ff">Tuthmose I</font> a quedar registrado en la historia como su **hijo mayor**, debido al matrimonio con su tía, lo que a su vez convertiría a <font color="#ffa3ef">Amenmose</font> en primo e hijastro del faraón. 
 
