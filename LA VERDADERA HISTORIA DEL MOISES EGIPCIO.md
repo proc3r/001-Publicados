@@ -383,7 +383,7 @@ Es importante volver a mencionar que al ser coronado faraón, <font color="#2f82
 
 Esto significa que en el momento en que <font color="#e36c09">Ahmose Meritamón</font> contrajo matrimonio con su sobrino y nuevo faraón <font color="#2f82ff">Tuthmose I</font>, <font color="#ffa3ef">Amenmose</font> pasaría de ser el primo de <font color="#2f82ff">Tuthmose I</font> a quedar registrado en la historia como su **hijo mayor**, debido al matrimonio con su tía, lo que a su vez convertiría a <font color="#ffa3ef">Amenmose</font> en primo e hijastro del faraón. 
 
-Los registros arqueológicos que indican la muerte prematura de <font color="#ffa3ef">Amenmose</font>  antes que su padre <font color="#2f82ff">Tuthmose I</font>, podría hacer referencia una vez más, a un falso ritual mortuorio, realizado una vez que surge el conflicto entre <font color="#ffa3ef">Amenmose</font> y <font color="#2f82ff">Tuthmose I</font> y que deriva en la retirada del palacio del primero.
+Los registros arqueológicos que indican la muerte prematura de <font color="#ffa3ef">Amenmose</font>  antes que su padre <font color="#2f82ff">Tuthmose I</font>, podría hacer referencia una vez más, a un falso ritual mortuorio, realizado una vez que surge el conflicto entre <font color="#ffa3ef">Amenmose</font> y <font color="#2f82ff">Tuthmose I</font> y que deriva en la partida de <font color="#ffa3ef">Amenmose</font> del palacio.
 
 ## 8. La Trama Oculta
 
