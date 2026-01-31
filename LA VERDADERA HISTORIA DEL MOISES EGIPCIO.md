@@ -389,13 +389,11 @@ Los registros arqueológicos que indican la muerte prematura de <font color="#ff
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Fratricidio, Destierro y el Nacimiento de una Leyenda</span></center>
 
-Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font> y de su esposa <font color="#00ff00">Ahmose Nefertari</font> — protagonistas principales de las historias ocultas dentro de la familia faraónica—, pasaremos a proponer las posibles tramas que habrían derivado en los motivos de conflicto entre los faraones Egipcios y los pueblos extranjeros remanentes en estas tierras, luego de la etapa de reinado Hicso. 
+Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font> y de su esposa <font color="#00ff00">Ahmose Nefertari</font>, protagonistas principales de las historias ocultas dentro de la familia faraónica, pasaremos a proponer las posibles tramas que habrían derivado en los motivos de conflicto entre los faraones Egipcios y los pueblos extranjeros remanentes en estas tierras, luego de la etapa de reinado Hicso. 
 
 ![[Montu Vs JonsuX.jpg]]
 
-> [!dextrogiro] LA TRAMA DEL FRATRICIDIO - Un Choque de Ideologías y Sangre Real
-> 
-> 
+> [!dextrogiro]<font color="#fc300c"> LA TRAMA DEL FRATRICIDIO</font> - Un Choque de Ideologías y Sangre Real
 > La historia oficial sostiene que <font color="#00ff00">Ahmose Ankh</font> —el heredero al trono— murió prematuramente. Sin embargo, la evidencia de la momia de <font color="#ffcc00">Ahmose Sipair</font> —con una fatal herida de flecha— sugiere un destino diferente. 
 > 
 > Podemos imaginar como posible trama del conflicto que en un momento de furia, celos o quizá un trágico accidente durante una disputa familiar, <font color="#00ff00">Ahmose Ankh</font> dio muerte a su hermano <font color="#ffcc00">Ahmose Sipair</font>. 
@@ -406,8 +404,7 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 > 
 > Las tensiones sobre cómo gobernar un Egipto recién unificado, si con tolerancia o con mano dura, pudieron haber escalado hasta la tragedia. Este evento resonaría con el arquetipo universal del fratricidio, un eco primordial de <font color="#ffcc00">Set</font> matando a <font color="#00ff00">Osiris</font> —o <font color="#00ff00">Caín</font> matando a <font color="#cb48f3">Abel</font>—, un patrón de conflicto fundamental entre principios opuestos manifestándose en el plano fenomenológico.
 
-> [!jew] EL DESTIERRO Y LA MUERTE SIMULADA - Un Secreto de Estado
-> 
+> [!jew] <font color="#2f82ff">EL DESTIERRO Y LA MUERTE SIMULADA</font> - Un Secreto de Estado
 > Ante tal calamidad, la dinastía no podía permitirse el escándalo. La muerte del segundo heredero a manos del primogénito habría sumido al <font color="#2f82ff">Imperio Nuevo</font> en el caos y habría manchado la pureza divina del linaje real. 
 > 
 > Para salvaguardar la legitimidad y la estabilidad del naciente imperio, se podría haber tomado una decisión drástica, orquestada por la propia <font color="#00ff00">Ahmose Nefertari</font> y el faraón <font color="#ffcc00">Ahmose I</font>, <font color="#00ff00">Ahmose Ankh</font> sería desterrado y dado por muerto. 
@@ -417,7 +414,7 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 > Esta es la primera muerte en nuestra historia, un acto de borrado histórico para ocultar una verdad incómoda y mantener la fachada del orden divino.
 > 
 
-> [!clunar] LA PARTIDA DE LA PRINCESA sacerdotisa DE <font color="#2f82ff">AMÓN</font> - <font color="#2f82ff">Miriam</font> y la Fe Inquebrantable
+> [!clunar] <font color="#00ff00">LA PARTIDA DE LA PRINCESA SACERDOTISA DE</font> <font color="#2f82ff">AMÓN</font> - <font color="#2f82ff">Miriam</font> y la Fe Inquebrantable
 > Lo que no esperaban, o quizás sí —pudiendo ser parte de un destino preestablecido y orquestado por la Heimarmene— fue que la primogénita, <font color="#2f82ff">Ahmose Sitamón</font>, se uniera a su hermano en el exilio. 
 >
 >Ella, como sacerdotisa principal y heredera de los títulos de su madre como profetisa de <font color="#2f82ff">Amón</font> y de su abuela <font color="#fc300c">Tetisheri</font>, podría haber sentido la obligación ineludible de acompañar a su hermano <font color="#00ff00">Ahmose Ankh</font> debido a su profunda conexión divina y su fe en el culto lunar. 
@@ -426,7 +423,7 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 >
 >La muerte simulada de <font color="#2f82ff">Ahmose Sitamón</font> —atestiguada por el hallazgo de un simple cráneo y huesos atados en su tumba creando un simulacro de momia—, fue el ingenioso truco para justificar su desaparición oficial ante la corte. Esta partida, un acto de lealtad divina y convicción, dio origen a dos figuras legendarias que forman parte de la historia bíblica: <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Miriam</font>.
 
-> [!HUMANO] LOS VERDADEROS PADRES DE <FONT COLOR="#FFCC00">MOISÉS</FONT> - Los Nombres Hebreos de los Exiliados
+> [!HUMANO] <FONT COLOR="#FFCC00">LOS VERDADEROS PADRES DE MOISÉS</FONT> - Nombres Hebreos para los Exiliados
 > Si consideramos esta trama Egipcia, al ser expulsados del palació <font color="#00ff00">Ahmose Ankh</font> se convirtió en <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Ahmose Sitamón</font> en <font color="#2f82ff">Miriam</font>. 
 > 
 > Con su exilio, lejos de desaparecer en el anonimato, estos príncipes egipcios —con su carisma, su conocimiento de la política egipcia y su profundo arraigo en el culto lunar, pero ahora adaptados a las condiciones del desierto y la necesidad de unificación—, habrían logrado aglutinar a vastos grupos remanentes de hicsos y otros semitas que seguían el culto lunar y que estaban siendo marginados o expulsados del Delta del Nilo. 
@@ -438,7 +435,7 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 >
 > Así, el exilio de estos principes no fue un final, sino el nacimiento de un nuevo pueblo y una nueva identidad, con un liderazgo forjado en la adversidad.
 
-> [!demiurgo] EL NACIMIENTO DE <FONT COLOR="#FFA3EF">AMENMOSE</FONT> -El avatar de <font color="#ffcc00">Khonsu</font> nacido de los príncipes desterrados
+> [!demiurgo] <font color="#cb48f3">EL NACIMIENTO DE </font><FONT COLOR="#FFA3EF">AMENMOSE</FONT> - El avatar de <font color="#ffcc00">Khonsu</font> nacido de los príncipes desterrados
 > 
 > Durante su etapa de exilio <font color="#00ff00">Ahmose Ankh</font> y su hermana <font color="#2f82ff">Ahmose Sitamón</font> —nacidos en una cultura donde el incesto entre hermanos era una forma de asegurar la pureza de la descendencia, y la única forma que permitiría manifestar en la tierra el destino de los mismos dioses—, habrían cumplido con su misión divina de traer al mundo a un niño que representaba la encarnación del dios lunar <font color="#ffcc00">Khonsu</font>. 
 > 
@@ -456,7 +453,7 @@ Este trabajo de análisis y reinterpretación que estamos realizando es como si 
 
 Sin embargo es necesario contemplar una nueva posibilidad que cambiaría por completo el sentido de todas las tramas presentadas previamente, y que si la contemplamos considerando el inmenso poder que los egrégores mistéricos y religiosos tienen sobre las mentes de los humanos, podremos notar que esta nueva trama —a pesar de parecer poco probable bajo la lente de la mirada occidental moderna— podría haber sido una explicación mucho más coherente y simplificada que las que hemos propuesto. 
 
-> [!ontogenico] EL SACRIFICIO RITUAL - La premonición de la sacerdotisa de Amón
+> [!ontogenico] <font color="#e36c09">EL SACRIFICIO RITUAL</font> - La premonición de la sacerdotisa de Amón
 > En esta nueva trama, el nacimiento de <font color="#ffa3ef">Amenmose</font> a partir de la unión de la princesa sacerdotisa <font color="#2f82ff">Ahmose Sitamón</font> y su hermano <font color="#00ff00">Ahmose Ankh</font>, podría haber sido parte de un evento ritualístico y profético impuesto por principal profetisa de <font color="#2f82ff">Amón</font>, la reina <font color="#00ff00">Ahmose Nefertari</font> madre de los príncipes.
 > 
 > Si consideramos que la <font color="#2f82ff">Dinastía XVIII</font> se fundamentó en la creencia de una existencia divina, donde los actos ritualísticos y el poder oracular de las profetisas eran aún mayor que el poder manifestador del Faraón, podemos considerar la posibilidad de que haya sido la misma <font color="#00ff00">Ahmose-Neferati</font> —o incluso su madre <font color="#2f82ff">Ahhotep I</font> — quien habría revelado la necesidad de que <font color="#ffcc00">Ahmose Sipair</font> fuera matado por su propio hermano para permitir que su alma sea liberada, y que asi <font color="#ffcc00">Khonsu</font> pudiera reencarnar en el futuro hijo que nacería de los hermanos primogénitos.
