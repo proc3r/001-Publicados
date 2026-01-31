@@ -423,15 +423,15 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 >
 >La muerte simulada de <font color="#2f82ff">Ahmose Sitamón</font> —atestiguada por el hallazgo de un simple cráneo y huesos atados en su tumba creando un simulacro de momia—, fue el ingenioso truco para justificar su desaparición oficial ante la corte. Esta partida, un acto de lealtad divina y convicción, dio origen a dos figuras legendarias que forman parte de la historia bíblica: <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Miriam</font>.
 
-> [!HUMANO] <FONT COLOR="#FFCC00">LOS VERDADEROS PADRES DE MOISÉS</FONT> - Nombres Hebreos para los Exiliados
-> Si consideramos esta trama Egipcia, al ser expulsados del palació <font color="#00ff00">Ahmose Ankh</font> se convirtió en <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Ahmose Sitamón</font> en <font color="#2f82ff">Miriam</font>. 
+> [!HUMANO] <FONT COLOR="#FFCC00">LOS VERDADEROS PADRES DE MOISÉS</FONT> - Nombres Hebreos para los principes Exiliados
+> Si consideramos esta trama Egipcia, al ser expulsados del palacio <font color="#00ff00">Ahmose Ankh</font> se convirtió en <font color="#fc300c">Aarón</font> y <font color="#2f82ff">Ahmose Sitamón</font> en <font color="#2f82ff">Miriam</font>. 
 > 
 > Con su exilio, lejos de desaparecer en el anonimato, estos príncipes egipcios —con su carisma, su conocimiento de la política egipcia y su profundo arraigo en el culto lunar, pero ahora adaptados a las condiciones del desierto y la necesidad de unificación—, habrían logrado aglutinar a vastos grupos remanentes de hicsos y otros semitas que seguían el culto lunar y que estaban siendo marginados o expulsados del Delta del Nilo. 
 > 
-> Este no eran un grupo de esclavos recién liberados, sino una facción política y religiosa de ciudadanos disidentes que encontró en estos príncipes a sus líderes naturales, capaces de ofrecerles una nueva identidad y un propósito.
+> Estos no eran un grupo de esclavos recién liberados, sino una facción política y religiosa de ciudadanos disidentes que encontraron en estos príncipes a sus líderes naturales, capaces de ofrecerles una nueva identidad y un propósito.
 > 
-> - <font color="#fc300c">Aarón</font>, como el **primer sacerdote levita** y **sumo sacerdote** del pueblo que después sería Israel, encarnaría el papel del <font color="#2f82ff">Avatar Lunar</font>, el custodio del sacerdocio del <font color="#2f82ff">Iah</font> posteriormente convertido en <font color="#2f82ff">Yahweh</font>.
-> - <font color="#2f82ff">Miriam</font> (su hermana) sería la profetisa y sacerdotisa, la guardiana de la sabiduría de la <font color="#2f82ff">Djinn Madre</font>, mediadora entre lo divino y lo terrenal. Su nombre resuena con la divinidad lunar y el poder femenino. 
+> - <font color="#fc300c">Aarón</font> / <font color="#00ff00">Ahmose Ankh</font>, como el **primer sacerdote levita** y **sumo sacerdote** del pueblo que después sería Israel, encarnaría el papel del <font color="#2f82ff">Avatar Lunar</font>, el custodio del sacerdocio del <font color="#2f82ff">Iah</font> posteriormente convertido en <font color="#2f82ff">Yahweh</font>.
+> - <font color="#2f82ff">Miriam</font> / <font color="#2f82ff">Ahmose Sitamón</font> (su hermana) sería la profetisa y sacerdotisa, la guardiana de la sabiduría de la <font color="#2f82ff">Djinn Madre</font>, mediadora entre lo divino y lo terrenal. Su nombre resuena con la divinidad lunar y el poder femenino. 
 >
 > Así, el exilio de estos principes no fue un final, sino el nacimiento de un nuevo pueblo y una nueva identidad, con un liderazgo forjado en la adversidad.
 
