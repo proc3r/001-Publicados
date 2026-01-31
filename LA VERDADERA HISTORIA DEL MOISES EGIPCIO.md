@@ -2,7 +2,7 @@
 indexar: true
 ---
 
-![[Moisés EgipcioB.jpg]]
+![[Moises EgipcioB.jpg]]
 
 # Introducción
 
