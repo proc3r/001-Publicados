@@ -80,7 +80,7 @@ El Modelo Nouménico nos invita a pensar en la línea sucesoria faraónica que d
 > Su nombre, a menudo traducido como <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">la Luna de Tetis</span> o <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">la Luna de Isis</span>, refuerza su conexión con las deidades femeninas y lunares, predestinando su linaje a portar la esencia de la <font color="#2f82ff">Djinn Madre</font>.
 
 > [!samael] <font color="#cb48f3">SENAJTENRA AHMOSE</font> - El Abuelo (1588-1584 a. C.)
-> Representa un nivel de autoridad cósmica aún mas elevado, la <font color="#00ff00">Consciencia Universal</font> asociada al dios <font color="#2f82ff">Amón</font>, y que el Modelo Nouménico asocia con la consciencia del Nous Arquetípico mismo. 
+> Representa un nivel de autoridad cósmica aúnmás elevado, la <font color="#00ff00">Consciencia Universal</font> asociada al dios <font color="#2f82ff">Amón</font>, y que el Modelo Nouménico asocia con la consciencia del Nous Arquetípico mismo. 
 > 
 > ![[Senajtenra Ahmose3Plano.png|400]]
 > 
@@ -210,7 +210,7 @@ En esta etapa de influencia Hicsa, el conflicto no solo era un problema polític
 
 Esta diversidad religiosa generaba divisiones y, posiblemente, valores morales y costumbres distintas entre los pueblos, ya que durante esta época aún no existía la deidad monolátrica que hoy conocemos como <font color="#2f82ff">Yahweh</font>. 
 
-El intento de la línea tebana de iniciar la resistencia y devolver el poder a Egipto no fue puramente un conflicto étnico, sino mas bien un esfuerzo por imponer un orden unificado mediante el culto a un dios particular: <font color="#2f82ff">Amón</font>, la <font color="#00ff00">Consciencia Universal</font> que se manifiesta en la tierra a través del Avatar de la deidad lunar <font color="#2f82ff">Iah</font>, que representa a la <font color="#00ff00">Consciencia Estelar</font>.
+El intento de la línea tebana de iniciar la resistencia y devolver el poder a Egipto no fue puramente un conflicto étnico, sinomás bien un esfuerzo por imponer un orden unificado mediante el culto a un dios particular: <font color="#2f82ff">Amón</font>, la <font color="#00ff00">Consciencia Universal</font> que se manifiesta en la tierra a través del Avatar de la deidad lunar <font color="#2f82ff">Iah</font>, que representa a la <font color="#00ff00">Consciencia Estelar</font>.
 
 Las ideas del culto lunar, que posteriormente resonarían con el Islam —de ahí la importancia de la simbología de la luna en las banderas islámicas—, con <font color="#00ff00">Alá</font> como una reinterpretación del mismo dios lunar <font color="#2f82ff">Iah</font> egipcio o <font color="#2f82ff">Yahweh</font> semita, son reflejos del poder que tiene la simbología arquetípica de la deidad lunar. 
 
@@ -286,7 +286,7 @@ Ella fue la primogénita y, por tradición, estaba destinada a casarse con su pr
 
 Sin embargo, su destino oficial —según los registros arqueológicos egipcios— fue una muerte prematura antes del matrimonio. El crucial hallazgo de un **"simulacro de momia"** en su tumba, un cráneo y huesos atados a una estera de caña en lugar de un cuerpo completo embalsamado, es un indicio clave: **su muerte fue una fabricación**, una estrategia para encubrir su verdadero destino. 
 
-Al ser la tercera **sacerdotisa** —profundamente conectada con el culto lunar y el destino de su linaje— y al ser su primer hermano varon <font color="#00ff00">Ahmose Ankh</font> —que como explicaremos mas adelante sería desterrado—, ella probablemente sintió la obligación de partir con él, creyendo firmemente que su lugar y el destino en del descenso de <font color="#ffcc00">Khonsu</font> a la tierra la ataban a su lado.
+Al ser la tercera **sacerdotisa** —profundamente conectada con el culto lunar y el destino de su linaje— y al ser su primer hermano varon <font color="#00ff00">Ahmose Ankh</font> —que como explicaremosmás adelante sería desterrado—, ella probablemente sintió la obligación de partir con él, creyendo firmemente que su lugar y el destino en del descenso de <font color="#ffcc00">Khonsu</font> a la tierra la ataban a su lado.
 
 <font color="#2f82ff">Ahmose Sitamón</font> sería quien —según nuestro análisis heurístico basado en evidencias arqueológicas—, terminaría convirtiéndose en la profetisa y sacerdotisa de la facción exiliada semítica <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">“<font color="#2f82ff">Miriam</font>”</span> —la guardiana de la sabiduría de la <font color="#2f82ff">Djinn Madre</font>—. mediadora entre lo divino y lo terrenal. 
 
@@ -383,7 +383,7 @@ Es importante volver a mencionar que al ser coronado faraón, <font color="#2f82
 
 Esto significa que en el momento en que <font color="#e36c09">Ahmose Meritamón</font> contrajo matrimonio con su sobrino y nuevo faraón <font color="#2f82ff">Tuthmose I</font>, <font color="#ffa3ef">Amenmose</font> pasaría de ser el primo de <font color="#2f82ff">Tuthmose I</font> a quedar registrado en la historia como su **hijo mayor**, debido al matrimonio con su tía, lo que a su vez convertiría a <font color="#ffa3ef">Amenmose</font> en primo e hijastro del faraón. 
 
-Los registros acerca de su muerte prematura antes que su padre, podría hacer referencia una vez mas, a un falso ritual mortuorio, realizado una vez que surge el conflicto entre <font color="#ffa3ef">Amenmose</font> y <font color="#2f82ff">Tuthmose I</font>, y que deriva en la retirada del palacio del primero.
+Los registros arqueológicos que indican la muerte prematura de <font color="#ffa3ef">Amenmose</font>  antes que su padre <font color="#2f82ff">Tuthmose I</font>, podría hacer referencia una vez más, a un falso ritual mortuorio, realizado una vez que surge el conflicto entre <font color="#ffa3ef">Amenmose</font> y <font color="#2f82ff">Tuthmose I</font> y que deriva en la retirada del palacio del primero.
 
 ## 8. La Trama Oculta
 
@@ -442,7 +442,7 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 > 
 > Durante su etapa de exilio <font color="#00ff00">Ahmose Ankh</font> y su hermana <font color="#2f82ff">Ahmose Sitamón</font> —nacidos en una cultura donde el incesto entre hermanos era una forma de asegurar la pureza de la descendencia, y la única forma que permitiría manifestar en la tierra el destino de los mismos dioses—, habrían cumplido con su misión divina de traer al mundo a un niño que representaba la encarnación del dios lunar <font color="#ffcc00">Khonsu</font>. 
 > 
-> Este hijo, que podría haber sido gestado incluso antes del destierro, nacería en el exilio. Su nacimiento, mas allá de ser considerado un acto negativo por parte de la familia de los faraones, podría haber sido interpretado como un evento divino, asociado al destino de los dioses, en donde la <font color="#fc300c">Consciencia Nodal</font> que fluía a través de <font color="#ffcc00">Ahmose Sipair</font>, podría haberse liberado de la prisión mortal que imponía su cuerpo físico, para reencarnar bajo la experiencia de <font color="#ffa3ef">Amenmose</font>.
+> Este hijo, que podría haber sido gestado incluso antes del destierro, nacería en el exilio. Su nacimiento,más allá de ser considerado un acto negativo por parte de la familia de los faraones, podría haber sido interpretado como un evento divino, asociado al destino de los dioses, en donde la <font color="#fc300c">Consciencia Nodal</font> que fluía a través de <font color="#ffcc00">Ahmose Sipair</font>, podría haberse liberado de la prisión mortal que imponía su cuerpo físico, para reencarnar bajo la experiencia de <font color="#ffa3ef">Amenmose</font>.
 > 
 > Esta situación permitiría que tanto la <font color="#00ff00">Consciencia Estelar/Lunar</font> de <font color="#00ff00">Ahmose Ankh</font> como la <font color="#fc300c">Consciencia Nodal</font> de su hermano <font color="#ffcc00">Ahmose Sipair</font>, fuese unificada a través del nacimiento del nuevo heredero o <font color="#2f82ff">Avatar Lunar</font> <font color="#ffa3ef">Amenmose</font>, cuyo nombre significa <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Nacido de <font color="#2f82ff">Amón</font>"</span> y que sería el reflejo de la <font color="#00ff00">Consciencia Universal</font> del mismo dios <font color="#2f82ff">Amón</font> existiendo en la tierra. 
 > 
@@ -497,7 +497,7 @@ Más allá de como es que <font color="#ffa3ef">Amenmose</font> haya llegado a c
 
 Los registros indican que <font color="#fc300c">Amenhotep I</font> y <font color="#e36c09">Ahmose Meritamón</font> (su hermana) no tuvieros herederos directos al trono, lo que habría abierto un vacío de poder que generaría un conflicto inevitable entre sus dos sobrinos. 
 
-La ausencia de herederos no necesariamente significaría que este Faraón no hubiese tenido hijos, sino mas bien, que con la llegada de <font color="#ffa3ef">Amenmose</font> y su primo —el hijo de <font color="#ffcc00">Ahmose Sipair</font>—, el trono ya habría tenido su heredero asignado según la trama profética que seguía la familia.
+La ausencia de herederos no necesariamente significaría que este Faraón no hubiese tenido hijos, sinomás bien, que con la llegada de <font color="#ffa3ef">Amenmose</font> y su primo —el hijo de <font color="#ffcc00">Ahmose Sipair</font>—, el trono ya habría tenido su heredero asignado según la trama profética que seguía la familia.
 
 Con la muerte de <font color="#fc300c">Amenhotep I</font> —o incluso antes de que él muriese, en un ritual de traspado de poder al heredero de origen divino—, el trono estaba en disputa entre dos figuras prominentes, ambos con fuertes reclamos de linaje:
 
@@ -508,14 +508,14 @@ Con la muerte de <font color="#fc300c">Amenhotep I</font> —o incluso antes de 
 >
 > Él era la encarnación profetizada de <font color="#ffcc00">Khonsu</font>, un reflejo de la <font color="#00ff00">Consciencia Estelar</font> manifestada por la <font color="#00ff00">Consciencia Lunar</font> de la <font color="#2f82ff">Djinn Madre</font>.
 > 
-Podría haber tenido una postura mas <font color="#2f82ff">progresista</font> y cosmopolita para el futuro de Egipto que incluiría a los pueblos extranjeros que habían aceptado a sus padres, lo que representaría una visión mas universal pero que representaba un retroceso histórico en la lucha por eliminar la cultura Hicsa e imponer valores nacionalistas.
+Podría haber tenido una posturamás <font color="#2f82ff">progresista</font> y cosmopolita para el futuro de Egipto que incluiría a los pueblos extranjeros que habían aceptado a sus padres, lo que representaría una visiónmás universal pero que representaba un retroceso histórico en la lucha por eliminar la cultura Hicsa e imponer valores nacionalistas.
 > 
 
 > [!galactico] <font color="#2f82ff">TUTHMOSE I</font> - El <font color="#ffcc00">Avatar Solar</font>
 > El primo de <font color="#ffa3ef">Amenmose</font> —hijo del asesinado <font color="#ffcc00">Ahmose Sipair</font> y también criado en la corte por sus tíos <font color="#fc300c">Amenhotep I</font> y <font color="#e36c09">Ahmose Meritamón</font>—, representaba la línea de descendencia de la <font color="#fc300c">Consciencia Nodal</font> manifestada por la <font color="#00ff00">Consciencia Universal</font> del <font color="#fc300c"><font color="#fc300c">Djinn Padre</font></font>.
 ![[Tutmose IP.png|400]]
 > 
-> Su figura representa una conexión directa con la herencia dinástica histórica y una postura mas <font color="#fc300c">conservadora</font> y nacionalista de la tradición egipcia, que no estaba manchada por la historia profética del fratricidio, y que buscaba mantener el exilio de los pueblos de origen Hicso.
+> Su figura representa una conexión directa con la herencia dinástica histórica y una posturamás <font color="#fc300c">conservadora</font> y nacionalista de la tradición egipcia, que no estaba manchada por la historia profética del fratricidio, y que buscaba mantener el exilio de los pueblos de origen Hicso.
 
 Este conflicto no fue necesariamente una batalla abierta, sino una serie de eventos incómodos, debates políticos y quizás actos velados de violencia o conspiración. La familia de <font color="#2f82ff">Tuthmose I</font>, o incluso él mismo, pudo haberle hecho ver a <font color="#ffa3ef">Amenmose</font> que no merecía ser faraón, o que su destino era liderar a los pueblos extranjeros fuera de Egipto. 
 
@@ -599,7 +599,7 @@ Sin embargo, en nuestra reinterpretación, estas plagas no son solo castigos div
 
 Esta erupción, uno de los mayores eventos volcánicos de la historia registrada, ocurrió en el mismo período que los eventos aquí descritos, y pudo haber tenido efectos devastadores en el Mediterráneo oriental y en Egipto.
 
-Podemos imaginar que la facción liderada por <font color="#00ff00">Ahmose Ankh</font> y <font color="#ffa3ef">Amenmose</font> —con una actitud ofensiva más intelectual y astuta que la del faraón— tal vez potenciada por el poder profético de la sacerdotisa Lunar que encarnaba <font color="#2f82ff">Ahmose Sitamón</font>, pudiera haber previsto las consecuencias asociadas a este evento catastrófico —sobre todo si la resistencia promovida por esta facción conformada mayormente por ciudadanos de origen hicso—, se encontraba al norte de Tebas, que era el lugar de residencia del faraón, en una posición mas cercana a la desembocadura del Nilo y del mar mediterráneo. 
+Podemos imaginar que la facción liderada por <font color="#00ff00">Ahmose Ankh</font> y <font color="#ffa3ef">Amenmose</font> —con una actitud ofensiva más intelectual y astuta que la del faraón— tal vez potenciada por el poder profético de la sacerdotisa Lunar que encarnaba <font color="#2f82ff">Ahmose Sitamón</font>, pudiera haber previsto las consecuencias asociadas a este evento catastrófico —sobre todo si la resistencia promovida por esta facción conformada mayormente por ciudadanos de origen hicso—, se encontraba al norte de Tebas, que era el lugar de residencia del faraón, en una posiciónmás cercana a la desembocadura del Nilo y del mar mediterráneo. 
 
 Esta posición estratégica podría haberles hecho experimentar las consecuencias de la erupción con anterioridad y poder preveer las consecuencias de lo que ocurriría en Tebas, donde se verían afectadas las aguas, el clima y la fauna, permitiendo que <font color="#ffa3ef">Amenmose</font> advirtiera de estos eventos al faraón, presentándolos como castigos que sufriría su pueblo en caso de no aceptar sus propuestas. 
 
@@ -819,7 +819,7 @@ Es crucial entender que <font color="#cb48f3">Josué</font> no es solo un líder
 
 La profunda conexión arquetípica entre la cosmogonía egipcia y la narrativa hebrea se ve poderosamente codificada en la figura de <font color="#cb48f3">Josué</font> mismo. Las escrituras hebreas lo mencionan como <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"hijo de Nun"</span> de la tribu de Efraín. En la mitología egipcia, <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Nun</span> es una deidad primordial que representa el <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Océano Primordial"</span>, la primera sustancia abstracta y caótica que contiene el potencial de toda la vida y el origen del cosmos. 
 
-Esta referencia no es una mera coincidencia, al designar a <font color="#cb48f3">Josué</font> como hijo de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Nun</span>, el texto hebreo inconscientemente, o quizás intencionalmente, reafirma una conexión profunda con el origen mismo de la creación en la cosmogonía egipcia, mas allá de las figuras de <font color="#2f82ff">Amón</font> y <font color="#fc300c">Mut</font>, dotando al avatar hebreo de una legitimidad que trasciende las fronteras culturales y temporales. 
+Esta referencia no es una mera coincidencia, al designar a <font color="#cb48f3">Josué</font> como hijo de <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">Nun</span>, el texto hebreo inconscientemente, o quizás intencionalmente, reafirma una conexión profunda con el origen mismo de la creación en la cosmogonía egipcia,más allá de las figuras de <font color="#2f82ff">Amón</font> y <font color="#fc300c">Mut</font>, dotando al avatar hebreo de una legitimidad que trasciende las fronteras culturales y temporales. 
 
 Así, el <font color="#fc300c">Antiguo Testamento</font> —con sus profecías y su énfasis en la ley y la Alianza— es un texto complejo que legitima la identidad y la misión del pueblo israelíta, proveyendo un avatar 100% hebreo, aunque su origen y la de su mentor o padre espiritual <font color="#ffa3ef">(Amenmose)</font>, tengan profundas raíces egipcias.
 
