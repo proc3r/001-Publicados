@@ -393,7 +393,7 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 
 ![[Montu Vs JonsuX.jpg]]
 
-> [!dextrogiro]<font color="#fc300c"> LA TRAMA DEL FRATRICIDIO</font> - Un Choque de Ideologías y Sangre Real
+> [!dextrogiro] <font color="#fc300c"> LA TRAMA DEL FRATRICIDIO</font> - Un Choque de Ideologías y Sangre Real
 > La historia oficial sostiene que <font color="#00ff00">Ahmose Ankh</font> —el heredero al trono— murió prematuramente. Sin embargo, la evidencia de la momia de <font color="#ffcc00">Ahmose Sipair</font> —con una fatal herida de flecha— sugiere un destino diferente. 
 > 
 > Podemos imaginar como posible trama del conflicto que en un momento de furia, celos o quizá un trágico accidente durante una disputa familiar, <font color="#00ff00">Ahmose Ankh</font> dio muerte a su hermano <font color="#ffcc00">Ahmose Sipair</font>. 
@@ -407,7 +407,7 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 > [!jew] <font color="#2f82ff">EL DESTIERRO Y LA MUERTE SIMULADA</font> - Un Secreto de Estado
 > Ante tal calamidad, la dinastía no podía permitirse el escándalo. La muerte del segundo heredero a manos del primogénito habría sumido al <font color="#2f82ff">Imperio Nuevo</font> en el caos y habría manchado la pureza divina del linaje real. 
 > 
-> Para salvaguardar la legitimidad y la estabilidad del naciente imperio, se podría haber tomado una decisión drástica, orquestada por la propia <font color="#00ff00">Ahmose Nefertari</font> y el faraón <font color="#ffcc00">Ahmose I</font>, <font color="#00ff00">Ahmose Ankh</font> sería desterrado y dado por muerto. 
+> Para salvaguardar la legitimidad y la estabilidad del naciente imperio, se podría haber tomado una decisión drástica, orquestada por la propia <font color="#00ff00">Ahmose Nefertari</font> y el faraón <font color="#ffcc00">Ahmose I</font>, <font color="#00ff00">donde Ahmose Ankh</font> sería desterrado y dado por muerto. 
 > 
 > No solo se le prohibiría regresar y llegar a ser faraón, sino que se borraría su existencia oficial simulando su deceso y su desaparición de los registros. 
 > 
