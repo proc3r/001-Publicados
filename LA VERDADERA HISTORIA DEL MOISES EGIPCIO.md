@@ -436,7 +436,6 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 > Así, el exilio de estos principes no fue un final, sino el nacimiento de un nuevo pueblo y una nueva identidad, con un liderazgo forjado en la adversidad.
 
 > [!demiurgo] <font color="#cb48f3">EL NACIMIENTO DE </font><FONT COLOR="#FFA3EF">AMENMOSE</FONT> - El avatar de <font color="#ffcc00">Khonsu</font> nacido de los príncipes desterrados
-> 
 > Durante su etapa de exilio <font color="#00ff00">Ahmose Ankh</font> y su hermana <font color="#2f82ff">Ahmose Sitamón</font> —nacidos en una cultura donde el incesto entre hermanos era una forma de asegurar la pureza de la descendencia, y la única forma que permitiría manifestar en la tierra el destino de los mismos dioses—, habrían cumplido con su misión divina de traer al mundo a un niño que representaba la encarnación del dios lunar <font color="#ffcc00">Khonsu</font>. 
 > 
 > Este hijo, que podría haber sido gestado incluso antes del destierro, nacería en el exilio. Su nacimiento,más allá de ser considerado un acto negativo por parte de la familia de los faraones, podría haber sido interpretado como un evento divino, asociado al destino de los dioses, en donde la <font color="#fc300c">Consciencia Nodal</font> que fluía a través de <font color="#ffcc00">Ahmose Sipair</font>, podría haberse liberado de la prisión mortal que imponía su cuerpo físico, para reencarnar bajo la experiencia de <font color="#ffa3ef">Amenmose</font>.
