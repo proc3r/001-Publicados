@@ -2,7 +2,7 @@
 indexar: true
 ---
 
-![[Moises EgipcioB.jpg]]
+![[Moisés EgipcioB.jpg]]
 
 # Introducción
 
@@ -438,7 +438,7 @@ Ahora que hemos introducido a los hijos de <font color="#ffcc00">Ahmose I</font>
 > [!demiurgo] <font color="#cb48f3">EL NACIMIENTO DE </font><FONT COLOR="#FFA3EF">AMENMOSE</FONT> - El avatar de <font color="#ffcc00">Khonsu</font> nacido de los príncipes desterrados
 > Durante su etapa de exilio <font color="#00ff00">Ahmose Ankh</font> y su hermana <font color="#2f82ff">Ahmose Sitamón</font> —nacidos en una cultura donde el incesto entre hermanos era una forma de asegurar la pureza de la descendencia, y la única forma que permitiría manifestar en la tierra el destino de los mismos dioses—, habrían cumplido con su misión divina de traer al mundo a un niño que representaba la encarnación del dios lunar <font color="#ffcc00">Khonsu</font>. 
 > 
-> Este hijo, que podría haber sido gestado incluso antes del destierro, nacería en el exilio. Su nacimiento, más allá de ser considerado un acto negativo por parte de la familia de los faraones, podría haber sido interpretado como un evento divino, asociado al destino de los dioses, en donde la <font color="#fc300c">Consciencia Nodal</font> que fluía a través de <font color="#ffcc00">Ahmose Sipair</font>, podría haberse liberado de la prisión mortal que imponía su cuerpo físico, para reencarnar bajo la experiencia de <font color="#ffa3ef">Amenmose</font>.
+> Este hijo, que podría haber sido gestado incluso antes del destierro, nacería en el exilio. Su nacimiento, más allá de ser considerado un acto negativo por parte de la familia de los faraones, podría haber sido interpretado como un evento divino asociado al destino de los dioses, en donde la <font color="#fc300c">Consciencia Nodal</font> que fluía a través de <font color="#ffcc00">Ahmose Sipair</font>, podría haberse liberado de la prisión mortal que imponía su cuerpo físico, para reencarnar bajo la experiencia de <font color="#ffa3ef">Amenmose</font>.
 > 
 > Esta situación permitiría que tanto la <font color="#00ff00">Consciencia Estelar/Lunar</font> de <font color="#00ff00">Ahmose Ankh</font> como la <font color="#fc300c">Consciencia Nodal</font> de su hermano <font color="#ffcc00">Ahmose Sipair</font>, fuese unificada a través del nacimiento del nuevo heredero o <font color="#2f82ff">Avatar Lunar</font> <font color="#ffa3ef">Amenmose</font>, cuyo nombre significa <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Nacido de <font color="#2f82ff">Amón</font>"</span> y que sería el reflejo de la <font color="#00ff00">Consciencia Universal</font> del mismo dios <font color="#2f82ff">Amón</font> existiendo en la tierra. 
 > 
@@ -453,9 +453,9 @@ Este trabajo de análisis y reinterpretación que estamos realizando es como si 
 Sin embargo es necesario contemplar una nueva posibilidad que cambiaría por completo el sentido de todas las tramas presentadas previamente, y que si la contemplamos considerando el inmenso poder que los egrégores mistéricos y religiosos tienen sobre las mentes de los humanos, podremos notar que esta nueva trama —a pesar de parecer poco probable bajo la lente de la mirada occidental moderna— podría haber sido una explicación mucho más coherente y simplificada que las que hemos propuesto. 
 
 > [!ontogenico] <font color="#e36c09">EL SACRIFICIO RITUAL</font> - La premonición de la sacerdotisa de Amón
-> En esta nueva trama, el nacimiento de <font color="#ffa3ef">Amenmose</font> a partir de la unión de la princesa sacerdotisa <font color="#2f82ff">Ahmose Sitamón</font> y su hermano <font color="#00ff00">Ahmose Ankh</font>, podría haber sido parte de un evento ritualístico y profético impuesto por principal profetisa de <font color="#2f82ff">Amón</font>, la reina <font color="#00ff00">Ahmose Nefertari</font> madre de los príncipes.
+> En esta nueva trama, el nacimiento de <font color="#ffa3ef">Amenmose</font> a partir de la unión de la princesa sacerdotisa <font color="#2f82ff">Ahmose Sitamón</font> y su hermano <font color="#00ff00">Ahmose Ankh</font>, podría haber sido parte de un evento ritualístico y profético impuesto por la principal profetisa de <font color="#2f82ff">Amón</font>, la reina <font color="#00ff00">Ahmose Nefertari</font> madre de los príncipes.
 > 
-> Si consideramos que la <font color="#2f82ff">Dinastía XVIII</font> se fundamentó en la creencia de una existencia divina, donde los actos ritualísticos y el poder oracular de las profetisas eran aún mayor que el poder manifestador del Faraón, podemos considerar la posibilidad de que haya sido la misma <font color="#00ff00">Ahmose-Neferati</font> —o incluso su madre <font color="#2f82ff">Ahhotep I</font> — quien habría revelado la necesidad de que <font color="#ffcc00">Ahmose Sipair</font> fuera matado por su propio hermano para permitir que su alma sea liberada, y que asi <font color="#ffcc00">Khonsu</font> pudiera reencarnar en el futuro hijo que nacería de los hermanos primogénitos.
+> Si consideramos que la <font color="#2f82ff">Dinastía XVIII</font> se fundamentó en la creencia de una existencia divina, donde los actos ritualísticos y el poder oracular de las profetisas eran aún mayor que el poder manifestador del Faraón, podemos considerar la posibilidad de que haya sido la misma <font color="#00ff00">Ahmose Nefertari</font> —o incluso su madre <font color="#2f82ff">Ahhotep I</font> — quien habría revelado la necesidad de que <font color="#ffcc00">Ahmose Sipair</font> fuera matado por su propio hermano para permitir que su alma sea liberada, y que de esta forma <font color="#ffcc00">Khonsu</font> pudiera reencarnar en el futuro hijo que nacería de los hermanos primogénitos.
 > 
 > Este acto de sacrificio ritual también implicaría que los padres del nuevo niño nacido deberían ser desterrados y no volver a ser parte de la corte faraónica, para permitir que su hijo recibiese todo el poder manifestador de la trinidad <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;"><font color="#2f82ff">Amón</font> / <font color="#fc300c">Mut</font> / <font color="#ffcc00">Khonsu</font></span>.
 > 
@@ -465,11 +465,11 @@ Todas estas situaciones rompen con la narrativa bíblica de <font color="#ffcc00
 
 Esta nueva visión de la historia de <font color="#ffcc00">Moisés</font>, considerando la información histórica de los príncipes egipcios, nos permite reconstruir un hecho histórico mucho más lógico que conecta con los simbolismos arquetípicos de la muerte y resurrección, interpretados de manera literal por el poder profético asociado al sacerdocio lunar y la <font color="#00ff00">Consciencia Estelar</font> que dirigieron el destino de la <font color="#2f82ff">Dinastía XVIII</font>, y que a su vez es reforzado por las tradiciones y creencias en las deidades y el destino divino que demostraron tener los faraones Egipcios.
 
-## <font color="#ffa3ef">9. Amenmose - El Moises Bíblico</font>
+## <font color="#ffa3ef">9. Amenmose - El Moisés Bíblico</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Deidad Lunar Descendida</span></center>
 
-Con la muerte de <font color="#ffcc00">Ahmose Sipair</font> y la partida de <font color="#00ff00">Ahmose Ankh</font> y <font color="#2f82ff">Ahmose Sitamón</font>, <font color="#fc300c">Amenhotep I</font> —el cuarto hijo— se convertiría en el sucesor de su padre <font color="#ffcc00">Ahmose I</font>. Su reinado ocurrió entre los años 1550 y el 1530 a. C., y se caracterizó por la consolidación interna y el florecimiento cultural. 
+Con la muerte de <font color="#ffcc00">Ahmose Sipair</font> y la partida de <font color="#00ff00">Ahmose Ankh</font> y <font color="#2f82ff">Ahmose Sitamón</font>, <font color="#fc300c">Amenhotep I</font> —el cuarto hijo— se convertiría en el sucesor de su padre <font color="#ffcc00">Ahmose I</font>. Su reinado ocurriría entre los años 1550 y el 1530 a. C., y se caracterizó por la consolidación interna y el florecimiento cultural. 
 
 Durante este período, un evento crucial para nuestra trama ocurre: el nacimiento de <font color="#ffa3ef">Amenmose</font>, hijo de los príncipes desterrados <font color="#00ff00">Ahmose Ankh</font> y <font color="#2f82ff">Ahmose Sitamón</font>. Aquí es donde se conectan la historia de <font color="#ffa3ef">Amenmose</font> y la conmovedora historia bíblica de <font color="#ffcc00">Moisés</font> siendo encontrado en el río. 
 
@@ -483,7 +483,7 @@ Esto nos hace pensar que es posible que <font color="#e36c09">Ahmose Meritamón<
 
 El hecho de que la llegada de <font color="#ffa3ef">Amenmose</font> al palacio haya sido un evento reconocido por toda la familia faraónica —o un evento secreto en el que la princesa debió engañar a sus padres—, dependerá del tipo de trama que decidamos considerar según las posibles alternativas presentadas previamente. 
 
-Quizás el mismo faraón <font color="#ffcc00">Ahmose I</font> —quien aún vivía cuando <font color="#ffa3ef">Amenmose</font> nació—, sabiendo su verdadera identidad pudo haberlo aceptado consciente el destino profético de este linaje que él mismo había ayudado a construir, o incluso como un intento de apaciguar las tensiones y de mantener al "hijo del heredero desterrado" bajo su control. 
+Quizás el mismo faraón <font color="#ffcc00">Ahmose I</font> —quien aún vivía cuando <font color="#ffa3ef">Amenmose</font> nació—, sabiendo su verdadera identidad pudo haberlo aceptado siendo consciente del destino profético de este linaje que él mismo había ayudado a construir, o incluso como un intento de apaciguar las tensiones y de mantener al "hijo del heredero desterrado" bajo su control. 
 
 Más allá de como es que <font color="#ffa3ef">Amenmose</font> haya llegado a convivir con la familia real, lo importante es que fue criado en el palacio por la princesa <font color="#e36c09">Ahmose Meritamón</font>, y aceptado como hijastro por <font color="#fc300c">Amenhotep I</font>. De esta forma, <font color="#ffa3ef">Amenmose</font> creció como parte de la realeza, conociendo sus costumbres, su política y sus ejércitos, y eventualmente se convertiría en un respetado general. 
 
@@ -491,7 +491,7 @@ Más allá de como es que <font color="#ffa3ef">Amenmose</font> haya llegado a c
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Choque de Herederos y la Partida de <font color="#ffa3ef">Amenmose</font></span></center>
 
-Los registros indican que <font color="#fc300c">Amenhotep I</font> y <font color="#e36c09">Ahmose Meritamón</font> (su hermana) no tuvieros herederos directos al trono, lo que habría abierto un vacío de poder que generaría un conflicto inevitable entre sus dos sobrinos. 
+Los registros indican que <font color="#fc300c">Amenhotep I</font> y <font color="#e36c09">Ahmose Meritamón</font> (su hermana) no tuvieron herederos directos al trono, lo que habría abierto un vacío de poder que generaría un conflicto inevitable entre sus dos sobrinos. 
 
 La ausencia de herederos no necesariamente significaría que este Faraón no hubiese tenido hijos, sinomás bien, que con la llegada de <font color="#ffa3ef">Amenmose</font> y su primo —el hijo de <font color="#ffcc00">Ahmose Sipair</font>—, el trono ya habría tenido su heredero asignado según la trama profética que seguía la familia.
 
