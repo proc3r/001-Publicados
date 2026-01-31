@@ -280,7 +280,7 @@ A continuación presentaremos a los protagonistas principales de este drama real
 
 El nombre <font color="#2f82ff">Ahmose Sitamón</font> se descompone etimológicamente así: <font color="#2f82ff">Ahmose</font> significa <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Nacido de <font color="#2f82ff">Iah</font> "</span> o <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Hijo de la Luna"</span>. <font color="#2f82ff">Sitamón</font> o Sat-Amun significa <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Hija de <font color="#2f82ff">Amón</font>"</span>. Por lo tanto, su nombre significa <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Hija de <font color="#2f82ff">Amón</font>, nacida de la Luna"</span> o <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Hija de <font color="#2f82ff">Amón</font>, Hija de la Luna"</span>. 
 
-![[Sitamón1.png|400]]
+![[Sitamon1.png|400]]
 
 Ella fue la primogénita y, por tradición, estaba destinada a casarse con su primer hermano varón <font color="#00ff00">Ahmose Ankh</font>, para consolidar la línea sucesoria, siguiendo la lógica del culto lunar que buscaba preservar la pureza de la <font color="#00ff00">Consciencia Estelar</font>. 
 
@@ -367,7 +367,7 @@ Así, podríamos suponer que durante el reinado de <font color="#fc300c">Amenhot
 
 <font color="#e36c09">Ahmose Meritamón</font> fue la quinta hija de <font color="#ffcc00">Ahmose I</font>. Su nombre significa <span style="font-family: 'merriweather', serif; background: #8d9b1b26; border-radius: 5px; padding: 0px 4px 0px 4px; opacity: 0.9; text-shadow: -1px 2px 1px #5c5c5c78;">"Hija de la luna, Amada de <font color="#2f82ff">Amón</font>"</span>. Heredaría los títulos de su madre, <font color="#00ff00">Ahmose Nefertari</font>, como profetisa de <font color="#2f82ff">Amón</font> y Gran Esposa Real tras la partida de <font color="#2f82ff">Ahmose Sitamón</font> (su hermana mayor). 
 
-![[Ahmose-MeritamónP.png|400]]
+![[Ahmose-MeritamonP.png|400]]
 
 En nuestra narrativa, ella desempeñaría un papel crucial en la crianza de <font color="#ffa3ef">Amenmose</font> —quien sería su sobrino— hijo de sus hermanos desterrados <font color="#00ff00">Ahmose Ankh</font> y su hermana <font color="#2f82ff">Ahmose Sitamón</font>, actuando como su "madrastra" en el palacio.
 
