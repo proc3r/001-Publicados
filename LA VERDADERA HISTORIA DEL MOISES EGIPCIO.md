@@ -833,7 +833,7 @@ La Biblia, tal como la conocemos, no se presenta como un relato lineal y unitari
 
 La Torá, y posteriormente el <font color="#fc300c">Antiguo Testamento</font> de la Biblia cristiana, es una codificación magistral que emergió de la tradición hebrea, especialmente durante y después del exilio babilónico. 
 
-En ese período crucial, los escribas hebreos, en contacto con las ricas mitologías y narrativas mesopotámicas —como la de Gilgamesh y el diluvio, o la veneración a deidades lunares como Sin— tomaron historias y mitos de origen tanto egipcio —como la saga de <font color="#ffa3ef">Amenmose</font>—, y mesopotámico para tejer su propio mito fundacional. 
+En ese período crucial, los escribas hebreos, en contacto con las ricas mitologías y narrativas mesopotámicas —como la de Gilgamesh, el diluvio de Ziusudra y la historia de Sargón de Acad —concebido en secreto por una sacerdotisa y colocado en una cesta de juntos en el río—, o la veneración a deidades lunares como Sin— tomaron historias y mitos de origen tanto egipcio —como la saga de <font color="#ffa3ef">Amenmose</font>—, y mesopotámico para tejer su propio mito fundacional. 
 
 ![[Josue.png|500]]
 
