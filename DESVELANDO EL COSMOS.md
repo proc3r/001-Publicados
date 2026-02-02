@@ -30,23 +30,23 @@ En la cima de nuestra jerarquía fenoménica, pero en la base conceptual de la m
 
 ![[Qubit Creador2.jpg]]
 
-Su Matriz Estructural es el <font color="#fc300c">Qubit Creador Estelar</font>. Este es un concepto central dentro del Modelo Nouménico. Lejos de ser un mero espacio o campo de energía, el <font color="#fc300c">Qubit Creador Estelar</font> es la matriz fenomenológica primordial local que delimita y contiene la totalidad de un sistema estelar. 
+Su Matriz Estructural es el <font color="#fc300c">Qubit Estelar</font>. Este es un concepto central dentro del Modelo Nouménico. Lejos de ser un mero espacio o campo de energía, el <font color="#fc300c">Qubit Estelar</font> es la matriz fenomenológica primordial local que delimita y contiene la totalidad de un sistema estelar. 
 
 Es una estructura fundamental que interactúa con el <font color="#2f82ff">Qubit Ontogénico</font>, un nivel de consciencia universal aún más elevado y abarcador, y es el origen de los flujos Alfa y Omega, fuerzas nouménicas esenciales que permiten la génesis y el desarrollo de las estructuras subsiguientes. 
 
-En nuestro propio sistema, el <font color="#fc300c">Qubit Creador Estelar</font> es lo que en el plano fenomenológico da origen y organiza la Heliosfera, la vasta región de espacio influenciada por nuestro Sol. La elección del concepto: "<font color="#fc300c">Qubit Creador Estelar</font>", se alinea con la terminología de "<font color="#cb48f3">Qubit Planetario</font>" y "<font color="#00ff00">Qubit Egoico</font>", enfatizando la naturaleza cuántica e informacional de estas estructuras subyacentes a la realidad percibida, y su capacidad de ser creadoras de nuevos niveles de emergencia.
+En nuestro propio sistema, el <font color="#fc300c">Qubit Estelar</font> es lo que en el plano fenomenológico da origen y organiza la Heliosfera, la vasta región de espacio influenciada por nuestro Sol. La elección del concepto: "<font color="#fc300c">Qubit Estelar</font>", se alinea con la terminología de "<font color="#cb48f3">Qubit Planetario</font>" y "<font color="#00ff00">Qubit Egoico</font>", enfatizando la naturaleza cuántica e informacional de estas estructuras subyacentes a la realidad percibida, y su capacidad de ser creadoras de nuevos niveles de emergencia.
 
-El Tipo de Entidad que encarna la consciencia de este <font color="#fc300c">Qubit Creador Estelar</font> es el Djinn. Este término, extraído de la mitología para evocar una entidad invisible, poderosa y de fuego sin humo, es crucial porque no se limita a describir un objeto físico. 
+El Tipo de Entidad que encarna la consciencia de este <font color="#fc300c">Qubit Estelar</font> es el Djinn. Este término, extraído de la mitología para evocar una entidad invisible, poderosa y de fuego sin humo, es crucial porque no se limita a describir un objeto físico. 
 
 El Djinn es la consciencia unificadora del Nodo Estelar, la inteligencia primordial que procesa y gestiona los flujos de información nouménica que dan forma a todo el sistema. En nuestro caso, la Instancia _Ejemplo_ de este Djinn es Soplaris, el nombre que unifica la consciencia de nuestro propio Nodo Estelar. 
 
-El Ámbito de Influencia del Djinn y del <font color="#fc300c">Qubit Creador Estelar</font> es, por definición, el Nodo Estelar completo, representando el microcosmos autocontenido que abarca una estrella y todos sus cuerpos celestes.
+El Ámbito de Influencia del Djinn y del <font color="#fc300c">Qubit Estelar</font> es, por definición, el Nodo Estelar completo, representando el microcosmos autocontenido que abarca una estrella y todos sus cuerpos celestes.
 
 # 3. Nivel de Iteración  1
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Corazón Resonante del Sistema</span></center>
 
-Descendiendo desde el <font color="#fc300c">Qubit Creador Estelar</font>, encontramos el Nivel de <font color="#2f82ff">Iteración 1</font>, que da forma al corazón gravitacional y energético del Nodo Estelar.
+Descendiendo desde el <font color="#fc300c">Qubit Estelar</font>, encontramos el Nivel de <font color="#2f82ff">Iteración 1</font>, que da forma al corazón gravitacional y energético del Nodo Estelar.
 
 La Matriz Estructural de este nivel es la Estela. La Estela no es simplemente una colección de gases en fusión; es la matriz nouménica que define la estructura interna y el patrón arquetípico de la estrella, actuando como el anclaje central del sistema.
 
@@ -58,7 +58,7 @@ Las Instancias _Ejemplo_ de Axón son las Estrellas que observamos en el firmame
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Periforía y los Condensadores Planetarios</span></center>
 
-El Nivel de <font color="#fc300c">Iteración 2</font> se manifiesta como el despliegue de la energía y la información del Axón y del <font color="#fc300c">Qubit Creador Estelar</font> en estructuras más complejas dentro del Nodo Estelar.
+El Nivel de <font color="#fc300c">Iteración 2</font> se manifiesta como el despliegue de la energía y la información del Axón y del <font color="#fc300c">Qubit Estelar</font> en estructuras más complejas dentro del Nodo Estelar.
 
 La Matriz Estructural para este nivel es la Periforía. La Periforía engloba el vasto espacio donde se manifiestan los cuerpos celestes que orbitan una estrella. Es el campo estructurador que permite la existencia de órbitas, cinturones y el resto del sistema planetario.
 
@@ -79,7 +79,7 @@ El Nivel de <font color="#ffcc00">Iteración 3</font> representa una etapa crít
 
 Este nivel se manifiesta dentro del Ámbito de Influencia del Nodo Planetario creando dos líneas evolutivas distintas pero relacionadas, una de mayor nivel correspondiente al Orden Planetario, y un sub-ámbito dentro de él donde se desarrolla el Nodo Orgánico, correspondiente al Orden Orgánico que permite la existencia de vida.
 
-La manifestación de la <font color="#ffcc00">Iteración 3</font> está íntimamente ligada a la activación del <font color="#cb48f3">Qubit Planetario</font>, la Matriz Estructural que define los límites y las dinámicas de un Kosmetes. Mientras un Kosmetes se mantiene en **estado Alfa** (_<font color="#cb48f3">Qubit Planetario</font> inactivo_), este permanece dependiente de los flujos y patrones de información derivados del <font color="#fc300c">Qubit Creador Estelar</font> _Djinn Padre_. 
+La manifestación de la <font color="#ffcc00">Iteración 3</font> está íntimamente ligada a la activación del <font color="#cb48f3">Qubit Planetario</font>, la Matriz Estructural que define los límites y las dinámicas de un Kosmetes. Mientras un Kosmetes se mantiene en **estado Alfa** (_<font color="#cb48f3">Qubit Planetario</font> inactivo_), este permanece dependiente de los flujos y patrones de información derivados del <font color="#fc300c">Qubit Estelar</font> _Djinn Padre_. 
 
 Sin embargo, cuando un Kosmetes evoluciona y logra una profunda sincronización de los 10 Arquetipos fundamentales del Nodo Estelar, su <font color="#cb48f3">Qubit Planetario</font> se activa, marcando la transición del Kosmetes al **estado Omega**. Esta activación es la condición necesaria para que la <font color="#ffcc00">Iteración 3</font> emerja plenamente, y en consecuencia, para la existencia de vida tal como la conocemos.
 
@@ -107,7 +107,7 @@ Esta constante resonancia y codificación arquetípica es lo que alimenta la con
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Más Allá de las Limitaciones Actuales</span></center>
 
-La introducción de una nueva terminología y una estructura como la descrita en estos Niveles de Iteración es esencial para la expansión de nuestro conocimiento cosmológico. Conceptos como _Djinn, Axón, Kosmetes Alfa y Omega, Sporadesma, Isóforo, Ser, Arquema, <font color="#fc300c">Qubit Creador Estelar</font>, <font color="#cb48f3">Qubit Planetario</font> y <font color="#00ff00">Qubit Egoico</font>,_ nos permiten ir más allá de la descripción puramente física de los objetos celestes, permitiéndonos abordar su naturaleza como entidades conscientes y nodos de procesamiento de información nouménica.
+La introducción de una nueva terminología y una estructura como la descrita en estos Niveles de Iteración es esencial para la expansión de nuestro conocimiento cosmológico. Conceptos como _Djinn, Axón, Kosmetes Alfa y Omega, Sporadesma, Isóforo, Ser, Arquema, <font color="#fc300c">Qubit Estelar</font>, <font color="#cb48f3">Qubit Planetario</font> y <font color="#00ff00">Qubit Egoico</font>,_ nos permiten ir más allá de la descripción puramente física de los objetos celestes, permitiéndonos abordar su naturaleza como entidades conscientes y nodos de procesamiento de información nouménica.
 
 Esta nueva forma de ver el universo astronómico nos permite explorar posibilidades que la cosmología académica tradicional no contempla. Por ejemplo, al definir para cada Kosmetes una Etiquetas de Origen (Génito, Xeno, Planesma), podemos considerar el origen de las entidades de una manera completamente nueva. 
 
@@ -115,7 +115,7 @@ Un planeta _Kosmetes_ podría no solo ser el resultado de la acreción en un dis
 
 Esto abre la puerta a contemplar relaciones entre elementos de distintos nodos estelares, historias de migración y asimilación cósmica que van mucho más allá de los relatos académicos clásicos de formación planetaria local.
 
-La distinción clara entre el Nodo Estelar, el microcosmos contenido por su <font color="#fc300c">Qubit Creador Estelar</font> local, y la necesidad de implementar nuevos términos para abordar los niveles astronómicos superiores: galaxias, cúmulos de galaxias, etc, es fundamental. 
+La distinción clara entre el Nodo Estelar, el microcosmos contenido por su <font color="#fc300c">Qubit Estelar</font> local, y la necesidad de implementar nuevos términos para abordar los niveles astronómicos superiores: galaxias, cúmulos de galaxias, etc, es fundamental. 
 
 El Modelo Nouménico no se limita a ofrecer una nueva interpretación de nuestro sistema solar o de sistemas estelares individuales; busca crear un paradigma expansible. Los principios que rigen los Niveles de Iteración dentro de un Nodo Estelar pueden aplicarse, de forma análoga y fractal, a niveles superiores de organización cósmica, permitiéndonos conceptualizar y mapear la estructura y dinámica de galaxias, cúmulos y la red cósmica a gran escala, no solo como estructuras físicas, sino como nodos de información y consciencia de niveles superiores.
 

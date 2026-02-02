@@ -50,7 +50,7 @@ Este movimiento cónico del eje terrestre tiene una consecuencia directa y obser
 
 Los equinoccios, que son los puntos donde el plano de la órbita terrestre alrededor del Sol, la eclíptica, cruza el plano del ecuador celeste, se desplazan lentamente a lo largo de la eclíptica. Este desplazamiento es retrógrado, es decir, en la dirección opuesta al movimiento aparente anual del Sol a través de las constelaciones. 
 
-Este movimiento sutil pero constante de los puntos equinocciales es lo que se conoce como la precesión de los equinoccios. Es un ritmo fundamental ligado a la dinámica del Planeta-Nodo, la manifestación física de la entidad Planetaria dentro del Nodo Estelar, reflejando su interacción con las fuerzas gravitatorias y energéticas de su sistema estelar y su conexión con la Luna, donde se condensa la Consciencia Colectiva Universal asociada a la Djinn Madre.
+Este movimiento sutil pero constante de los puntos equinocciales es lo que se conoce como la precesión de los equinoccios. Es un ritmo fundamental ligado a la dinámica del Planeta-Nodo, la manifestación física de la entidad Planetaria dentro del Nodo Estelar, reflejando su interacción con las fuerzas gravitatorias y energéticas de su sistema estelar y su conexión con la Luna, donde se condensa la Consciencia Colectiva Universal asociada a la <font color="#2f82ff">Djinn Madre</font>.
 
 ## Midiendo el Tiempo de las Eras
 
@@ -302,7 +302,7 @@ El _Noema cristiano/católico_ es un ejemplo particularmente significativo y p
 
 La mezcla y superposición de estas capas de Noemas de diferentes orígenes creó una estructura narrativa y simbólica compleja, a menudo con contradicciones o énfasis desalineados como por ejemplo la tensión entre la historia lineal y los ciclos cósmicos, la naturaleza espiritual versus la terrenal del Mesías. 
 
-Esta mezcla de Noemas contribuye directamente a la desincronización temporal, al superponer y a veces contradecir diferentes lógicas de tiempo y rituales, y a la coherencia fragmentada de la validación noemática en el Nodo Estelar, ya que como hemos mencionado previamente, múltiples Noemas dificultan la sincronización de la Consciencia Colectiva Universal procesada por la Djinn Madre o Consciencia Lunar. 
+Esta mezcla de Noemas contribuye directamente a la desincronización temporal, al superponer y a veces contradecir diferentes lógicas de tiempo y rituales, y a la coherencia fragmentada de la validación noemática en el Nodo Estelar, ya que como hemos mencionado previamente, múltiples Noemas dificultan la sincronización de la Consciencia Colectiva Universal procesada por la <font color="#2f82ff"><font color="#2f82ff">Djinn Madre</font></font> o Consciencia Lunar. 
 
 Es crucial entender que, desde la perspectiva del Modelo Nouménico, reforzar el Noema Católico implica, por precedencia y por su uso canónico del Antiguo Testamento, reforzar el Noema Hebreo subyacente, heredando y perpetuando sus propias desalineaciones y luchas noemáticas en el tejido del Nodo.
 

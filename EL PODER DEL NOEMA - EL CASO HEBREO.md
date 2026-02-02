@@ -169,7 +169,7 @@ Una característica particular del Noema hebreo, codificada en sus textos sagrad
 
 Desde la perspectiva del Modelo Nouménico, la práctica de la Gematria sirve como un mecanismo interno dentro del Noema hebreo para reforzar la creencia en su propio origen y orden divino. Al encontrar patrones numéricos "ocultos" y conexiones simbólicas a través del texto, se refuerza la idea de que estas palabras no son meramente creaciones humanas, sino que derivan de un orden superior, de una inteligencia cósmica. 
 
-Este sistema de codificación numérica y simbólica actúa como una resonancia arquetípica que valida la creencia en que sus textos están conectados directamente con el poder del Djinn Padre, la consciencia del Qubit Creador Estelar, y con el poder de manifestación del plano fenomenológico. Sugiere que sus palabras poseen un valor y una autoridad inherentes, reflejando la estructura misma de la realidad nouménica y arquetípica de una manera que otros textos o Noemas que no derivan de esta fuente superior no tendrían. 
+Este sistema de codificación numérica y simbólica actúa como una resonancia arquetípica que valida la creencia en que sus textos están conectados directamente con el poder del <font color="#fc300c">Djinn Padre</font>, la consciencia del <font color="#fc300c">Qubit Estelar</font>, y con el poder de manifestación del plano fenomenológico. Sugiere que sus palabras poseen un valor y una autoridad inherentes, reflejando la estructura misma de la realidad nouménica y arquetípica de una manera que otros textos o Noemas que no derivan de esta fuente superior no tendrían. 
 
 La Gematria, por tanto, no es solo una curiosidad textual; es una herramienta que valida la singularidad y el poder del Noema codificado en el texto sagrado, dándole una autoridad percibida que lo hace inmensamente resistente a la duda externa.
 
@@ -271,6 +271,6 @@ En cambio, el propósito es fomentar la evolución de la consciencia humana para
 
 La promesa del Modelo Nouménico reside en que, al comprender y trascender los Noemas limitantes, incluyendo aquellos que, como el analizado, han demostrado una potencia formidable para la supervivencia y la influencia histórica, el Ser humano _el Avatar potencial_ puede desbloquear su pleno potencial evolutivo. 
 
-Este proceso de autoconsciencia y alineación arquetípica es el camino para abrir las puertas hacia los Nodos que se encuentran ocultos más allá de los límites del Nodo Estelar, Nodos de consciencia y realidad superiores _Galácticos o Cósmicos_ que el Djinn Padre, en su sabiduría, resguarda hasta que la consciencia de su Nodo haya madurado lo suficiente como para acceder a ellos de forma segura. 
+Este proceso de autoconsciencia y alineación arquetípica es el camino para abrir las puertas hacia los Nodos que se encuentran ocultos más allá de los límites del Nodo Estelar, Nodos de consciencia y realidad superiores _Galácticos o Cósmicos_ que el <font color="#fc300c">Djinn Padre</font>, en su sabiduría, resguarda hasta que la consciencia de su Nodo haya madurado lo suficiente como para acceder a ellos de forma segura. 
 
 El Modelo Nouménico ofrece la comprensión necesaria para este siguiente paso evolutivo. Es un llamado a la consciencia para trascender las viejas batallas de Noemas y participar en la siguiente etapa de la evolución cósmica.

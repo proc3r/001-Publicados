@@ -101,7 +101,7 @@ La Heimarmene no solo orquesta la manifestación de la realidad a nivel individu
 - **6@ Demiurgo**: Consciencia Colectiva Humana codificada en la matriz fenomenológica del Qubit Planetario: Este nivel representa la mente colectiva de la civilización humana, profundamente influenciada por los Noemas culturales y los Egrégores que hemos creado y sostenido a lo largo de la historia. Es el nivel donde la Heimarmene orquesta el destino colectivo de la humanidad, dando forma a nuestras sociedades, creencias y aspiraciones compartidas. Es el usuario o programador colectivo de la realidad humana.
 - **7@ Avatar**: Consciencia Avatárica Lunar: La consciencia individualizada del ser humano, y su intrínseca conexión con la Luna [Isóforo], que modula los flujos energéticos y emocionales, influyendo directamente en la experiencia avatárica. La Luna actúa como un filtro y amplificador de las energías cósmicas para el Avatar. Es el punto de acceso individual a la experiencia fenomenológica.
 
-## 5. el Qubit Creador Estelar
+## 5. el Qubit Estelar
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Motor Lógico del Sistema</span></center>
 

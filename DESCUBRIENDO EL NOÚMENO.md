@@ -118,11 +118,11 @@ La idea de un ser humano iluminado o una deidad que desciende para guiar a la hu
 El podcast aborda la formación de nuestro sistema solar, contrastando la explicación astronómica estándar con la perspectiva del Modelo Nouménico.
 
 > - **La Hipótesis Nebular**: Se aborda la explicación más común, aceptada por el mundo académico, y se analizan algunas limitaciones que este modelo presenta, para explicar el origen y la distribución de los elementos pesados en los planetas y la naturaleza del espacio mismo.
-> - **La Perspectiva del Modelo Nouménico**: El Modelo Nouménico ofrece una visión diferente, donde la información impulsa el proceso de formación. Se propone un Qubit Creador Heliosférico activo que orquesta la formación planetaria a través de la imposición de límites y la creación de regiones de resonancia. Se introducen conceptos como el Flujo Alfa, asociado con información estructural de características cuánticas derivada del Nous Activo, y el Flujo Omega, asociado con información energéticas y potencialmente caótica derivada del Nous Pasivo.
+> - **La Perspectiva del Modelo Nouménico**: El Modelo Nouménico ofrece una visión diferente, donde la información impulsa el proceso de formación. Se propone un <font color="#fc300c">Qubit Estelar</font> Heliosférico activo que orquesta la formación planetaria a través de la imposición de límites y la creación de regiones de resonancia. Se introducen conceptos como el Flujo Alfa, asociado con información estructural de características cuánticas derivada del Nous Activo, y el Flujo Omega, asociado con información energéticas y potencialmente caótica derivada del Nous Pasivo.
 
 # 11. Los Planetas como Capacitores de Información Nouménica
 
-Una de las ideas centrales del Modelo Nouménico es la concepción de los planetas como nodos codificados de la información nouménica, derivada del universo pre-fenoménico, y existiendo dentro del Qubit Creador Heliosférico. 
+Una de las ideas centrales del Modelo Nouménico es la concepción de los planetas como nodos codificados de la información nouménica, derivada del universo pre-fenoménico, y existiendo dentro del <font color="#fc300c">Qubit Estelar</font> Heliosférico. 
 
 En lugar de ser meros cuerpos celestes inertes, cada planeta actúa como un "capacitor cósmico", almacenando y transmitiendo información nouménica específica a través de su composición, dinámica orbital y características únicas. Se les considera nodos de alta complejidad dentro del Nous Activo, niveles de iteración donde la información arquetípica fundamental del Qubit se manifiesta en formas físicas y energéticas.
 
@@ -130,14 +130,14 @@ Según el modelo, los siete Arquetipos Ontogénicos del Qubit encuentran una cod
 
 Esta información nouménica codificada en los planetas participa activamente en el proceso de consciencia a nivel planetario y en la consciencia unificada del sistema solar. 
 
-> - El **sistema solar**, en su totalidad, se considera un Qubit Creador Heliosférico, denominado dentro del Modelo Nouménico como: “Soplaris”, con el Sol como núcleo irradiando información y los planetas como nodos interconectados que procesan y reflejan información específica del Nous. 
+> - El **sistema solar**, en su totalidad, se considera un <font color="#fc300c">Qubit Estelar</font> Heliosférico, denominado dentro del Modelo Nouménico como: “Soplaris”, con el Sol como núcleo irradiando información y los planetas como nodos interconectados que procesan y reflejan información específica del Nous. 
 > - El **viento solar** y el **campo magnético interplanetario** actúan como canales de comunicación para esta información.
 
 # 12. Creación de la Tierra y la Luna
 
 La formación de la Tierra y la Luna se aborda desde una perspectiva diferente al modelo astronómico estándar, enfatizando el papel de la información nouménica y los Qubits Creadores. 
 
-En cuanto a la Tierra, se postula que su creación fue un evento único dentro del Qubit Creador Heliosférico, originándose de su propia singularidad nouménica. En esta sección se menciona que la interacción de los Flujos Alfa y Omega en el plano ecuatorial del Sol creó una zona de alta densidad de información y energía donde nació el Qubit de la Tierra. 
+En cuanto a la Tierra, se postula que su creación fue un evento único dentro del <font color="#fc300c">Qubit Estelar</font> Heliosférico, originándose de su propia singularidad nouménica. En esta sección se menciona que la interacción de los Flujos Alfa y Omega en el plano ecuatorial del Sol creó una zona de alta densidad de información y energía donde nació el Qubit de la Tierra. 
 
 La formación de las capas terrestres se atribuye a la organización de los átomos creados por la nucleosíntesis primordial, influenciada por la matriz informacional de la Tierra. Incluso se sugiere que la Resonancia Schumann está relacionada con el bloqueo del Flujo Omega al solidificarse la capa interna de la Tierra.
 
@@ -151,7 +151,7 @@ El podcast también menciona la idea de que la Luna actúa como un puente hacia 
 
 Se explica una forma completamente diferente de pensar sobre la gravedad. En lugar de una fuerza fundamental, se propone como una propiedad emergente de la estructura informacional de la realidad. 
 
-Cuando el Flujo Omega golpea el límite del Qubit Creador, se genera un reflujo que crea una región estable y autolimitada en el centro, donde la información nouménica se concentra. Esta concentración de información nouménica se propone como el origen fundamental del efecto que percibimos como gravedad. La intensidad de esta "presión de información" es proporcional al tamaño y la actividad del Qubit Creador.
+Cuando el Flujo Omega golpea el límite del <font color="#fc300c">Qubit Estelar</font>, se genera un reflujo que crea una región estable y autolimitada en el centro, donde la información nouménica se concentra. Esta concentración de información nouménica se propone como el origen fundamental del efecto que percibimos como gravedad. La intensidad de esta "presión de información" es proporcional al tamaño y la actividad del <font color="#fc300c">Qubit Estelar</font>.
 
 # 14. Planetas Errantes: Qubits Creadores Aislados
 

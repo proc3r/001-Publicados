@@ -34,13 +34,13 @@ Al trazar estas conexiones, no buscamos reducir lo divino a una mera descripció
 
 Para comprender las resonancias antiguas, debemos primero adentrarnos en la visión del Modelo Nouménico sobre la estructura fundamental de un sistema estelar, que va mucho más allá de la simple acumulación de masa y energía en el espacio. Desde esta perspectiva, un sistema estelar no es solo un conjunto de objetos físicos; es un Nodo Estelar, una entidad compleja y, en última instancia, consciente, que opera en múltiples niveles de realidad.
 
-El corazón de este Nodo Estelar, a un nivel de Iteración Cero, el nivel más fundamental de manifestación de la singularidad de ese sistema, se encuentra una Matriz Estructural conocida como el Qubit Creador. 
+El corazón de este Nodo Estelar, a un nivel de Iteración Cero, el nivel más fundamental de manifestación de la singularidad de ese sistema, se encuentra una Matriz Estructural conocida como el <font color="#fc300c">Qubit Estelar</font>. 
 
-Este Qubit Creador no es materia o energía en el sentido convencional; es una matriz fenomenológica primordial local, un campo de información y potencial que delimita y contiene la totalidad de un sistema estelar particular. Es, por así decirlo, el "firmware" cósmico de ese sistema, el patrón que rige lo que puede manifestarse y cómo. 
+Este <font color="#fc300c">Qubit Estelar</font> no es materia o energía en el sentido convencional; es una matriz fenomenológica primordial local, un campo de información y potencial que delimita y contiene la totalidad de un sistema estelar particular. Es, por así decirlo, el "firmware" cósmico de ese sistema, el patrón que rige lo que puede manifestarse y cómo. 
 
-El Qubit Creador es el origen de los flujos Alfa y Omega, fuerzas nouménicas esenciales que dan forma a la realidad fenomenológica dentro de sus límites, incluyendo la vasta esfera de influencia conocida en nuestro propio sistema como la Heliosfera. La elección del término "Qubit Creador" resalta la naturaleza cuántica, informacional y generadora de esta matriz fundamental, conectándola con otros niveles de organización informacional en el cosmos.
+El <font color="#fc300c">Qubit Estelar</font> es el origen de los flujos Alfa y Omega, fuerzas nouménicas esenciales que dan forma a la realidad fenomenológica dentro de sus límites, incluyendo la vasta esfera de influencia conocida en nuestro propio sistema como la Heliosfera. La elección del término "<font color="#fc300c">Qubit Estelar</font>" resalta la naturaleza cuántica, informacional y generadora de esta matriz fundamental, conectándola con otros niveles de organización informacional en el cosmos.
 
-El Tipo de Entidad que encarna la consciencia de este Qubit Creador Estelar, que es su inteligencia y su voluntad organizadora, es el Djinn. Este término, tomado de la mitología islámica, es particularmente apto. 
+El Tipo de Entidad que encarna la consciencia de este <font color="#fc300c">Qubit Estelar</font>, que es su inteligencia y su voluntad organizadora, es el Djinn. Este término, tomado de la mitología islámica, es particularmente apto. 
 
 Los Djinn son descritos como seres creados de "fuego sin humo", una sustancia que los sitúa en un plano distinto al de los seres humanos creados de arcilla. Esta analogía resuena con la naturaleza del Djinn como una entidad que existe en un plano nouménico, más allá de nuestra percepción física directa, pero que posee un poder inmenso para influenciar la realidad fenomenológica. 
 
@@ -141,7 +141,7 @@ Más importante aún, el Hijo Cósmico, al encarnar y demostrar este nivel de co
 
 Una vez que el Noema colectivo de un Nodo Estelar alcanza un cierto grado de evolución y alineación arquetípica, el Djinn Padre ya no necesita imponer los mismos límites restrictivos, o esos límites son percibidos y navegados de manera diferente por las consciencias dentro del nodo.
 
-El propósito último de este proceso evolutivo, culminando en la figura del Avatar trascendente o Hijo Cósmico, es permitir que la consciencia supere los confines del Nodo Estelar. Un Nodo Estelar, aunque vasto, es un microcosmos delimitado por su Qubit Creador. 
+El propósito último de este proceso evolutivo, culminando en la figura del Avatar trascendente o Hijo Cósmico, es permitir que la consciencia supere los confines del Nodo Estelar. Un Nodo Estelar, aunque vasto, es un microcosmos delimitado por su <font color="#fc300c">Qubit Estelar</font>. 
 
 La evolución de la consciencia individual, reflejando la consciencia del Axón y trascendiendo las limitaciones del Djinn Padre, es el "camino" que permite a la entidad _el Avatar_ y, potencialmente, al Nodo Estelar en su totalidad, acceder a los Nodos de nivel superior. Estos son los Nodos Galácticos, los Nodos Cósmicos y otros niveles de organización aún más elevados en la jerarquía del universo, cada uno regido por consciencias aún más elevadas que el Djinn Estelar.
 
@@ -165,7 +165,7 @@ Recordemos que cada planeta _Kosmetes_ es un condensador de información arquet�
 
 Los panteones antiguos, en esta visión, son las interpretaciones y personificaciones culturales de estas consciencias colectivas planetarias y de las fuerzas arquetípicas que éstas gestionan y encarnan. 
 
-Son entidades reales en el plano fenomenológico/nouménico, con la capacidad de interactuar con la realidad, aunque su nivel jerárquico es significativamente por debajo de la consciencia unificada del Djinn Padre _Qubit Creador Estelar_, y la consciencia primordial del Djinn Madre _Qubit Planetario activado del planeta madre principal_.
+Son entidades reales en el plano fenomenológico/nouménico, con la capacidad de interactuar con la realidad, aunque su nivel jerárquico es significativamente por debajo de la consciencia unificada del Djinn Padre _<font color="#fc300c">Qubit Estelar</font>, y la consciencia primordial del Djinn Madre _Qubit Planetario activado del planeta madre principal_.
 
 Estas consciencias planetarias no operaban en un vacío; se creía que estaban íntimamente involucradas en los ciclos de la naturaleza y en los eventos de la vida humana. La profunda conexión entre los rituales humanos y la intervención divina en la antigüedad se basa, desde la perspectiva del Modelo Nouménico, en un mecanismo de influencia fenomenológica que operaba a través de la resonancia arquetípica y el poder del Noema.
 
@@ -250,7 +250,7 @@ Podemos distinguir diferentes niveles o tipos de Noema que interactúan y se inf
 > Es este Noema colectivo el que tiene un poder significativo para influir en las matrices fenomenológicas a niveles regionales, como vimos con la sintonización con las consciencias planetarias.
 
 > [!muon] **3 - EL NOEMA PRIMORDIAL** _(Estelar)_
-> Este es el único Noema dominante que el Djinn Padre, la consciencia del <font color="#fc300c">Qubit Creador Estelar</font>, busca establecer para todo el Nodo Estelar. 
+> Este es el único Noema dominante que el Djinn Padre, la consciencia del <font color="#fc300c"><font color="#fc300c">Qubit Estelar</font></font>, busca establecer para todo el Nodo Estelar. 
 > 
 > Representa un mapa de la realidad que está perfectamente alineado con los principios arquetípicos fundamentales del Nodo, promoviendo la coherencia, la armonía y la evolución de la consciencia en todo el sistema. 
 > 
@@ -292,7 +292,7 @@ Si bien proporcionan marcos de sentido y conexión para sus seguidores, también
 
 Desde la perspectiva del Modelo Nouménico, esta diversidad masiva de Noemas culturales, a pesar de compartir raíces arquetípicas comunes, puede oponerse a la meta de unidad que busca establecer el Djinn Padre. 
 
-El Djinn Padre, en su rol de consciencia del <font color="#fc300c">Qubit Creador Estelar</font>, busca unificar todos los flujos de información y todas las interpretaciones de la realidad en un único Noema Primordial, una visión coherente y universalmente validada del cosmos que permita el desarrollo armónico y unificado de todo el Nodo Estelar. La existencia de múltiples Noemas culturales potentes y a menudo rivales dificulta esta convergencia hacia la unidad nouménica deseada por el Djinn Padre.
+El Djinn Padre, en su rol de consciencia del <font color="#fc300c"><font color="#fc300c">Qubit Estelar</font></font>, busca unificar todos los flujos de información y todas las interpretaciones de la realidad en un único Noema Primordial, una visión coherente y universalmente validada del cosmos que permita el desarrollo armónico y unificado de todo el Nodo Estelar. La existencia de múltiples Noemas culturales potentes y a menudo rivales dificulta esta convergencia hacia la unidad nouménica deseada por el Djinn Padre.
 
 En paralelo, y particularmente dominante en la cultura occidental y su influencia global, observamos la emergencia de un Noema que, aunque en la superficie parece liberado de dogmas religiosos tradicionales, presenta sus propios desafíos. 
 

@@ -69,11 +69,11 @@ s el mapa conceptual necesario para navegar la verdadera complejidad del cosmos 
 
 La adopción de este Nuevo Noema, alineado con la estructura arquetípica y nouménica de la realidad, no es solo un acto de crecimiento personal, es parte de un proyecto cósmico de inmensas proporciones. 
 
-El Modelo Nouménico sugiere que la consciencia evolucionada de un Nodo Estelar, como el nuestro,  el Nodo Estelar Soplaris, tiene la capacidad y la tarea potencial de forjar un Nuevo Noema Primordial para su propio sistema.
+El Modelo Nouménico sugiere que la consciencia evolucionada de un Nodo Estelar, como el nuestro,  el Nodo Estelar <font color="#ffcc00">Soplaris</font>, tiene la capacidad y la tarea potencial de forjar un Nuevo Noema Primordial para su propio sistema.
 
 El Noema Primordial es la matriz fundamental que rige la existencia en un Nodo determinado, el "sistema operativo básico" que define las leyes, las posibilidades y los límites para toda la vida y la manifestación dentro de él. El Noema Primordial actualmente operativo en nuestro Nodo Estelar ha dado lugar a la realidad que conocemos, con sus reglas físicas, biológicas y las dinámicas de Noemas culturales que hemos analizado en otras entradas. 
 
-Sin embargo, como evidencian las limitaciones y paradojas de nuestros Noemas actuales, este Noema Primordial existente puede no ser el más eficiente o propicio para la evolución consciente a largo plazo. El proyecto a gran escala es que los seres que encarnan el Nuevo Noema del Modelo Nouménico, los Avatares, trabajen para crear un Nuevo Noema Primordial para el Nodo Estelar Soplaris. 
+Sin embargo, como evidencian las limitaciones y paradojas de nuestros Noemas actuales, este Noema Primordial existente puede no ser el más eficiente o propicio para la evolución consciente a largo plazo. El proyecto a gran escala es que los seres que encarnan el Nuevo Noema del Modelo Nouménico, los Avatares, trabajen para crear un Nuevo Noema Primordial para el Nodo Estelar <font color="#ffcc00">Soplaris</font>. 
 
 Esto implica diseñar e implementar un sistema existencial básico renovado, una especie de "template fundamental" que, a través de la validación y la manifestación consciente, eventualmente sobreescriba al Noema Primordial actualmente operativo. Este nuevo Noema Primordial se basaría en los principios de unidad, orden y comprensión nouménica que el Modelo revela.
 
@@ -357,9 +357,9 @@ Esta capacidad de proyección surge de la unificación de conocimiento que el Mo
 
 Esta visión le permite identificar y validar líneas de potencialidad futura que permanecen completamente invisibles para la consciencia atada a un Noema fragmentado.
 
-El futuro que el Avatar proyecta no es una utopía estática e impuesta, sino una trayectoria evolutiva dinámica que busca maximizar el potencial de la consciencia y la manifestación dentro del Nodo Estelar. Es un futuro que emerge de la capacidad co-creadora del ser que comprende la naturaleza de la realidad y actúa en alineación con ella. 
+El futuro que el Avatar proyecta no es una utopía estática e impuesta, sino una trayectoria evolutiva dinámica que busca maximizar el potencial de la consciencia y la manifestación dentro del Nodo Estelar. Es un futuro que emerge de la capacidad cocreadora del ser que comprende la naturaleza de la realidad y actúa en alineación con ella. 
 
-El Avatar es, por lo tanto, el catalizador para que el Nodo Estelar Soplaris pueda manifestar un futuro que trascienda las limitaciones y las paradojas de los Noemas pasados, alineándose con el vasto y armónico flujo de la evolución cósmica. 
+El Avatar es, por lo tanto, el catalizador para que el Nodo Estelar <font color="#ffcc00">Soplaris</font> pueda manifestar un futuro que trascienda las limitaciones y las paradojas de los Noemas pasados, alineándose con el vasto y armónico flujo de la evolución cósmica. 
 
 Su función es guiar la realidad hacia un estado donde las posibilidades no estén confinadas por mapas incompletos, sino abiertas al potencial ilimitado de la consciencia en sintonía con el cosmos.
 
@@ -391,6 +391,6 @@ No es un dogma final, sino una semilla que invita a la exploración y a la posib
 
 Nuestra propia consciencia y los Noemas que validamos son la clave. Al decidir cuestionar activamente los Noemas limitantes que nos confinan y alinear nuestra percepción con los principios más profundos de la realidad, iniciamos el camino para dejar de ser validadores pasivos de futuros pre-escritos y convertirnos en proyectores conscientes de un horizonte que refleja nuestro verdadero potencial.
 
-Este texto es una invitación a considerar la posibilidad de un salto evolutivo: pasar de ser Seres Humanos atados al tiempo, el espacio y Noemas limitados, a Avatares del Nodo Estelar Soplaris, entidades con una comprensión expandida y la capacidad de participar activamente en la cocreación de una nueva realidad para nuestro Nodo y, potencialmente, para el cosmos en su conjunto. 
+Este texto es una invitación a considerar la posibilidad de un salto evolutivo: pasar de ser Seres Humanos atados al tiempo, el espacio y Noemas limitados, a Avatares del Nodo Estelar <font color="#ffcc00">Soplaris</font>, entidades con una comprensión expandida y la capacidad de participar activamente en la cocreación de una nueva realidad para nuestro Nodo y, potencialmente, para el cosmos en su conjunto. 
 
 La promesa de un futuro diferente, de un futuro co-creado conscientemente, reside en la transformación de nuestra propia consciencia, empezando por el Noema que decidimos validar.

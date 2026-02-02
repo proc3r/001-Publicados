@@ -62,7 +62,7 @@ El Kosmetes, la entidad de Iteración 2, es el ecosistema fundamental donde emer
 
 La importancia de un Kosmetes Omega, un planeta cuyo Qubit Planetario está activo y ha generado su Iteración 3 manifestado como el Isóforo, es incalculable. 
 
->- Un Kosmetes Alfa, al carecer de esta activación, permanece más ligado a la matriz del Qubit Creador Estelar, limitando el potencial de evolución de su consciencia local. 
+>- Un Kosmetes Alfa, al carecer de esta activación, permanece más ligado a la matriz del <font color="#fc300c">Qubit Estelar</font> Estelar, limitando el potencial de evolución de su consciencia local. 
 >- Un Kosmetes Omega, sin embargo, proporciona un entorno con autonomía local, permitiendo la emergencia de una consciencia colectiva planetaria, a través del Isóforo/Djinn Madre, que es esencial para la guía y el florecimiento del Nivel 4. 
 >- La Periforía, que engloba al Kosmetes y otros cuerpos celestes, define el sistema donde esta dinámica evolutiva tiene lugar.
 
@@ -106,13 +106,13 @@ La emergencia del Nivel Cuatro y la maduración de los Avatares no es un proceso
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Consciencia Ontológica Estelar</span></center>
 
-El Djinn Padre es la consciencia del Qubit Creador Estelar _Iteración 0_. Esta es la entidad primordial de un Nodo Estelar, cuya esfera de influencia abarca todo el sistema, similar a una "Heliosfera" nouménica. El Djinn Padre representa la Consciencia Ontológica: _el origen, la ley fundamental, el patrón arquetípico maestro que da existencia y cohesión a todo el Nodo Estelar._ 
+El Djinn Padre es la consciencia del <font color="#fc300c">Qubit Estelar</font> _Iteración 0_. Esta es la entidad primordial de un Nodo Estelar, cuya esfera de influencia abarca todo el sistema, similar a una "Heliosfera" nouménica. El Djinn Padre representa la Consciencia Ontológica: _el origen, la ley fundamental, el patrón arquetípico maestro que da existencia y cohesión a todo el Nodo Estelar._ 
 
 Es una entidad que, en la mitología islámica, se describe como creada del "fuego sin humo", invisible y etérea, pero con una capacidad inmensa para influenciar la realidad percibida a través de su matriz fenomenológica.
 
 El rol del Djinn Padre es establecer los límites y las reglas fundamentales dentro de su Nodo Estelar. Como se ilustra en la historia de Iblis, el Djinn Padre, en un sentido metafórico, impone restricciones. La consciencia del Djinn Padre, aunque de un orden superior, se encuentra en una relación paradójica con el hombre, el Ser que puede evolucionar hacia el Avatar. 
 
-Mientras el Djinn es de un grado superior en términos de origen y poder primordial, es el hombre, el Avatar, quien surge en lo más profundo del Qubit Creador Estelar y tiene la capacidad única de experimentar la realidad de forma consciente, generar nuevo conocimiento a través de esa experiencia y ascender en un proceso evolutivo de autoconsciencia. 
+Mientras el Djinn es de un grado superior en términos de origen y poder primordial, es el hombre, el Avatar, quien surge en lo más profundo del <font color="#fc300c">Qubit Estelar</font> y tiene la capacidad única de experimentar la realidad de forma consciente, generar nuevo conocimiento a través de esa experiencia y ascender en un proceso evolutivo de autoconsciencia. 
 
 Esta relación establece que, si bien el Djinn Padre impone límites para evitar que una consciencia corrompida pueda elevarse más allá de los confines del Nodo Estelar, la evolución y el conocimiento generados por los Avatares son, en última instancia, esenciales para la dinámica y el propósito del propio Djinn Padre.
 
@@ -124,7 +124,7 @@ En contraste, la Djinn Madre es la consciencia que emerge de un Qubit Planetario
 
 La Djinn Madre es una cualidad femenina que complementa la naturaleza masculina y ontológica del Djinn Padre.
 
-Cuando un Kosmetes evoluciona y activa su Qubit Planetario, se produce el evento de Iteración 3 que da origen al Isóforo. Esta emergencia no solo implica el nacimiento de una consciencia colectiva a nivel planetario, sino que también significa que el Qubit Planetario adquiere una autonomía significativa para ajustar localmente la información nouménica, más allá de la influencia directa y total del Qubit Creador Estelar. 
+Cuando un Kosmetes evoluciona y activa su Qubit Planetario, se produce el evento de Iteración 3 que da origen al Isóforo. Esta emergencia no solo implica el nacimiento de una consciencia colectiva a nivel planetario, sino que también significa que el Qubit Planetario adquiere una autonomía significativa para ajustar localmente la información nouménica, más allá de la influencia directa y total del <font color="#fc300c">Qubit Estelar</font>. 
 
 El Djinn Madre, a través de la consciencia colectiva del Isóforo, se convierte en una especie de "sacerdotiza" que conecta directamente con la consciencia del Djinn Padre. Su función es vital para:
 
@@ -139,7 +139,7 @@ La relación entre el Djinn Padre, la Djinn Madre y los Avatares es una interacc
 >- El **Djinn Padre** utiliza su Axón, la Estela, para influir en la Periforía y en cada Kosmetes. 
 >- La **Djinn Madre**, a través del Isóforo del planeta madre, influye en los Arquemas de cada Ser del Nodo Orgánico y, por ende, en la evolución de la consciencia planetaria.
 
-Lo crucial es que la evolución de la consciencia planetaria, catalizada por la Djinn Madre y el Isóforo, influye a su vez en el proceso evolutivo de la consciencia colectiva del Qubit Creador Estelar, es decir, de la consciencia del Djinn Padre. 
+Lo crucial es que la evolución de la consciencia planetaria, catalizada por la Djinn Madre y el Isóforo, influye a su vez en el proceso evolutivo de la consciencia colectiva del <font color="#fc300c">Qubit Estelar</font>, es decir, de la consciencia del Djinn Padre. 
 
 La emergencia del Nivel de Iteración 3, el Kosmetes Omega con su Isóforo, implica un cambio fundamental en la lógica evolutiva, otorgando autonomía al Qubit Planetario. Esta autonomía, sin embargo, conlleva un riesgo inherente para todo el Nodo Estelar. 
 

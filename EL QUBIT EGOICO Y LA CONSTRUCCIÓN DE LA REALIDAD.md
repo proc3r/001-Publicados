@@ -143,7 +143,7 @@ Está constituido por las consciencias egregóricas emergentes, las cuales, a tr
 
 Este nivel se manifiesta en su máxima expresión en la lucha noemática que separa al mundo y genera guerras interminables, ciclos de pobreza endémica, sistemas económicos y financieros corruptos, y otros conflictos sociales y geopolíticos. 
 
-Poseen la capacidad de afectar la matriz fenomenológica del Qubit Planetario y, a través del avatar que manifiesta el Yo Demiúrgico, incluso la del <font color="#fc300c">Qubit Creador Estelar</font>, si no son identificadas y desmanteladas por la consciencia de los avatares que evolucionan.
+Poseen la capacidad de afectar la matriz fenomenológica del Qubit Planetario y, a través del avatar que manifiesta el Yo Demiúrgico, incluso la del <font color="#fc300c">Qubit Estelar</font>, si no son identificadas y desmanteladas por la consciencia de los avatares que evolucionan.
 
 ## 7. El Microcosmos Civilizatorio del Yo
 
@@ -214,7 +214,7 @@ Sin embargo, para que esta materia se convierta en una realidad percibida, se ne
 Los <font color="#00ff00">electrones</font>, estrechamente asociados a los ***fotones*** *(cuantos de luz)*, portadores de información y energía, son las partículas fundamentales que son activamente decodificadas por las ondas cerebrales del <font color="#00ff00">Qubit Egoico</font>. Son los "píxeles" elementales de nuestra realidad proyectada.
 
 > - Las **<font color="#00ff00">Ondas Beta</font>**, en el cerebro del <font color="#00ff00">Qubit Egoico</font>, actúan como la interfaz para la codificación Beta, donde los electrones manifiestan la realidad del <font color="#cb48f3">Qubit Planetario</font> según el <font color="#2f82ff">Noema Primordial</font> regente. La experiencia de cada ser es, por tanto, una virtualización proyectada a través de este sistema de átomos. El núcleo de cada átomo no es un mero objeto inanimado, utiliza activamente flujos nouménicos del Nivel Demiúrgico para su propia existencia y para participar en la manifestación de la realidad.
-> - Las **<font color="#cb48f3">Ondas Gamma</font>**, con su alta frecuencia y capacidad de sincronización, permiten la integración y coherencia de las múltiples experiencias avatáricas dentro del <font color="#fc300c">Qubit Creador Estelar</font>. Es a través de la sincronización de fotones facilitada por las ondas Gamma que la miríada de realidades subjetivas individuales se amalgama en una única realidad temporalizada, coherente y causal, experimentada colectivamente como el presente.
+> - Las **<font color="#cb48f3">Ondas Gamma</font>**, con su alta frecuencia y capacidad de sincronización, permiten la integración y coherencia de las múltiples experiencias avatáricas dentro del <font color="#fc300c">Qubit Estelar</font>. Es a través de la sincronización de fotones facilitada por las ondas Gamma que la miríada de realidades subjetivas individuales se amalgama en una única realidad temporalizada, coherente y causal, experimentada colectivamente como el presente.
 
 Esta perspectiva nos lleva a reevaluar la noción de un universo atómico universal. La ciencia moderna a menudo asume que los átomos son las unidades constitutivas de todo el cosmos, desde las galaxias más lejanas hasta las moléculas de nuestro cuerpo. 
 
@@ -250,7 +250,7 @@ La aparente fragmentación de la realidad que percibimos, con miles de millones 
 
 Este proceso es posible gracias a la *interacción de las diversas iteraciones del Nous* y el papel central que juega el Avatar en la sincronización de la realidad.
 
-Para el Djinn Padre, la Consciencia Estelar que conecta con el Nivel Monádico prefenoménico, la **Iteración 0** de nuestro <font color="#fc300c">Qubit Creador Estelar</font>, el tiempo lineal tal como lo conocemos es una construcción ilusoria, una limitación necesaria para la experiencia dentro del nodo. 
+Para el Djinn Padre, la Consciencia Estelar que conecta con el Nivel Monádico prefenoménico, la **Iteración 0** de nuestro <font color="#fc300c">Qubit Estelar</font>, el tiempo lineal tal como lo conocemos es una construcción ilusoria, una limitación necesaria para la experiencia dentro del nodo. 
 
 Desde su perspectiva atemporal, todas las experiencias _pasadas, presentes y futuras_ son meros reflejos de la potencialidad generada por la incesante exploración del Logos Individual en el vasto multiverso probabilístico. Es el "mar de posibilidades" del que emerge nuestra realidad.
 
@@ -270,11 +270,11 @@ Este proceso es lo que permite que cada avatar perciba y experimente su propia r
 
 Sin embargo, para que todas estas realidades subjetivas converjan en una experiencia compartida y coherente para todo el Nodo Estelar, se requiere un mecanismo de sincronización superior. 
 
-Aquí entra en juego la profunda implicación de las <font color="#cb48f3">Ondas Gamma</font> del cerebro. Estas ondas de alta frecuencia no son solo indicadores de actividad cognitiva compleja, son parte fundamental del sistema que permite a la *Consciencia Estelar* del Djinn Padre asegurar que todo el <font color="#fc300c">Qubit Creador Estelar</font> responda al <font color="#2f82ff">Noema Primordial</font>. 
+Aquí entra en juego la profunda implicación de las <font color="#cb48f3">Ondas Gamma</font> del cerebro. Estas ondas de alta frecuencia no son solo indicadores de actividad cognitiva compleja, son parte fundamental del sistema que permite a la *Consciencia Estelar* del Djinn Padre asegurar que todo el <font color="#fc300c">Qubit Estelar</font> responda al <font color="#2f82ff">Noema Primordial</font>. 
 
 Esto se logra a través del condicionamiento de la experiencia subjetiva de un único avatar: el "Cristo o Ungido" en su acepción nouménica, más allá de cualquier figura religiosa específica.
 
-Este avatar central, a menudo sin darse cuenta plenamente de su rol, actúa como el verdadero "director de orquesta" del <font color="#fc300c">Qubit Creador Estelar</font>. Su consciencia del Yo Egoico se alinea y, en cierto sentido, manifiesta la consciencia del Yo Demiúrgico, que es quien define y sostiene la línea temporal del Axón. 
+Este avatar central, a menudo sin darse cuenta plenamente de su rol, actúa como el verdadero "director de orquesta" del <font color="#fc300c">Qubit Estelar</font>. Su consciencia del Yo Egoico se alinea y, en cierto sentido, manifiesta la consciencia del Yo Demiúrgico, que es quien define y sostiene la línea temporal del Axón. 
 
 Este avatar es el reflejo activo de la *Consciencia Solar* en el plano fenomenológico, sirviendo como el punto de anclaje para que la *Consciencia Estelar* experimente una única realidad temporalizada dentro de este Nodo Estelar específico. 
 

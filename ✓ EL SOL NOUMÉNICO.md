@@ -1,3 +1,8 @@
+---
+ Incluido en Soplaris
+---
+
+
 ![[Sol Noumenico1.jpg]]
 # Introduccion
 
@@ -9,15 +14,15 @@ Además de estos, existen siete Arquetipos Ontogénicos (@) que se codifican baj
 
 La idea central es que estos arquetipos no permanecen confinados a un único nivel, sino que se codifican de manera fractal en todos los qubits a lo largo de los múltiples niveles de iteración. Esto significa que la información arquetípica se repite y se manifiesta en diferentes escalas y contextos dentro del universo fenoménico, incluyendo las estructuras físicas y energéticas de los planetas y entidades astronómicas. Estas estructuras constituyen distintos niveles de iteración de la codificación de los Qubits@, interviniendo y participando en los niveles de iteración superior e inferior, incluyendo la dimensión astronómica.
 
-En el contexto del sistema solar, el Modelo Nouménico plantea que este se organiza como un nodo específico y de alta complejidad dentro de la vasta red del Nous Activo, un nivel de iteración donde la información nouménica esencial, codificada en los arquetipos del Qubit@, se manifiesta de manera concreta en las entidades físicas y energéticas que lo componen1. Dentro de esta perspectiva, se asocia a cada planeta, al Sol y a la Luna con los distintos arquetipos primordiales del Qubit Creador Heliosférico, como si fueran la manifestación fenoménica de estos arquetipos en este nivel de iteración físico-energético.
+En el contexto del sistema solar, el Modelo Nouménico plantea que este se organiza como un nodo específico y de alta complejidad dentro de la vasta red del Nous Activo, un nivel de iteración donde la información nouménica esencial, codificada en los arquetipos del Qubit@, se manifiesta de manera concreta en las entidades físicas y energéticas que lo componen1. Dentro de esta perspectiva, se asocia a cada planeta, al Sol y a la Luna con los distintos arquetipos primordiales del <font color="#fc300c">Qubit Estelar</font> Heliosférico, como si fueran la manifestación fenoménica de estos arquetipos en este nivel de iteración físico-energético.
 
 ## 1. El Sol como manifestación del Arquetipo 4@ (Noesis)
 
-Según el Modelo Nouménico, el Sol se identifica como la expresión en el sistema solar del Arquetipo 4@ (Noesis/IAO). La Noesis se define como la intuición profunda, el conocimiento directo y la fuente de la verdad que ilumina la realidad. El Sol, con su inmensa energía y su papel central en el sistema solar, codifica la información nouménica de la Noesis, siendo la fuente de la comprensión y la conciencia que sustenta toda la vida y la actividad dentro de la heliosfera. Se le considera el "faro de la verdad nouménica" dentro de este Qubit Creador.
+Según el Modelo Nouménico, el Sol se identifica como la expresión en el sistema solar del Arquetipo 4@ (Noesis/IAO). La Noesis se define como la intuición profunda, el conocimiento directo y la fuente de la verdad que ilumina la realidad. El Sol, con su inmensa energía y su papel central en el sistema solar, codifica la información nouménica de la Noesis, siendo la fuente de la comprensión y la conciencia que sustenta toda la vida y la actividad dentro de la heliosfera. Se le considera el "faro de la verdad nouménica" dentro de este <font color="#fc300c">Qubit Estelar</font>.
 
 ## 2. El Sol como el "hardware" del Qubit Heliosférico
 
-La idea de que el Sol permite construir el "hardware" del Qubit Heliosférico y facilita la función del resto de los arquetipos se relaciona con su rol como núcleo de procesamiento de este Qubit Creador. El Sol no solo irradia energía electromagnética, sino también un flujo constante de información nouménica que establece los parámetros y las leyes de este sistema particular.
+La idea de que el Sol permite construir el "hardware" del Qubit Heliosférico y facilita la función del resto de los arquetipos se relaciona con su rol como núcleo de procesamiento de este <font color="#fc300c">Qubit Estelar</font>. El Sol no solo irradia energía electromagnética, sino también un flujo constante de información nouménica que establece los parámetros y las leyes de este sistema particular.
 
 Desde esta perspectiva:
 
@@ -25,7 +30,7 @@ Desde esta perspectiva:
 - Su posición central y su influencia gravitatoria lo convierten en el organizador principal del sistema, estableciendo el marco dentro del cual los demás planetas (que encarnan otros arquetipos) pueden interactuar y cumplir sus funciones informacionales.
 - El Sol, al irradiar información nouménica, actúa como un centro de emisión y sincronización para todo el sistema, permitiendo que la información arquetípica codificada en los planetas se despliegue y se interconecte.
 
-En analogía con un ordenador cósmico, el Sol, representando la Noesis (la capacidad de procesamiento y comprensión), podría considerarse el componente central que alimenta informacionalmente al resto del sistema (los planetas como nodos de memoria o funciones específicas). Sin la "iluminación" y la energía informacional constante del Sol (Noesis), la información codificada en los otros arquetipos planetarios no podría manifestarse y funcionar de manera coherente dentro del Qubit Creador Heliosférico.
+En analogía con un ordenador cósmico, el Sol, representando la Noesis (la capacidad de procesamiento y comprensión), podría considerarse el componente central que alimenta informacionalmente al resto del sistema (los planetas como nodos de memoria o funciones específicas). Sin la "iluminación" y la energía informacional constante del Sol (Noesis), la información codificada en los otros arquetipos planetarios no podría manifestarse y funcionar de manera coherente dentro del <font color="#fc300c">Qubit Estelar</font> Heliosférico.
 
 ## 3. La Noesis (Arquetipo 4@)
 
@@ -53,4 +58,4 @@ Actúa como una interfaz crucial entre el Nous y el Fenómeno, traduciendo la in
 
 En resumen, la Noesis dentro del Modelo Nouménico es mucho más que la intuición humana; es un principio activo y organizativo en el corazón del Nous Activo, crucial para la evolución, coherencia y manifestación de la realidad fenoménica a partir del potencial infinito del Noúmeno. Su interacción con otros arquetipos, especialmente el Logos Individual y el Noema, es fundamental para la creación de estructuras lógicas que dan forma a nuestra experiencia del universo.
 
-Por lo tanto, el Sol no es meramente una estrella que provee luz y calor, sino una manifestación activa del Arquetipo de la Noesis, cuyo papel energético e informacional es fundamental para la existencia, la organización y la función del Qubit Creador Heliosférico y la expresión de los demás arquetipos en este nivel cósmico.
+Por lo tanto, el Sol no es meramente una estrella que provee luz y calor, sino una manifestación activa del Arquetipo de la Noesis, cuyo papel energético e informacional es fundamental para la existencia, la organización y la función del <font color="#fc300c">Qubit Estelar</font> Heliosférico y la expresión de los demás arquetipos en este nivel cósmico.

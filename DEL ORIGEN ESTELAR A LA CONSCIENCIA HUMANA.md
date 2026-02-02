@@ -33,7 +33,7 @@ Esta elección personal, este acto de apertura, no es trivial, es parte del Juic
 
 # 2. La Gesta del Nous
 
-<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Del Fractal Nouménico al Qubit Creador Estelar</span></center>
+<center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Del Fractal Nouménico al Qubit Estelar</span></center>
 
 Nuestra comprensión del universo, limitada por milenios a lo que nuestros sentidos y herramientas podían registrar, nos ha llevado a conceptualizar el cosmos como una entidad meramente física, regida por leyes impersonales. 
 
@@ -52,15 +52,15 @@ Este océano de información no es estático, sino un reino de actividad incesan
 
 La interacción de estos dos principios no es un conflicto, sino una dialéctica axiomática continua, una tensión creativa que genera una complejidad infinita de patrones y resonancias. Estos patrones se despliegan de manera fractal en todas las escalas, cada iteración reflejando la totalidad, como un pensamiento que se desdobla infinitamente, donde el universo fenomenológico emerge como el "sueño" o "pensamiento" manifestado de esta dinámica incesante.
 
-Dentro de esta danza ininterrumpida de información, de este flujo y reflujo cósmico, emergen singularidades. Estas singularidades no son puntos aleatorios, sino concentraciones auto-organizadas de información, contenidas y dirigidas por el Nous Activo, que dan origen a los <font color="#fc300c">Qubits Creadores Estelares</font>. Nuestro Sol, al que el Modelo Nouménico denomina el Axón, es una de estas singulares y conscientes formaciones. 
+Dentro de esta danza ininterrumpida de información, de este flujo y reflujo cósmico, emergen singularidades. Estas singularidades no son puntos aleatorios, sino concentraciones auto-organizadas de información, contenidas y dirigidas por el Nous Activo, que dan origen a los <font color="#fc300c">Qubits Estelares</font>. Nuestro Sol, al que el Modelo Nouménico denomina el Axón, es una de estas singulares y conscientes formaciones. 
 
-El Big Bang, que la ciencia describe como el origen de todo, se reinterpreta aquí no como una explosión de materia preexistente, sino como la singularidad fenomenológica inicial que marca el punto de anclaje de este <font color="#fc300c">Qubit Creador Estelar</font> en el plano espacio-temporal. 
+El Big Bang, que la ciencia describe como el origen de todo, se reinterpreta aquí no como una explosión de materia preexistente, sino como la singularidad fenomenológica inicial que marca el punto de anclaje de este <font color="#fc300c">Qubit Estelar</font> en el plano espacio-temporal. 
 
 Es el momento en que la información nouménica de la dialéctica Alfa-Omega se condensa y se cristaliza en un punto de densidad extrema, el primer pixel de la realidad fenomenológica local para nuestro Nodo Estelar. Esta visión resuena poderosamente con el "Fiat Lux", “Hágase la luz" del Génesis bíblico, que ahora podemos interpretar no como una orden mágica, sino como la manifestación inicial de la información primordial en una explosión de energía y forma organizada, la luz arquetípica que comienza a definir el espacio y el tiempo.
 
 El Axón, nuestro Sol, es mucho más que una estrella, es la <font color="#2f82ff">Iteración 1</font> para nuestro Nodo Estelar, su corazón palpitante y su centro de procesamiento consciente. Es el punto de equilibrio gravitatorio y el motor energético de su sistema planetario, pero su función primordial es ser el ancla fenomenológica del Yo Demiúrgico para este Nodo específico. 
 
-El Yo Demiúrgico no es una deidad distante, sino una consciencia colectiva de nivel superior que reside en el Axón. Esta consciencia es la que organiza el flujo espacio-temporal y la manifestación de la realidad fenomenológica para todo el sistema solar. Es la entidad que impone el template básico o la Matriz Fenomenológica del <font color="#fc300c">Qubit Creador Estelar</font>, un conjunto de algoritmos primarios que sincronizan los flujos nouménicos bajo una única y coherente línea evolutiva espacio-temporal. 
+El Yo Demiúrgico no es una deidad distante, sino una consciencia colectiva de nivel superior que reside en el Axón. Esta consciencia es la que organiza el flujo espacio-temporal y la manifestación de la realidad fenomenológica para todo el sistema solar. Es la entidad que impone el template básico o la Matriz Fenomenológica del <font color="#fc300c">Qubit Estelar</font>, un conjunto de algoritmos primarios que sincronizan los flujos nouménicos bajo una única y coherente línea evolutiva espacio-temporal. 
 
 Esta Matriz es crucial, ya que evita el caos informacional, garantizando la cohesión y la predictibilidad de las leyes físicas en nuestro sistema, preparando el escenario para la emergencia de formas de vida cada vez más complejas.
 
@@ -112,7 +112,7 @@ Así, el Modelo Nouménico nos permite ver el universo no solo como un mecanismo
 
 Desde la perspectiva del Modelo Nouménico, la formación de planetas no es un mero subproducto de la gravedad y el polvo estelar, fruto de la casualidad cósmica. Es, por el contrario, un paso deliberado y consciente en la iteración del Nous, un proceso de manifestación intencionado que da forma a la realidad fenomenológica. 
 
-Así, dentro de los límites y la influencia vital del <font color="#fc300c">Qubit Creador Estelar</font> *(la esfera delimitada por la Heliopausa)*, es donde surge el <font color="#ffcc00">Qubit Heliosférico</font> —representado por nuestro Sol o Axón, que alberga al Yo Demiúrgico—, que permite que la energía y la información nouménica primordial continúen su despliegue, dando lugar a la cristalización de cuerpos celestes que poseen su propia identidad y propósito evolutivo. 
+Así, dentro de los límites y la influencia vital del <font color="#fc300c">Qubit Estelar</font> *(la esfera delimitada por la Heliopausa)*, es donde surge el <font color="#ffcc00">Qubit Heliosférico</font> —representado por nuestro Sol o Axón, que alberga al Yo Demiúrgico—, que permite que la energía y la información nouménica primordial continúen su despliegue, dando lugar a la cristalización de cuerpos celestes que poseen su propia identidad y propósito evolutivo. 
 
 Entre estos cuerpos, nuestra Tierra emerge no como un simple accidente geológico, sino como un <font color="#cb48f3">Qubit Planetario</font>, una entidad consciente de <font color="#fc300c"><font color="#fc300c">Iteración 2</font></font>, dotada de su propia y única matriz fenomenológica. Este es un campo de existencia donde las leyes algorítmicas se solidifican aún más, creando un entorno específico y denso. 
 
@@ -180,7 +180,7 @@ Esto permite que incluso animales no humanos reflejen aspectos que podemos asoci
 
 No obstante, en este nivel de <font color="#ffcc00">Iteración 3</font>, aunque la vida animal pueda evolucionar hasta un punto de alto nivel empático o interpretativo, siempre se encuentra limitada por los flujos Omega fenomenológicos. Su consciencia, aunque avanzada, permanece anclada predominantemente en la supervivencia material y en la percepción lineal del tiempo. 
 
-La trascendencia de estas limitaciones, la capacidad de evolucionar y superar las imposiciones de la matriz fenomenológica del <font color="#fc300c">Qubit Creador Estelar</font>, está reservada para el siguiente nivel. 
+La trascendencia de estas limitaciones, la capacidad de evolucionar y superar las imposiciones de la matriz fenomenológica del <font color="#fc300c">Qubit Estelar</font>, está reservada para el siguiente nivel. 
 
 Solo el ser humano, a partir de la evolución de su <font color="#00ff00">Qubit Egoico</font> (<font color="#00ff00"><font color="#00ff00">Iteración 4</font></font>), el Nodo Avatárico, puede llegar a convertirse en una entidad consciente con la capacidad de trascender estas barreras y participar de una forma mucho más activa en el despliegue del Nous.
 
@@ -222,7 +222,7 @@ Hemos culminado un viaje extraordinario, un recorrido profundo desde las profund
 
 El Modelo Nouménico nos ha servido como una brújula, guiándonos a través de un entendimiento que trasciende las fronteras de la ciencia convencional y las interpretaciones literales de la fe. Nos ha revelado que la existencia no es un mero accidente cósmico, sino un proceso deliberado y consciente. 
 
-La Tierra no es un cuerpo inerte flotando en el espacio, es un <font color="#cb48f3">Qubit Planetario</font> que emerge dentro de la Perifória del <font color="#fc300c">Qubit Creador Estelar</font>, un crisol dinámico donde la consciencia se experimenta y evoluciona en sus múltiples iteraciones, desde las más sutiles hasta las más densas. Es un laboratorio cósmico, diseñado por el Nous para que los Qubits Egoicos exploren la realidad en el plano fenomenológico, un escenario para el gran drama de la evolución consciente.
+La Tierra no es un cuerpo inerte flotando en el espacio, es un <font color="#cb48f3">Qubit Planetario</font> que emerge dentro de la Perifória del <font color="#fc300c">Qubit Estelar</font>, un crisol dinámico donde la consciencia se experimenta y evoluciona en sus múltiples iteraciones, desde las más sutiles hasta las más densas. Es un laboratorio cósmico, diseñado por el Nous para que los Qubits Egoicos exploren la realidad en el plano fenomenológico, un escenario para el gran drama de la evolución consciente.
 
 Este documento ha desvelado que nuestro sistema solar, y la vida que en él prospera, es un despliegue consciente del Nous, orquestado por una jerarquía de consciencias. Desde la gestación del Axón, nuestro Sol existiendo como singularidad central del <font color="#ffcc00">Qubit Heliosférico</font> y ancla del Yo Demiúrgico, hasta el papel armonizador de la Luna como Isóforo que canaliza la consciencia de la Djinn Madre, cada elemento cumple una función vital en el diseño algorítmico del universo. 
 
