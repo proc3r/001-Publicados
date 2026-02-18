@@ -9,7 +9,7 @@ Desde tiempos inmemoriales, la humanidad ha alzado su mirada al firmamento y ha 
 
 Estas preguntas universales han dado origen a una miríada de mitos, religiones y sistemas filosóficos a lo largo y ancho del globo. 
 
-En esta entrada continuaremos con nuestro intento por Desvelar el Cosmos, explicando desde la perspectiva del Modelo Nouménico la lógica que se esconde detrás de los Dioses Antiguos y la Consciencia Cósmica. 
+En este documento continuaremos con nuestro intento por Desvelar el Cosmos, explicando desde la perspectiva del Modelo Nouménico la lógica que se esconde detrás de los Dioses Antiguos y la Consciencia Cósmica. 
 
 A continuación exploraremos las resonancias que existen entre estos conceptos de la Mitología Humana y conceptos nouménicos como el <font color="#fc300c">Djinn Padre</font>, la <font color="#2f82ff">Djinn Madre</font> y la emergencia del Hijo Cósmico.
 
