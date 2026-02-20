@@ -5,6 +5,8 @@ indexar: true
 
 ![[DiosesAntiguos.jpg]]
 
+![[Reinterpretando a los Dioses.mp3]]
+
 Desde tiempos inmemoriales, la humanidad ha alzado su mirada al firmamento y ha buscado comprender el vasto misterio de la existencia. 
 
 ¿Cómo surgió todo? ¿Qué fuerzas rigen la realidad? ¿Cuál es nuestro lugar en este drama cósmico? 
