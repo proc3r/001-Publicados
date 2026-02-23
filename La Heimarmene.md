@@ -2,6 +2,7 @@
 soundtrack: wbVsyVGJYDM
 indexar: true
 ---
+![[La Heimarmene.mp3]]
 ![[Heimarmene.jpg]]
 
 ¿Alguna vez te has detenido a reflexionar sobre el misterioso hilo que parece tejer los eventos de nuestra vida y del universo? 
