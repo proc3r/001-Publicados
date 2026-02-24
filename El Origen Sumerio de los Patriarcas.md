@@ -110,7 +110,7 @@ Así, cuando un texto sumerio o un relato hebreo inicial mencionaba 900 unidades
 
 La equivalencia que proponemos es directa, para conocer la edad real en años modernos de estos patriarcas, debemos tomar la edad bíblica y dividirla por 12 ciclos lunares o meses: 
 
-<center><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">Edad Patrircal / 12 meses = Cantidad de Años Reales</span></center>
+<center><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">Edad Patriarcal ÷ 12 meses = Cantidad de Años Reales</span></center>
 
 ![[Tabla Edades PatriarcasX.jpg]]
 
