@@ -112,7 +112,7 @@ La equivalencia que proponemos es directa, para conocer la edad real en años mo
 
 <center><span style="font-size: larger; letter-spacing: 2px; font-family: 'MJXTEX';">Edad Patriarcal ÷ 12 meses = Cantidad de Años Reales</span></center>
 
-![[Tabla Edades PatriarcasX.jpg]]
+![[Edad Patriarcalx.jpg]]
 
 Aplicando esta fórmula a las edades de los patriarcas tendríamos periodos de vida mucho mas lógicos según la expectativa de vida humana:
 
@@ -218,7 +218,7 @@ Los sumerios, probablemente, contaban estas influencias cósmicas con sus propio
 
 Consideremos la siguiente correspondencia entre los Reyes Sumerios y los patriarcas bíblicos, un reflejo de cómo las figuras de una tradición fueron reinterpretadas en la otra:
 
-![[Tabla Reyes SumeriosX.jpg]]
+![[Reyes Sumerios.jpg]]
 
 La tabla de reyes sumerios comienza con <font color="#fc300c">Alulim</font>, el primer Rey sumerio registrado y que sería el arquetipo de <font color="#fc300c">Adán</font>. Su reinado sumerio de 64800 años —equivalente a aproximadamente a 2,51 Ciclos Cósmicos— no describe una vida biológica, sino un **ciclo evolutivo** de la <font color="#2f82ff">Consciencia Universal</font> dentro del <font color="#2f82ff">Nodo Estelar</font>. 
 
