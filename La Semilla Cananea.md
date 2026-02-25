@@ -3,7 +3,8 @@ soundtrack: ZXyLyv62jJI
 indexar: true
 ---
 ![[La Semilla Cananea.mp3]]
-![[Semilla Cananea.jpg]]
+
+![[Semilla Cananeax.jpg]]
 
 La historia del pueblo hebreo, a menudo circunscrita a una visión lineal y teocéntrica en los anales académicos y religiosos, se revela, bajo el lente del Modelo Nouménico, como una intrincada danza de fuerzas cósmicas y arquetípicas. 
 
