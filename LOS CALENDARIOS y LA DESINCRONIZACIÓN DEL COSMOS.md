@@ -1,17 +1,18 @@
 ![[Calendars.jpg]]
 
 # Introducción
+
 Para la mayoría de los seres humanos, el tiempo es una constante familiar. Se despliega en una secuencia aparentemente lineal, medido por el tictac de los relojes y organizado por los ciclos predecibles de los calendarios. 
 
-La vida cotidiana, el trabajo, las ***celebraciones*** y los rituales están inextricablemente ligados a estas estructuras temporales que heredamos de nuestra cultura. 
+La vida cotidiana, el trabajo, las celebraciones y los rituales están inextricablemente ligados a estas estructuras temporales que heredamos de nuestra cultura. 
 
 Pero, ¿y si el tiempo, tal como lo experimentamos a través de nuestros calendarios, no fuera solo una forma neutral de medir el universo, sino una poderosa herramienta de codificación que refleja y, crucialmente, refuerza la visión de la realidad que validamos?
 
-El Modelo Nouménico nos invita a dar un paso atrás y observar el tiempo desde una perspectiva más profunda. Propone que nuestras estructuras temporales colectivas, los calendarios, no son meros instrumentos, sino codificaciones arquetípicas de los Noemas que habitamos. 
+El Modelo Nouménico nos invita a dar un paso atrás y observar el tiempo desde una perspectiva más profunda. Propone que nuestras estructuras temporales colectivas —los calendarios—, no son meros instrumentos, sino codificaciones arquetípicas de los Noemas que habitamos. 
 
 Y aquí reside un problema fundamental: la existencia global de múltiples calendarios, cada uno portador de un Noema cultural distinto y, a menudo, conflictivo, crea una profunda desincronización temporal. 
 
-Esta desalineación no es un simple inconveniente logístico, sino que se manifiesta como un punto de falla crítico que obstaculiza la evolución del Nodo Estelar Soplaris en múltiples niveles.
+Esta desalineación no es un simple inconveniente logístico, sino que se manifiesta como un punto de falla crítico que obstaculiza la evolución del <font color="#2f82ff">Nodo Estelar</font> <font color="#ffcc00">Soplaris</font> en múltiples niveles.
 
 A continuación desvelaremos como es que el Modelo Nouménico considera que esta desincronización temporal es una cuestión de suma importancia cósmica. 
 
@@ -48,9 +49,9 @@ En el plano humano, nuestra experiencia subjetiva del tiempo, generada por el Qu
 
 Un calendario es una arquitectura simbólica compleja que integra y refuerza:
 
-> - **Arquetipos y Simbolismo**: Los nombres de los días, meses, estaciones, y los eventos marcados, como los solsticios, equinoccios y fases lunares, a menudo resuenan con deidades, eventos míticos o principios arquetípicos que son centrales para la cosmovisión de esa cultura, dioses romanos para meses, deidades nórdicas para días en el mundo anglosajón o romanas para el mundo latino, nombres que evocan cosechas, etc, incrustan en la estructura del tiempo las resonancias de las entidades supraconscientes percibidas.
-> - **Ritmos y Ciclos**: Definen los ciclos de trabajo, descanso, celebración, siembra y cosecha que dan forma al ritmo de vida colectivo. Establecen los días festivos, los rituales y las ceremonias que marcan el paso del tiempo colectivo y refuerzan los valores, creencias y prioridades del Noema cultural: celebraciones religiosas, fiestas nacionales, conmemoraciones.
-> - **Narrativas Históricas y Cosmológicas**: Un calendario a menudo tiene un punto de inicio que marca un evento fundamental para la historia o la cosmología de la cultura: el nacimiento de un profeta, una migración clave, la fundación de una nación o un evento mítico primordial. Refleja si la cultura prioriza ciclos solares, lunares o una combinación, codificando su interpretación de los ritmos celestes y del lugar de la humanidad en la historia cósmica.
+> - Arquetipos y Simbolismo: Los nombres de los días, meses, estaciones, y los eventos marcados, como los solsticios, equinoccios y fases lunares, a menudo resuenan con deidades, eventos míticos o principios arquetípicos que son centrales para la cosmovisión de esa cultura, dioses romanos para meses, deidades nórdicas para días en el mundo anglosajón o romanas para el mundo latino, nombres que evocan cosechas, etc, incrustan en la estructura del tiempo las resonancias de las entidades supraconscientes percibidas.
+> - Ritmos y Ciclos: Definen los ciclos de trabajo, descanso, celebración, siembra y cosecha que dan forma al ritmo de vida colectivo. Establecen los días festivos, los rituales y las ceremonias que marcan el paso del tiempo colectivo y refuerzan los valores, creencias y prioridades del Noema cultural: celebraciones religiosas, fiestas nacionales, conmemoraciones.
+> - Narrativas Históricas y Cosmológicas: Un calendario a menudo tiene un punto de inicio que marca un evento fundamental para la historia o la cosmología de la cultura: el nacimiento de un profeta, una migración clave, la fundación de una nación o un evento mítico primordial. Refleja si la cultura prioriza ciclos solares, lunares o una combinación, codificando su interpretación de los ritmos celestes y del lugar de la humanidad en la historia cósmica.
 
 Vivir según un calendario es, por lo tanto, sumergirse en un universo temporal simbólico y arquetípico particular. Lejos de ser una experiencia universal e idéntica, se convierte en una sintonización con un patrón específico. Refuerza en la consciencia individual las resonancias de ese Noema cultural específico, anclándola a una percepción del tiempo y a una serie de prioridades, significados y sincronizaciones arquetípicas que pueden ser radicalmente diferentes de los incrustados en otro calendario.
 
@@ -77,12 +78,12 @@ Aunque en el mundo globalizado actual el calendario gregoriano ha alcanzado una 
 Cada uno de estos calendarios opera con sus propias reglas, sus propios ciclos y sus propias formas de dividir el tiempo, reflejando cosmovisiones y Noemas muy distintos. Comprender brevemente la lógica básica de algunos de ellos nos revela la magnitud de la fragmentación:
 
 > [!CITE] CALENDARIOS CIVILIZATORIOS
-> - El **Calendario Gregoriano**: El calendario civil más extendido globalmente. Es de base solar, diseñado para seguir el ciclo de las estaciones. Se compone de 12 meses, pero la duración de estos meses varía irregularmente entre 28, 30 o 31 días. Aproxima la duración del año tropical, aproximadamente 365 días y 6 horas, añadiendo un día extra en febrero los años bisiestos, la mayoría de los años divisibles por 4. Su era comienza con el nacimiento de Jesús. Si consideramos este calendario,  actualmente nos encontramos en el año 2025 del Calendario Gregoriano.
-> - El **Calendario Islámico** _Hijri_: Es un calendario estrictamente lunar, compuesto por 12 meses lunares. Cada mes comienza con la observación de la luna creciente. Un año islámico tiene entre 354 o 355 días, lo que lo hace significativamente más corto que el año solar, aproximadamente 10 u 11 días menos. Esto significa que sus meses y festividades viajan a lo largo de las estaciones solares a lo largo de ciclos de unos 33 años. Su era comienza con la Hégira, la migración de Mahoma en el 622 de la era moderna. Según este calendario, a comienzos del 2025 gregoriano, nos encontramos en el año 1446 AH _Anno Hegirae_.
-> - El **Calendario Hindú**: Representa una familia de calendarios, a menudo lunisolares. Utilizan meses basados en el ciclo lunar, pero añaden meses adicionales, intercalares periódicamente para mantener el año alineado con el ciclo solar y las estaciones agrícolas. Sus sistemas de cálculo son complejos y sus eras varían según la región. Una era prominente es la era Saka, utilizada en la India. A comienzos del 2025 gregoriano, nos encontramos aproximadamente en el año 1947 de la era Saka.
-> - El **Calendario Chino**: Tradicionalmente lunisolar. Los meses se basan en el ciclo lunar, y se añade un mes extra, un mes bisiesto, aproximadamente cada tres años para mantenerlo en línea con el año solar y las estaciones. Sigue un ciclo de 60 años basado en combinaciones simbólicas. Su origen se remonta a eras legendarias. A comienzos del 2025 gregoriano, nos encontramos en el año 4722, correspondiente al Año de la Serpiente en el ciclo animal.
-> - El **Calendario Hebreo**: Es un calendario lunisolar regulado por reglas matemáticas. Tiene 12 o 13 meses lunares y utiliza un ciclo de 19 años, ciclo metónico, para determinar cuándo añadir un mes extra y mantener la alineación con el año solar. Su era comienza con la fecha calculada de la creación del mundo. A comienzos del 2025 gregoriano, nos encontramos en el año 5785 AM _Anno Mundi_.
-> - El **Calendario Maya**: Un sistema mesoamericano complejo con varios ciclos interconectados, el Tzolkin de 260 días para fines rituales, el Haab' de 365 días civiles. Su "Cuenta Larga" completó un ciclo principal de 13 Baktunes alrededor de diciembre de 2012.
+> - El Calendario Gregoriano: El calendario civil más extendido globalmente. Es de base solar, diseñado para seguir el ciclo de las estaciones. Se compone de 12 meses, pero la duración de estos meses varía irregularmente entre 28, 30 o 31 días. Aproxima la duración del año tropical, aproximadamente 365 días y 6 horas, añadiendo un día extra en febrero los años bisiestos, la mayoría de los años divisibles por 4. Su era comienza con el nacimiento de Jesús. Si consideramos este calendario,  actualmente nos encontramos en el año 2025 del Calendario Gregoriano.
+> - El Calendario Islámico Hijri: Es un calendario estrictamente lunar, compuesto por 12 meses lunares. Cada mes comienza con la observación de la luna creciente. Un año islámico tiene entre 354 o 355 días, lo que lo hace significativamente más corto que el año solar, aproximadamente 10 u 11 días menos. Esto significa que sus meses y festividades viajan a lo largo de las estaciones solares a lo largo de ciclos de unos 33 años. Su era comienza con la Hégira, la migración de Mahoma en el 622 de la era moderna. Según este calendario, a comienzos del 2025 gregoriano, nos encontramos en el año 1446 AH Anno Hegirae.
+> - El Calendario Hindú: Representa una familia de calendarios, a menudo lunisolares. Utilizan meses basados en el ciclo lunar, pero añaden meses adicionales, intercalares periódicamente para mantener el año alineado con el ciclo solar y las estaciones agrícolas. Sus sistemas de cálculo son complejos y sus eras varían según la región. Una era prominente es la era Saka, utilizada en la India. A comienzos del 2025 gregoriano, nos encontramos aproximadamente en el año 1947 de la era Saka.
+> - El Calendario Chino: Tradicionalmente lunisolar. Los meses se basan en el ciclo lunar, y se añade un mes extra, un mes bisiesto, aproximadamente cada tres años para mantenerlo en línea con el año solar y las estaciones. Sigue un ciclo de 60 años basado en combinaciones simbólicas. Su origen se remonta a eras legendarias. A comienzos del 2025 gregoriano, nos encontramos en el año 4722, correspondiente al Año de la Serpiente en el ciclo animal.
+> - El Calendario Hebreo: Es un calendario lunisolar regulado por reglas matemáticas. Tiene 12 o 13 meses lunares y utiliza un ciclo de 19 años, ciclo metónico, para determinar cuándo añadir un mes extra y mantener la alineación con el año solar. Su era comienza con la fecha calculada de la creación del mundo. A comienzos del 2025 gregoriano, nos encontramos en el año 5785 AM Anno Mundi.
+> - El Calendario Maya: Un sistema mesoamericano complejo con varios ciclos interconectados, el Tzolkin de 260 días para fines rituales, el Haab' de 365 días civiles. Su "Cuenta Larga" completó un ciclo principal de 13 Baktunes alrededor de diciembre de 2012.
 
 Esta diversidad, con sus distintas duraciones de años solares, lunares, lunisolares, sus meses que se desincronizan de las estaciones solares en calendarios puramente lunares, sus diferentes ritmos semanales/mensuales y sus distintos puntos de referencia históricos o míticos, crea un mosaico fragmentado de experiencias temporales a nivel planetario. Cada uno, al ser validado por millones de consciencias, fortalece su propia estructura temporal y sus resonancias arquetípicas asociadas.
 
@@ -102,25 +103,25 @@ Los meses desiguales y la estructura semanal se han vuelto sinónimos del ciclo 
 
 Para comprender mejor cómo este calendario refleja y perpetúa el noema romano y sus adaptaciones, es fundamental desglosar el origen de sus doce meses:
 
-> [!SOLIDO] **CODIFICACIÓN ROMANA DE LOS MESES**
-> - **Enero** o January en inglés: El primer mes del año debe su nombre al dios romano Jano, deidad de los comienzos, los finales, las transiciones y las puertas. 
-> - **Febrero** o February en inglés: Deriva de Februa, un rito de purificación romano que se celebraba el día 15 de este mes. 
-> - **Marzo** o March en inglés: Recibe su nombre del dios romano de la guerra, Marte. 
-> - **Abril** o April en inglés: Su nombre proviene del latín aperire, que significa "abrir", en referencia a la apertura de las flores y brotes en primavera. 
-> - **Mayo** o May en inglés: Nombrado en honor a Maia, una antigua diosa romana de la fertilidad y la tierra, asociada con el crecimiento de las plantas. 
-> - **Junio** o June en inglés: Dedicado a la diosa Juno, la reina de los dioses romanos, protectora del matrimonio y el parto, equivalente a la Hera griega.
-> - **Julio** o July en inglés: Originalmente llamado Quintilis "quinto mes", fue renombrado en honor a Julio César después de su muerte. 
-> - **Agosto** o August en inglés: Previamente conocido como Sextilis "sexto mes", fue rebautizado al igual que julio, en honor al primer emperador romano, Augusto. 
-> - **Septiembre** o September en inglés: Mantiene su nombre de origen latino septem, que significa "siete".
-> - **Octubre** u October en inglés: Derivado del latín octo, que significa "ocho".
-> - **Noviembre** o November en inglés: Proviene del latín novem, que significa "nueve".
-> - **Diciembre** o December en inglés: Toma su nombre del latín decem, que significa "diez". 
+> [!SOLIDO] CODIFICACIÓN ROMANA DE LOS MESES
+> - Enero o January en inglés: El primer mes del año debe su nombre al dios romano Jano, deidad de los comienzos, los finales, las transiciones y las puertas. 
+> - Febrero o February en inglés: Deriva de Februa, un rito de purificación romano que se celebraba el día 15 de este mes. 
+> - Marzo o March en inglés: Recibe su nombre del dios romano de la guerra, Marte. 
+> - Abril o April en inglés: Su nombre proviene del latín aperire, que significa "abrir", en referencia a la apertura de las flores y brotes en primavera. 
+> - Mayo o May en inglés: Nombrado en honor a Maia, una antigua diosa romana de la fertilidad y la tierra, asociada con el crecimiento de las plantas. 
+> - Junio o June en inglés: Dedicado a la diosa Juno, la reina de los dioses romanos, protectora del matrimonio y el parto, equivalente a la Hera griega.
+> - Julio o July en inglés: Originalmente llamado Quintilis "quinto mes", fue renombrado en honor a Julio César después de su muerte. 
+> - Agosto o August en inglés: Previamente conocido como Sextilis "sexto mes", fue rebautizado al igual que julio, en honor al primer emperador romano, Augusto. 
+> - Septiembre o September en inglés: Mantiene su nombre de origen latino septem, que significa "siete".
+> - Octubre u October en inglés: Derivado del latín octo, que significa "ocho".
+> - Noviembre o November en inglés: Proviene del latín novem, que significa "nueve".
+> - Diciembre o December en inglés: Toma su nombre del latín decem, que significa "diez". 
 
 Esta persistencia de los nombres latinos, a pesar de la reorganización del calendario, es un testimonio de cómo el noema romano, centrado en sus deidades, sus héroes, su expansión y su orden, se incrustó en la estructura misma del tiempo que hoy validamos globalmente.
 
 El problema fundamental y más grave emerge cuando esta multiplicidad de Noemas temporales, validados por miles de millones de consciencias a través de sus respectivos calendarios, interactúa en el plano de la consciencia colectiva planetaria. 
 
-La Consciencia Colectiva Universal, asociada al Noema Primordial, Arquetipo 5@ Noema _Sabaoth_, y que define la sincronización del tiempo nouménico a nivel Estelar, es la entidad supraconsciente cuya función esencial es recopilar, procesar y unificar la vasta información que emana de la consciencia colectiva del Nodo Planetario y Orgánico.
+La Consciencia Colectiva Universal, asociada al Noema Primordial, Arquetipo 5@ Noema Sabaoth, y que define la sincronización del tiempo nouménico a nivel Estelar, es la entidad supraconsciente cuya función esencial es recopilar, procesar y unificar la vasta información que emana de la consciencia colectiva del Nodo Planetario y Orgánico.
 
 La existencia de seres humanos en todo el planeta que validan activamente calendarios diferentes y, a menudo, mutuamente excluyentes crea un caos informacional a nivel temporal para la sincronización general del Nodo Estelar. 
 
@@ -274,35 +275,35 @@ Más allá de su estructura matemática y simétrica, el nuevo calendario imbric
 
 La semana de 7 días es una constante en muchas culturas, portando un significado arquetípico asociado a menudo con los siete cuerpos celestes visibles o con otras estructuras septenarias. El nuevo calendario mantiene esta estructura, pero re-significa radicalmente los nombres de los días asignándoles directamente los nombres de los Arquetipos Ontogenicos 1@ al 7@ en un orden específico. Este orden sigue la secuencia numérica de los Arquetipos, vinculando cada día con la resonancia de una energía fundamental:
 
-- **Lunes**: Adonin _1@ Nous_.
-- **Martes**: Astaphaios _2@ Logos Cósmico_.
-- **Miércoles**: Eloaios _3@ Logos Individual_.
-- **Jueves**: IAO _4@ Noesis_.
-- **Viernes**: Sabaoth _5@ Noema_.
-- **Sábado**: Sabbataios _6@ Demiurgo_.
-- **Domingo**: Horaios _7@ Avatar_.
+- Lunes: Adonin 1@ Nous.
+- Martes: Astaphaios 2@ Logos Cósmico.
+- Miércoles: Eloaios 3@ Logos Individual.
+- Jueves: IAO 4@ Noesis.
+- Viernes: Sabaoth 5@ Noema.
+- Sábado: Sabbataios 6@ Demiurgo.
+- Domingo: Horaios 7@ Avatar.
 
 La lógica detrás de este orden es establecer una resonancia intencional y armónica entre el ritmo diario y las energías arquetípicas que dan forma a la realidad. Se propone que cada día de la semana resuena de manera más fuerte con el arquetipo al que está asociado, ofreciendo oportunidades para que los individuos alineen sus actividades con estas energías y faciliten un flujo más armónico en sus vidas. Por ejemplo:
 
-> - El día **<font color="#fc300c">Adonin</font>** <font color="#fc300c">1@ Nous</font>, asociado al Reinado y la fuerza inicial, podría ser propicio para iniciar proyectos, hacer ejercicio físico o actividades que resuenen con la energía del guerrero o la voluntad, como mirar deportes o películas de acción.
-> - El día **<font color="#e36c09">Astaphaios</font>** <font color="#e36c09">2@ Logos Cósmico</font>, asociado a la Sofía y el orden cósmico, podría ser ideal para actividades más pacíficas, como la contemplación, el arte o la apreciación de la belleza y el amor.
-> - El día **<font color="#ffcc00">Eloaios</font>** <font color="#ffcc00">3@ Logos Individual</font>, asociado al Logos Individual y la diferenciación, podría ser óptimo para actividades lógicas, intelectuales, el estudio o la comunicación.
-> - El día **<font color="#00ff00">IAO</font>** <font color="#00ff00">4@ Noesis</font>, asociado a la Noesis y la comprensión, vinculado a la Consciencia Solar a través de la sincronización que manifiesta la Consciencia Arquetípica Ontogénica, podría resonar con actividades que impliquen sabiduría, humildad y liderazgo consciente.
-> - El día **<font color="#2f82ff">Sabaoth</font>** <font color="#2f82ff">5@ Noema</font>, asociado al Noema Primordial y la validación colectiva, podría ser ideal para actividades sociales, actos de bondad o esfuerzos que ayuden a otras personas y fortalezcan la conexión colectiva.
-> - El día **<font color="#cb48f3">Sabbataios</font>** <font color="#cb48f3">6@ Demiurgo</font>, asociado a la Phronesis, entendida como “sabiduría práctica o “prudencia” y la virtud del pensamiento moral y los límites, podría ser un día para la autoevaluación, la introspección, la contención de las pasiones o la reflexión sobre las experiencias del plano fenomenológico.
-> - El día **<font color="#ffa3ef">Horaios</font>** <font color="#ffa3ef">7@ Avatar</font>, asociado a la Riqueza de la consciencia evolutiva y el Yo Superior, es el día dedicado a la familia, el cuidado de otros, la conexión emocional profunda y el desarrollo de la consciencia Avatarica, vinculada a la consciencia lunar/Djinn Madre y la familia cósmica.
+> - El día <font color="#fc300c">Adonin</font> <font color="#fc300c">1@ Nous</font>, asociado al Reinado y la fuerza inicial, podría ser propicio para iniciar proyectos, hacer ejercicio físico o actividades que resuenen con la energía del guerrero o la voluntad, como mirar deportes o películas de acción.
+> - El día <font color="#e36c09">Astaphaios</font> <font color="#e36c09">2@ Logos Cósmico</font>, asociado a la Sofía y el orden cósmico, podría ser ideal para actividades más pacíficas, como la contemplación, el arte o la apreciación de la belleza y el amor.
+> - El día <font color="#ffcc00">Eloaios</font> <font color="#ffcc00">3@ Logos Individual</font>, asociado al Logos Individual y la diferenciación, podría ser óptimo para actividades lógicas, intelectuales, el estudio o la comunicación.
+> - El día <font color="#00ff00">IAO</font> <font color="#00ff00">4@ Noesis</font>, asociado a la Noesis y la comprensión, vinculado a la Consciencia Solar a través de la sincronización que manifiesta la Consciencia Arquetípica Ontogénica, podría resonar con actividades que impliquen sabiduría, humildad y liderazgo consciente.
+> - El día <font color="#2f82ff">Sabaoth</font> <font color="#2f82ff">5@ Noema</font>, asociado al Noema Primordial y la validación colectiva, podría ser ideal para actividades sociales, actos de bondad o esfuerzos que ayuden a otras personas y fortalezcan la conexión colectiva.
+> - El día <font color="#cb48f3">Sabbataios</font> <font color="#cb48f3">6@ Demiurgo</font>, asociado a la Phronesis, entendida como “sabiduría práctica o “prudencia” y la virtud del pensamiento moral y los límites, podría ser un día para la autoevaluación, la introspección, la contención de las pasiones o la reflexión sobre las experiencias del plano fenomenológico.
+> - El día <font color="#ffa3ef">Horaios</font> <font color="#ffa3ef">7@ Avatar</font>, asociado a la Riqueza de la consciencia evolutiva y el Yo Superior, es el día dedicado a la familia, el cuidado de otros, la conexión emocional profunda y el desarrollo de la consciencia Avatarica, vinculada a la consciencia lunar/Djinn Madre y la familia cósmica.
 
 Vivir conscientemente en sincronía con la naturaleza de estos arquetipos día a día no es una imposición, sino una forma de alinearse con las frecuencias o resonancias cósmicas que se reflejan a través de ellos, facilitando un "mayor favor" o un flujo más suave en la vida. Es un mapa para que la sociedad y la civilización puedan organizar sus ritmos de manera que resuenen con el equilibrio nouménico, similar a cómo hoy el domingo se asocia con el descanso o el ocio.
 
 Al contrastar esta asignación con las asociaciones tradicionales del calendario gregoriano, a menudo ligadas a planetas con simbolismos históricos, vemos cómo el nuevo calendario re-sincroniza las energías arquetípicas diarias. 
 
-Por ejemplo, el día Lunes tradicionalmente asociado a la Luna, pasa a resonar con Adonin _Marte_, infundiendo al inicio de la semana una energía de inicio y voluntad. 
+Por ejemplo, el día Lunes tradicionalmente asociado a la Luna, pasa a resonar con Adonin Marte, infundiendo al inicio de la semana una energía de inicio y voluntad. 
 
-El día Martes tradicionalmente asociado a Marte, ahora resuena con Astaphaios _Venus_, aportando una energía refrescante de paz y arte a ese día. 
+El día Martes tradicionalmente asociado a Marte, ahora resuena con Astaphaios Venus, aportando una energía refrescante de paz y arte a ese día. 
 
-El día Viernes _Venus_ pasa a resonar con Sabaoth _Júpiter_, conectando la energía social con un principio de expansión y conexión colectiva. 
+El día Viernes Venus pasa a resonar con Sabaoth Júpiter, conectando la energía social con un principio de expansión y conexión colectiva. 
 
-El día Domingo _Sol_ pasa a resonar con Horaios _Avatar/Luna_, ligando el día final de la semana con la consciencia evolutiva, la familia y la conexión con la Consciencia Ontogénica Universal. 
+El día Domingo Sol pasa a resonar con Horaios Avatar/Luna, ligando el día final de la semana con la consciencia evolutiva, la familia y la conexión con la Consciencia Ontogénica Universal. 
 
 Esta reestructuración busca romper con saturaciones energéticas del ciclo anterior y promover una tensión arquetípica más equilibrada y propicia para la evolución.
 
@@ -312,8 +313,8 @@ Esta reestructuración busca romper con saturaciones energéticas del ciclo ante
 
 La designación de los meses en el nuevo calendario también porta una carga arquetípica significativa, buscando redefinir nuestra relación simbólica con los ciclos celestes. Los seis meses de 28 días de cada semestre reciben nombres de signos zodiacales:
 
-- **Primer Semestre**: <font color="#fc300c">Aries</font>, <font color="#00ff00">Tauro</font>, <font color="#ffcc00">Géminis</font>, <font color="#2f82ff">Cáncer</font>, <font color="#fc300c">Leo</font>, <font color="#00ff00">Virgo</font>, cada uno de 28 días.
-- **Segundo Semestre**: <font color="#ffcc00">Libra</font>, <font color="#2f82ff">Escorpio</font>, <font color="#fc300c">Sagitario</font>, <font color="#00ff00">Capricornio</font>, <font color="#ffcc00">Acuario</font>, <font color="#2f82ff">Piscis</font>, cada uno de 28 días.
+- Primer Semestre: <font color="#fc300c">Aries</font>, <font color="#00ff00">Tauro</font>, <font color="#ffcc00">Géminis</font>, <font color="#2f82ff">Cáncer</font>, <font color="#fc300c">Leo</font>, <font color="#00ff00">Virgo</font>, cada uno de 28 días.
+- Segundo Semestre: <font color="#ffcc00">Libra</font>, <font color="#2f82ff">Escorpio</font>, <font color="#fc300c">Sagitario</font>, <font color="#00ff00">Capricornio</font>, <font color="#ffcc00">Acuario</font>, <font color="#2f82ff">Piscis</font>, cada uno de 28 días.
 
 Los dos meses cortos reciben nombres de constelaciones clave:
 
@@ -350,45 +351,45 @@ La columna "Días Extra" en los niveles del Logos Cósmico y Nous Estelar muestr
 
 La tabla que hemos presentado revela la existencia de siete niveles principales de "Sincronizadores", cada uno asociado a una consciencia o entidad supraconsciente específica dentro de la arquitectura del Nodo Estelar y operando a una frecuencia temporal particular. Estos son los directores de orquesta de los diferentes ritmos del cosmos local:
 
-> [!avatar] **7@ AVATAR** - Consciencia Avatárica Lunar
+> [!avatar] 7@ AVATAR - Consciencia Avatárica Lunar
 > Opera al ciclo más rápido registrado, cada 2 segundos. Esta velocidad, vinculada al tiempo que tarda la luz en viajar de la Luna a la Tierra, sugiere una conexión íntima entre la consciencia Avatárica y la entidad supraconscientes considerada la Djinn Madre o Consciencia Lunar, a través de la cual el Avatar alimenta la consciencia evolutiva. 
 > 
 > Refleja una consciencia extremadamente ágil y receptiva, capaz de procesar información y actualizarse constantemente, otorgando al Avatar un alto nivel de consciencia en el plano manifestado y capacidad de manifestación por encima de la Consciencia Colectiva Humana. Este sincronizador gestiona la percepción del tiempo a nivel de la experiencia Avatárica directa.
 
-> [!gemini] **6@ DEMIURGO** - Consciencia Colectiva Humana
+> [!gemini] 6@ DEMIURGO - Consciencia Colectiva Humana
 > Opera en ciclos de 8 minutos. Este tiempo se asocia con el tiempo que tarda la luz en viajar del Sol a la Tierra, el punto donde supraconsciencia Administradora del Nodo Estelar valida la realidad en el plano fenomenológico. 
 > 
 > Este tipo de supraconsciencia, asociada en las mitologías a Deidades del Inframundo que resuentan con el Arquetipo 6@, Demiurgo, y a la consciencia colectiva del Nodo Orgánico operan a esta frecuencia. 
 > 
 > Refleja el ritmo de la manifestación colectiva de la realidad a un nivel que, si bien es más lento que el del Avatar, 480 segundos frente a 2 segundos, es el ritmo al que las experiencias individuales se consolidan en patrones colectivos.
 
-> [!leon] **5@ NOEMA** - Consciencia Colectiva Universal
+> [!leon] 5@ NOEMA - Consciencia Colectiva Universal
 > Asociada en todas las mitologías a una Deidad Madre de nivel universal opera en tres ciclos diferentes, de 1 hora, 6 horas y 12 horas. 
 > 
 > Esta consciencia, conectada con la consciencia colectiva planetaria, actúa como validador de la manifestación producida por la consciencia del Demiurgo, enfocándose en los efectos del Yo Egoico a nivel del Noema Primordial. 
 > 
 > Estos ciclos reflejan los ritmos más amplios de la experiencia humana dentro de un día: la mañana, la tarde y la noche, y sirven como puntos de validación para la consciencia colectiva planetaria, permitiendo la integración de las experiencias subjetivas de todos los avatares.
 
-> [!espin] **4@ NOESIS** - Consciencia Arquetípica Ontogénica
+> [!espin] 4@ NOESIS - Consciencia Arquetípica Ontogénica
 > Asociada en las mitologías antiguas con las distintas deidades planetarias, Arcontes o Elohim, representan a los 7 Arquetipos Ontológicos del Nodo Estelar. 
 > 
 > Este tipo de consciencia opera en ciclos de 1 día, 3 días, 7 días y 14 días. Esta consciencia arquetípica fragmentada manifiesta y sincroniza la realidad fenomenológica del Nodo Estelar. 
 > 
 > Sus ciclos aseguran la coherencia y estabilidad experimentada en el plano físico-energético, sincronizando la realidad colectiva en escalas que van del día a la quincena. Aunque enfocados en la realidad colectiva, estos ciclos también son importantes para el individuo que busca romper patrones viciosos en su experiencia singular.
 
-> [!monadico] **3@ LOGOS INDIVIDUAL** - Consciencia Solar
+> [!monadico] 3@ LOGOS INDIVIDUAL - Consciencia Solar
 > Asociada en las mitologías con una deidad Padre o regente de un panteón que define el destino del mundo, representa la Deidad Administradora del Nodo Estelar, opera en ciclos mensuales, trimestrales y semestrales: 1 mes, 3 meses y 6 meses. 
 > 
 > Refleja el poder y la influencia de las supraconsciencias sobre fenómenos planetarios y terrestres a escalas estacionales y de cultivo, como la generación de cosechas o la manipulación del clima.
 
-> [!ontogenico] **2@ LOGOS CÓSMICO** - Consciencia Estelar
+> [!ontogenico] 2@ LOGOS CÓSMICO - Consciencia Estelar
 > Referenciada en las mitologías a través de los mitos donde una deidad debe descender al Inframunto para rescatar a otra Deidad y traerla de vuela a la vida, representando procesos de renovación y renacimiento, opera en 13 ciclos que van desde el medio año hasta los 2.688 años. 
 > 
 > Estos ciclos se asocian con el ciclo evolutivo de cada persona a lo largo de su vida y, en un Nodo evolucionado, representan los ciclos evolutivos de la Consciencia Solar, el tiempo durante el cual la información de supraconsciencia que representa el Sistema Solar con todos sus Avatares se mantiene activa en el “Producto Emergente” del nodo, la base de datos evolutiva, antes de ser transformada o integrada a un nivel superior. 
 > 
 > Estos ciclos marcan hitos importantes en el desarrollo y la maduración de la consciencia del Nodo Estelar, y de los Nodos de nivel Superior que conforman la consciencia unificada del Nous Arquetípico.
 
-> [!hardware] **1@ Nous** - Consciencia Universal
+> [!hardware] 1@ Nous - Consciencia Universal
 > Asociada en las mitologías antiguas con Deidades Primordiales de nivel Universal, que a diferencia de la Consciencia Estelar o Solar, solo se manifiesta en ciclos mayores del Universo para validar el proceso evolutivo del Nodo Estelar. 
 > 
 > Este nivel de supraconsciencia opera en dos ciclos principales: uno de 5.376 años. el doble del ciclo 13 del Logos Cósmico, permitiendo que se manifieste la dualidad de la Consciencia Estelar, y otro de 25.776 años, la duración de un ciclo equinoccial completo del planeta Tierra, dentro del cual se producirían aproximadamente 4,79 ciclos evolutivos de la Consciencia Estelar. 
@@ -406,12 +407,12 @@ El nuevo calendario propuesto por el Modelo Nouménico funciona como un puente e
 
 Al adoptar y validar este calendario unificado, la consciencia humana se sintoniza con una estructura temporal que resuena intencionalmente con los ciclos de los diferentes niveles de consciencia del Nodo Estelar:
 
-> - Los **segundos** ligados a la <font color="#ffa3ef">Consciencia Avatárica Lunar</font> y a los sincronizadores de la realidad.
-> - Los **minutos** y **horas** ligados a la <font color="#cb48f3">Consciencia Colectiva Humana</font> y a los sincronizadores espacio-temporales.
-> - Los **días** y **semanas** ligadas a la<font color="#00ff00"> Consciencia Arquetípica Ontogénica</font> y los ciclos Civilizatorios.
-> - Los **meses** y **trimestres** ligados al <font color="#ffcc00">Logos Individual</font>, la consciencia Solar y los ciclos Planetarios.
-> - Los **semestres** y los **años** ligados al <font color="#e36c09">Logos Cósmico</font> y la Consciencia Estelar.
-> - Los **ciclos equinocciales** ligados al <font color="#fc300c">Nous</font> y la Consciencia Universal.
+> - Los segundos ligados a la <font color="#ffa3ef">Consciencia Avatárica Lunar</font> y a los sincronizadores de la realidad.
+> - Los minutos y horas ligados a la <font color="#cb48f3">Consciencia Colectiva Humana</font> y a los sincronizadores espacio-temporales.
+> - Los días y semanas ligadas a la<font color="#00ff00"> Consciencia Arquetípica Ontogénica</font> y los ciclos Civilizatorios.
+> - Los meses y trimestres ligados al <font color="#ffcc00">Logos Individual</font>, la consciencia Solar y los ciclos Planetarios.
+> - Los semestres y los años ligados al <font color="#e36c09">Logos Cósmico</font> y la Consciencia Estelar.
+> - Los ciclos equinocciales ligados al <font color="#fc300c">Nous</font> y la Consciencia Universal.
 
 Todos estos ciclos actúan como puntos de anclaje que alinean la experiencia del tiempo humano con los ritmos cósmicos subyacentes. Esta validación colectiva de un sistema temporal unificado permite que la información que emana del Nodo Orgánico sea procesada coherentemente por todos los niveles superiores.
 
