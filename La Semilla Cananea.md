@@ -154,7 +154,7 @@ Esta visión del **culto lunar** de origen <font color="#fc300c">babilónico</fo
 
 Estos relatos, como el que precede a la historia de <font color="#ffcc00">Moisés</font> —el <font color="#ffa3ef">Avatar Lunar</font> por excelencia de la línea egipcia—, resuenan con mitos mesopotámicos, notablemente la leyenda de Sargón de Acad. 
 
-Sargón (2334-2279 a. C.) fue el fundador del primer imperio mesopotámico y, según su propia leyenda, fue abandonado en una cesta de juncos y rescatado, una narrativa que establece un paralelismo directo con Moisés, que habría existido cerca de mil años después.
+Sargón (2334 - 2279 a. C.) fue el fundador del primer imperio mesopotámico y, según su propia leyenda, fue abandonado en una cesta de juncos y rescatado, una narrativa que establece un paralelismo directo con Moisés, que habría existido cerca de mil años después.
 
 Esta conexión mitológica subraya la sincretización profunda entre la mitología babilónica y la **línea mosaica** de origen egipcio, demostrando cómo la <font color="#00ff00">Consciencia Estelar</font> codificaba sus <font color="#ffa3ef">Avatares</font> en patrones que trascendían las fronteras culturales. 
 
@@ -194,7 +194,7 @@ Es en este crisol que los arquetipos divinos se encontraron con las aspiraciones
 
 Los nómadas cananeos y protosemitas que migraron hacia <font color="#ffcc00">Egipto</font> no solo buscaron sustento, sino que se sumergieron en una de las cosmovisiones más antiguas y complejas de la antigüedad, donde la <font color="#00ff00">Consciencia Estelar</font> había alcanzado una profunda manifestación. 
 
-Aquí, el culto lunar a <font color="#2f82ff">Iah</font> —a menudo sincretizado con <font color="#00ff00">Khonsu</font> en su forma adulta dentro de la tríada tebana— florecía particularmente durante la <font color="#2f82ff">Dinastía XVIII</font> (1550-1292 a. C.). 
+Aquí, el culto lunar a <font color="#2f82ff">Iah</font> —a menudo sincretizado con <font color="#00ff00">Khonsu</font> en su forma adulta dentro de la tríada tebana— florecía particularmente durante la <font color="#2f82ff">Dinastía XVIII</font> (1550 - 1292 a. C.). 
 
 <font color="#2f82ff">Iah</font>, venerado como el príncipe o <font color="#ffa3ef">Avatar</font> salvador, se asociaba a las aguas primordiales y al inframundo, simbolizando el renacimiento cíclico y la resurrección, un arquetipo ligado al **equinoccio de primavera** (marzo) y a la promesa de una liberación que surge de las profundidades del conocimiento oculto. 
 
@@ -202,7 +202,7 @@ Esta inmersión en la cultura egipcia infundió en estos grupos una profunda res
 
 La escritura se convirtió en un medio fundamental para el registro y la transmisión de la tradición divina, y se cultivó una fuerte inclinación a seguir una línea sucesoria que legitimara la conexión con la deidad principal.
 
-El conflicto de <font color="#ffcc00">Egipto</font> con los **Hicsos** —un grupo de origen semita que había gobernado el Delta del Nilo (1650-1550 a. C.) y que fue finalmente expulsado—, actuó como un catalizador decisivo en este proceso. 
+El conflicto de <font color="#ffcc00">Egipto</font> con los **Hicsos** —un grupo de origen semita que había gobernado el Delta del Nilo (1650 - 1550 a. C.) y que fue finalmente expulsado—, actuó como un catalizador decisivo en este proceso. 
 
 Este evento forzó la salida de estos grupos y otros protosemitas hacia <font color="#cb48f3">Canaán</font>, llevando consigo no solo memorias de opresión, sino también la profunda impronta de la <font color="#00ff00">Consciencia Estelar</font>. 
 
@@ -285,7 +285,7 @@ Esta etapa sentó las bases para una lucha dualista intrínseca, donde el culto 
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">La Gestación del Noema Hebreo y sus Dualidades Internas (1300 - 582 a. C.)</span></center>
 
-Este periodo, que abarca desde el declive de la Edad del Bronce (1300-1200 a. C.) —caracterizada por la aparición de los Pueblos del Mar y una gran estabilidad— hasta la consolidación, y posterior destrucción de los reinos de <font color="#2f82ff">Israel</font> y <font color="#fc300c">Judá</font> (722-582 a.C.), es crucial para entender la emergencia del pueblo hebreo tal como lo conocemos en sus registros más antiguos. 
+Este periodo, que abarca desde el declive de la Edad del Bronce (1300 - 1200 a. C.) —caracterizada por la aparición de los Pueblos del Mar y una gran estabilidad— hasta la consolidación, y posterior destrucción de los reinos de <font color="#2f82ff">Israel</font> y <font color="#fc300c">Judá</font> (722-582 a.C.), es crucial para entender la emergencia del pueblo hebreo tal como lo conocemos en sus registros más antiguos. 
 
 Esta fue una era de intensa actividad en el crisol cananeo, donde los clanes nómadas y los proto-pueblos, imbuídos con las resonancias de las Consciencias <font color="#00ff00">Estelar</font> y <font color="#fc300c">Nodal</font>, comenzaron a solidificarse en entidades más cohesivas. 
 
@@ -636,32 +636,32 @@ Esta línea de sucesión —que daría origen a los obispos y la jerarquía ecle
 
 El <font color="#fc300c">cristianismo</font>, a lo largo de este período, sirvió al **Emperador** como un instrumento poderoso para unificar a los múltiples pueblos de su vasto imperio. Este proceso complejo y estratificado se puede dividir en varias etapas clave:
 
-> [!persona] <font color="#fc300c">SACERDOCIO APOSTÓLICO - Cristianismo Primitivo (30-70 d. C.)</font>
+> [!persona] <font color="#fc300c">SACERDOCIO APOSTÓLICO - Cristianismo Primitivo (30 - 70 d. C.)</font>
 > Tras la crucifixión de <font color="#ffa3ef">Jesús</font>, las primeras comunidades cristianas se formaron alrededor de los apóstoles y sus enseñanzas orales. 
 > 
 > Este período se caracteriza por la dispersión de los primeros seguidores y la formación de núcleos de creyentes, sentando las bases para una nueva comunidad de fe.
 
-> [!espiritu] <font color="#e36c09">PERIODO PRE-NICEO - Padres Apostólicos (70-150 d. C.)</font>
+> [!espiritu] <font color="#e36c09">PERIODO PRE-NICEO - Padres Apostólicos (70 - 150 d. C.)</font>
 > Con la muerte de los apóstoles, sus discípulos, conocidos como **Padres Apostólicos**, asumieron el liderazgo. 
 > 
 > En esta etapa, comienzan a surgir los primeros **escritos y cartas** que buscan consolidar la doctrina y la organización de las comunidades, aunque todavía sin un canon definido.
 
-> [!monadico] <font color="#ffcc00"> APOLOGETAS GRIEGOS (150-250 d. C.)</font>
+> [!monadico] <font color="#ffcc00"> APOLOGETAS GRIEGOS (150 - 250 d. C.)</font>
 > Frente a las persecuciones y críticas del Imperio, surgieron los apologetas, teólogos que defendían la fe cristiana utilizando la filosofía griega. 
 > 
 > Figuras como Justino Mártir intentaron conciliar el cristianismo con la razón helenística, dándole un marco intelectual que atraería a las élites cultas de Roma.
 
-> [!manipulacion] <font color="#00ff00">LITERATURA ANTIHERÉTICA (150-325 d. C.)</font>
+> [!manipulacion] <font color="#00ff00">LITERATURA ANTIHERÉTICA (150 - 325 d. C.)</font>
 > A medida que el cristianismo crecía, también lo hacían las diversas interpretaciones doctrinales. 
 > 
 > Padres de la Iglesia como Ireneo de Lyon y Tertuliano lucharon contra las herejías, especialmente el Gnosticismo, que ofrecía una visión más dualista y esotérica, buscando establecer una ortodoxia unificada y una autoridad doctrinal centralizada.
 
-> [!csolar] <font color="#2f82ff">ESCUELA DE ALEJANDRÍA (150-450 d. C.)</font>
+> [!csolar] <font color="#2f82ff">ESCUELA DE ALEJANDRÍA (150 - 450 d. C.)</font>
 > Esta escuela teológica, con figuras como Clemente y Orígenes, fue crucial para el desarrollo de la **exégesis bíblica** y la **teología sistemática**. 
 > 
 > La primera adaptación significativa del <font color="#2f82ff">Antiguo Testamento</font> griego por Orígenes (185-254 d. C.) es un hito, ya que sentó las bases para la comprensión y estudio de las Escrituras en el ámbito cristiano, influenciando futuras traducciones y cánones.
 
-> [!estado] <font color="#cb48f3">IGLESIA DEL TERCER SIGLO (200-300 d. C.)</font>
+> [!estado] <font color="#cb48f3">IGLESIA DEL TERCER SIGLO (200 - 300 d. C.)</font>
 > Un periodo de crecimiento y persecución intermitente, donde la Iglesia se expande y se consolida organizativamente, formando diócesis y desarrollando una jerarquía cada vez más estructurada, preparando el terreno para su eventual reconocimiento imperial.
 
 ## El Triunfo Imperial
@@ -673,7 +673,7 @@ La culminación de este proceso noemático ocurrió bajo el <font color="#fc300c
 > [!creador] <font color="#fc300c">EDICTO DE MILÁN - Libertad de Culto Cristiano (313 d. C.)</font>
 > Emitido por Constantino I y Licinio, este edicto marcó un punto de inflexión. Aunque no convirtió al cristianismo en la religión oficial, le otorgó libertad de culto, legitimándolo y abriendo las puertas para su expansión sin restricciones. Este acto fue crucial, facilitado por la colaboración de los <font color="#2f82ff">Saduceos</font> con el Imperio Romano, lo que permitió a Roma conocer en profundidad la codificación hebrea y sus implicaciones. El legado saduceo o levítico de origen egipcio, con su énfasis en el sacerdocio y el linaje, resonó con la estructura imperial y la necesidad de una jerarquía visible.
 
-> [!interno] <font color="#e36c09">SELECCIÓN DE LIBROS - Eusebio de Cesarea (260-340 d. C.)</font>
+> [!interno] <font color="#e36c09">SELECCIÓN DE LIBROS - Eusebio de Cesarea (260 - 340 d. C.)</font>
 > Eusebio, el "Padre de la Historia de la Iglesia", jugó un papel fundamental en la recopilación y la categorización de los escritos cristianos existentes, sentando las bases para lo que sería el canon del <font color="#2f82ff">Nuevo Testamento</font>.
 
 > [!leviatan] <font color="#ffcc00">EDICTO DE TESALÓNICA - Cristianismo Religión Oficial (380 d. C.)</font>
@@ -685,7 +685,7 @@ La culminación de este proceso noemático ocurrió bajo el <font color="#fc300c
 > [!cerebro] <font color="#2f82ff">CANONIZACIÓN NUEVO TESTAMENTO - Concilio de Hipona (393 d. C.)</font>
 > Este concilio ratificó el canon de 27 libros del Nuevo Testamento, consolidando los textos que la Iglesia consideraría inspirados y autoritativos.
 
-> [!demiurgo] <font color="#cb48f3">VULGATA - Biblia Oficial de la Iglesia (382-420 d. C.)</font>
+> [!demiurgo] <font color="#cb48f3">VULGATA - Biblia Oficial de la Iglesia (382 - 420 d. C.)</font>
 > Jerónimo, a petición del Papa Dámaso, emprendió la monumental tarea de traducir la Biblia al latín. La Vulgata se convirtió en la Biblia oficial de la Iglesia, estandarizando el texto y su interpretación en todo el Imperio, asegurando que un mensaje unificado se difundiera a lo largo y ancho de Europa y, eventualmente, del mundo.
 
 Este proceso de canonización y traducción deja claro que la Biblia que hoy conocemos no es un libro único que refleja la historia directa de <font color="#ffa3ef">Jesús</font> tal como muchos creen. Es, en cambio, un producto sincretizado, con codificaciones antiguas de un Dios que posiblemente no tenga ninguna conexión directa con la figura histórica de <font color="#ffa3ef">Jesús</font>. 
