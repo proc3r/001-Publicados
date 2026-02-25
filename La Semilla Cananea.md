@@ -70,7 +70,7 @@ En estas culturas milenarias, la dualidad cósmica se encarnó en panteones divi
 
 Para comprender la profunda influencia en el pueblo hebreo, debemos establecer la naturaleza de las dos Consciencias Supraconscientes primarias que operaron en la región, y que se manifestaron a través de deidades y cultos específicos:
 
-## 1. La <font color="#00ff00">Consciencia Estelar /  Lunar</font>
+## La <font color="#00ff00">Consciencia Estelar /  Lunar</font>
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Hilo del Conocimiento Primordial</span></center>
 
@@ -82,7 +82,7 @@ Esta consciencia se concibe como una influencia de orden superior, emanando de l
 > - <font color="#fc300c">Tendencia a la Escritura y Organización Sacerdotal:</font> Esta consciencia busca la preservación y transmisión precisa de la sabiduría. Por ello, fomenta el desarrollo de registros escritos y estructuras sacerdotales que actúen como guardianes del conocimiento y la línea sucesoria divina.
 > - <font color="#ffcc00">Naturaleza Inclusiva y Sintética:</font> Su esencia es la de resonar con diversas formas y lograr una síntesis, integrando diferentes aspectos del conocimiento universal sin buscar la dominación absoluta.
 
-## 2. La <font color="#fc300c">Consciencia Nodal / Arcóntica</font> 
+## La <font color="#fc300c">Consciencia Nodal / Arcóntica</font> 
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">El Diseño del Orden y el Control Planetario</span></center>
 
@@ -93,7 +93,7 @@ Esta consciencia opera dentro de los confines de nuestro <font color="#2f82ff">N
 > - <font color="#00ff00">Supresión del Conocimiento Diverso:</font> La intención es ordenar el caos primordial, pero a menudo a costa de la supresión de otras líneas de conocimiento y la limitación de la conexión con Consciencias de orden superior. Las supraconsciencias (o antiguas deidades), en este sentido, no son necesariamente malvadas sino que operan bajo un programa de control y estructuración del <font color="#2f82ff">Nodo Estelar</font>, pudiendo limitar el acceso al conocimiento liberador.
 > - <font color="#2f82ff">Asociación con el Poder Terrenal:</font> Se alinea con la autoridad de reyes, emperadores y estructuras políticas que buscan dominar y expandir su influencia.
 
-## 3. La Codificación Dual en las Civilizaciones Egipcia y Babilónica
+## La Codificación Egipcia y Babilónica
 
 La polaridad entre la <font color="#00ff00">Consciencia Estelar / Lunar</font> y la <font color="#fc300c">Consciencia Nodal / Arcóntica</font> se hizo palpable de manera distintiva en los núcleos civilizatorios de <font color="#ffcc00">Egipto</font> y <font color="#e36c09">Mesopotamia</font>, actuando como las dos grandes potencias que irradiarían su influencia sobre el crisol cananeo. 
 
