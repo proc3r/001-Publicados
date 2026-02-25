@@ -367,7 +367,11 @@ Para ajustarse al ciclo solar con mayor precisión, el calendario incluye años 
 
 Una característica distintiva de este calendario es el concepto del <font color="#ffa3ef">Día Avatárico</font>. Este día especial corresponde al día 15 de cada uno de los **dos meses cortos**. Por lo tanto, hay un <font color="#ffa3ef">Día Avatárico</font> en el <font color="#e36c09">primer mes corto</font> cada año, y un <font color="#ffa3ef">Día Avatárico</font> adicional en los **años bisiestos**, ya que el <font color="#cb48f3">segundo mes corto</font> solo suele tener solo 14 días.
 
+Dentro de la lógica profunda del sistema, este día es conocido también como el **"Día Cero"**, una denominación que subraya su función de reinicio y neutralidad.
+
 La idea detrás del <font color="#ffa3ef">Día Avatárico</font> es que sea un período de **pausa y enfoque**, un día especial similar a un feriado, dedicado a la reflexión y a la promoción activa del **proceso evolutivo individual** hacia el <font color="#ffa3ef">Avatar</font>. Se busca que sea un momento propicio para la introspección, el estudio y la conexión con los principios del Modelo Nouménico.
+
+Al ser un espacio de tiempo libre de las cargas habituales, el <font color="#ffa3ef">Día Avatárico</font> otorga al ser el poder de **elegir su destino** o comenzar formalmente su proceso de transmutación. Es el punto de partida clave para cualquier individuo que decida iniciar su misión de purificación; representando una oportunidad vital para sintonizarse con la nueva era.
 
 Crucialmente, estos <font color="#ffa3ef">Días Avatáricos</font> —el día 15 del <font color="#e36c09">primer mes corto</font>, y el día 15 del <font color="#cb48f3">segundo mes corto</font> en años bisiestos—, existen fuera de la estructura regular de la semana de 7 días. 
 
@@ -383,11 +387,22 @@ Este día, libre de las resonancias de los 7 Arquetipos Ontogénicos, está dedi
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Inicio del ciclo Evolutivo Avatárico</span></center>
 
-En los años bisiestos, el <font color="#cb48f3">segundo mes corto</font> tiene 15 días. Este día adicional —el último día del año bisiesto que se posiciona justo después del día 14 del <font color="#cb48f3">segundo mes corto</font> y antes del primer día del año siguiente, recibe el nombre especial de <font color="#ffa3ef">Día Avatárico</font> <font color="#ffcc00">triple cero</font>.
+En los años bisiestos, el <font color="#cb48f3">segundo mes corto</font> tiene 15 días. Este día adicional —el último día del año bisiesto que se posiciona justo después del día 14 del <font color="#cb48f3">segundo mes corto</font> y antes del primer día del año siguiente, recibe el nombre especial de <font color="#ffa3ef">Día Avatárico</font> <font color="#ffcc00">(triple cero)</font>.
 
-Este día —que ocurre solo cada 4 años— posee un mayor valor arquetípico debido a su rareza y a su posición única: se encuentra por fuera de la cuenta anual, justo antes del inicio de un nuevo año completo, unificando simultáneamente el cierre anual y el **cierre de un ciclo mayor de 4 años**.
+Este día —que ocurre solo cada 4 años— posee un mayor valor arquetípico debido a su rareza y a su posición única, ya que se encuentra por fuera de la cuenta anual, justo antes del inicio de un nuevo año completo, unificando simultáneamente el cierre anual y el **cierre de un ciclo mayor de 4 años**.
 
-Es un momento de profunda significación para la evaluación y la siembra de intenciones a largo plazo, un punto de conexión con las energías arquetípicas en un nivel intensificado, dedicado a la <font color="#ffa3ef">Consciencia avatárica</font> en su potencial más elevado.
+La razón de que sea denominado <font color="#ffcc00">Triple Cero</font> reside en que este día funciona como una recopilación y validación de los tres años anteriores del ciclo. 
+
+En la estructura del calendario, mientras que los primeros tres años solo cuentan con un <font color="#ffa3ef">"Día Cero"</font> (al finalizar el mes de <font color="#e36c09">Orión)</font>, el cuarto año culmina con este **segundo día adicional** que actúa como una limpieza arquetípica total. Es un momento que hace espacio para los próximos tres años, capturando el esfuerzo de los <font color="#ffa3ef">días cero</font> previos y consolidando la información evolutiva del periodo.
+
+Dentro del proceso de **transmisión evolutiva**, el <font color="#ffa3ef">Día Avatárico</font> <font color="#ffcc00">(triple cero)</font> es un momento de profunda significación para la evaluación y la siembra de intenciones a largo plazo, un punto de conexión con las energías arquetípicas en un nivel intensificado, dedicado a la <font color="#ffa3ef">Consciencia Avatárica</font> en su potencial más elevado.
+
+Al estar libre de la influencia de los arquetipos supraconscientes, otorga al ser el poder absoluto de elegir su destino. Por ello, representa la oportunidad máxima para el proceso de purificación:
+
+> - Aquel individuo que decide iniciar su misión de purificación en un día <font color="#ffcc00">Triple Cero</font> y mantiene su actitud avatárica con disciplina hasta el siguiente (cuatro años después), logrará alcanzar el **más alto nivel avatárico** y de pureza sistémica.
+> - Si bien cada <font color="#ffa3ef">Día Avatárico</font> anual (del primer, segundo o tercer año) es una puerta clave y válida para comenzar el proceso, el <font color="#ffcc00">Triple Cero</font> es el punto donde se valida y captura todo el esfuerzo realizado en los años anteriores.
+
+En este sentido, el <font color="#ffcc00">Triple Cero</font> permite al ser empezar desde un estado de consciencia purificado, habiendo recolectado los frutos de su trabajo interior. Es el día donde se define quiénes han logrado una mayor pureza en su proceso, permitiendo que el esfuerzo acumulado se convierta en la base del siguiente ciclo evolutivo.
 
 # 6. Los Días de la Semana
 
@@ -427,36 +442,35 @@ Se propone que cada día de la semana resuena de manera más fuerte con el arque
 > 
 > Este día podría ser ideal para actividades más pacíficas, como la contemplación, el arte o la apreciación de la belleza y el amor.
 > 
-> En el sistema antiguo, el día martes estaba asociado al planeta <font color="#fc300c">Marte</font> —asociado a la guerra y el conflicto—, inyectando tensión innecesaria tras el inicio semanal y generando disonancias arquetipicas por ser un arquetipo de violencia y disrupcion. 
+> En el sistema antiguo, el día martes se correspondía con el planeta <font color="#fc300c">Marte</font> —asociado a la guerra y el conflicto—, inyectando tensión innecesaria tras el inicio semanal y generando disonancias arquetipicas por ser un arquetipo de violencia y disrupcion. 
 > 
-> Con el nuevo sistema, <font color="#e36c09">Asthaphaios</font> —resonando con  el arquetípo de <font color="#e36c09">Venus</font>— codifica al segundo día de la semana con el equilibrio y la perfección del <font color="#e36c09">Logos Cósmico</font>, que busca el sincronización y la rectitud en el trato humano y cósmico.
+> Con el nuevo sistema, <font color="#e36c09">Asthaphaios</font> —resonando con  el arquetípo de <font color="#e36c09">Venus</font>— codifica al segundo día de la semana con el equilibrio y la perfección del <font color="#e36c09">Logos Cósmico</font>, que busca la sincronización y la rectitud en el trato humano y cósmico.
 
-> [!monadico] <font color="#ffcc00">MIERCOLES / ELOAIOS (Arquetipo 3@ / Logos Individual)</font>
+> [!monadico] <font color="#ffcc00">MIÉRCOLES / ELOAIOS (Arquetipo 3@ / Logos Individual)</font>
 > El día <font color="#ffcc00">Eloaios</font>, cuyo arquetipo está asociado al intelecto y la diferenciación, es el punto donde la consciencia reconoce su propia individualidad y capacidad de análisis. 
 > 
 > Este día podría ser óptimo para actividades lógicas, la gestión de datos intelectuales, el estudio o la comunicación.
 > 
-> En el sistema nuevo, la conexión entre el día miercoles y la codificación arquetípica con el planeta <font color="#ffcc00">Mercurio</font> se mantiene, preservando las resonancias arquetípicas entre la agilidad mental de <font color="#ffcc00">Eloaios</font> y su conexión con la <font color="#ffcc00">Matriz Monádica</font> y el numero 3 que se tenían en el sistema anterior, pero elevándolas hacia la comprensión del <font color="#ffcc00">Logos Individual</font> como procesador de la realidad.
+> En el sistema nuevo, la conexión entre el día miércoles y la codificación arquetípica con el planeta <font color="#ffcc00">Mercurio</font> se mantiene, preservando las resonancias arquetípicas entre la agilidad mental de <font color="#ffcc00">Eloaios</font> y su conexión con la <font color="#ffcc00">Matriz Monádica</font> y el número 3, pero elevándolas hacia la comprensión del <font color="#ffcc00">Logos Individual</font> como procesador de la realidad.
 
 > [!espin] <font color="#00ff00">JUEVES / IAO (Arquetipo 4@ / Noesis)</font>
-> 
 > El día <font color="#00ff00">IAO</font> resuena con la sabiduría, la comprensión y el liderazgo consciente, siendo el día de la visión panorámica, vinculado a la sincronización entre la <font color="#00ff00">Consciencia Arquetípica Ontogénica</font> y la <font color="#fc300c">Consciencia Nodal / Arcóntica</font>. 
 > 
 > Este día podría resonar con actividades que impliquen sabiduría y liderazgo consciente, siendo un día propicio para la toma de decisiones importantes, la enseñanza, actos de humildad y el ejercicio de una autoridad basada en la sabiduría y no en el ego.
 > 
-> Mientras que el día jueves anterior estaba ligado al arquetipo de <font color="#2f82ff">Júpiter</font> (expansión externa y poder), el día <font color="#00ff00">IAO</font> redirige esa energía hacia la <font color="#00ff00">Noesis</font> (la comprensión directa), transformando la autoridad jerárquica en una guía consciente y nodal.
+> Mientras que el día jueves anterior estaba ligado al arquetipo del planeta <font color="#2f82ff">Júpiter</font> (expansión externa y poder), el día <font color="#00ff00">IAO</font> redirige esa energía hacia el Sol y la <font color="#00ff00">Noesis</font> (la comprensión directa), transformando la autoridad jerárquica en una guía consciente y nodal.
 
 > [!onemuon] <font color="#2f82ff">VIERNES / SABAOTH (Arquetipo 5@ / Noema)</font>
 > El día <font color="#2f82ff">Sabaoth</font> se asocia a la Validación Colectiva y al <font color="#ffa3ef">Noema Primordial</font>. Representa la expansión de la consciencia hacia el grupo y la validación de la realidad compartida.
 > 
 > Este día podría ser ideal para encuentros sociales, actos de bondad colectiva, trabajo comunitario y actividades que fortalezcan el tejido de la civilización.
 > 
-> El viernes tradicional, regido por <font color="#e36c09">Venus</font> (placer/belleza personal), pasa a resonar con la energía de <font color="#2f82ff">Júpiter / Noema</font>, elevando el concepto de "conexión" desde el vínculo individual hacia la expansión social y la responsabilidad colectiva.
+> El viernes tradicional, regido por <font color="#e36c09">Venus</font> (placer y belleza personal), pasa a resonar con la energía de <font color="#2f82ff">Júpiter / Noema</font>, elevando el concepto de "conexión" desde el vínculo individual hacia la expansión social y la responsabilidad colectiva.
 
 > [!demiurgo] <font color="#cb48f3">SÁBADO / SABBATAIOS (Arquetipo 6@ / Demiurgo)</font>
 > El día <font color="#cb48f3">Sabbataios</font> resuena con la **Phronesis** (entendida como “sabiduría práctica o “prudencia”), la virtud del pensamiento moral y el establecimiento de Límites. Es el día de la evaluación de la forma y la contención de las pasiones.
 > 
-> Este es el día de la semana ideal para la autoevaluación, la introspección profunda, el orden estructural, la disciplina y la reflexión sobre lo manifestado en el <font color="#00ff00">Plano Fenomenológico</font>.
+> Este es el día ideal de la semana para la autoevaluación, la introspección profunda, el orden estructural, la disciplina y la reflexión sobre lo manifestado en el <font color="#00ff00">Plano Fenomenológico</font>.
 > 
 > El nuevo sistema mantiene y refina la resonancia con <font color="#cb48f3">Saturno</font>, pero despojándola del matiz de "castigo" o "fatalidad". En el nuevo sistema, <font color="#cb48f3">Sabbataios</font> representa a la <font color="#cb48f3">Consciencia Demiúrgica</font> como el arquitecto que revisa su obra, promoviendo una austeridad consciente y necesaria para el crecimiento moral.
 
@@ -491,19 +505,19 @@ La designación de los meses en el nuevo calendario también porta una carga arq
 
 Los seis meses de 28 días de cada semestre reciben nombres de signos zodiacales:
 
-> - Primer Semestre: <font color="#fc300c">Aries</font>, <font color="#00ff00">Tauro</font>, <font color="#ffcc00">Géminis</font>, <font color="#2f82ff">Cáncer</font>, <font color="#fc300c">Leo</font>, <font color="#00ff00">Virgo</font>, cada uno de 28 días.
-> - Segundo Semestre: <font color="#ffcc00">Libra</font>, <font color="#2f82ff">Escorpio</font>, <font color="#fc300c">Sagitario</font>, <font color="#00ff00">Capricornio</font>, <font color="#ffcc00">Acuario</font>, <font color="#2f82ff">Piscis</font>, cada uno de 28 días.
+> - Primer Semestre: <font color="#fc300c">Aries</font>, <font color="#00ff00">Tauro</font>, <font color="#ffcc00">Géminis</font>, <font color="#2f82ff">Cáncer</font>, <font color="#fc300c">Leo</font> y <font color="#00ff00">Virgo</font>, cada uno de 28 días.
+> - Segundo Semestre: <font color="#ffcc00">Libra</font>, <font color="#2f82ff">Escorpio</font>, <font color="#fc300c">Sagitario</font>, <font color="#00ff00">Capricornio</font>, <font color="#ffcc00">Acuario</font> y <font color="#2f82ff">Piscis</font>, cada uno de 28 días.
 
 Los dos meses cortos reciben nombres de constelaciones clave:
 
-> - <font color="#e36c09">Primer Mes Corto</font> de 15 días: <font color="#e36c09">Orion</font>.
+> - <font color="#e36c09">Primer Mes Corto</font> de 15 días: <font color="#e36c09">Orión</font>.
 > - <font color="#cb48f3">Segundo Mes Corto</font> de 14 o 15 días: <font color="#cb48f3">Ofiuco</font>.
 
 El propósito fundamental de esta denominación de los meses es cortar con las sincronías de Noemas antiguos que ligaban rígidamente a las constelaciones con las épocas del año astronómicas, por ejemplo la era de <font color="#ffcc00">Acuario</font> como una época astrológica basada en la precesión. 
 
 En cambio, este calendario establece una conexión directa entre los nombres de los meses y la posición arquetípica de estas constelaciones y signos en el firmamento.
 
-Esto permite que la astrología sea reinterpretada desde una perspectiva más arquetípica y menos astrofísica, dotando al <font color="#ffa3ef">calendario nouménico</font> un alcance arquetipico universal, que no depende de la posición de las estrellas que observamos en el firmamento desde nuestra posición especifica dentro del cosmos.
+Esto permite que la astrología sea reinterpretada desde una perspectiva más arquetípica y menos astrofísica, dotando al <font color="#ffa3ef">calendario nouménico</font> de un alcance arquetipico universal, que no depende de la posición de las estrellas que observamos en el firmamento desde nuestra posición específica dentro del cosmos.
 
 Ya no se trata principalmente de la influencia mecánica de los cuerpos celestes basada en su posición observable en un momento dado del año, sino de la resonancia con los patrones y principios arquetípicos que representan estos signos y constelaciones. 
 
@@ -533,7 +547,7 @@ Las columnas <font color="#ffcc00">Segundos</font>, <font color="#00ff00">Minuto
 
 Esta codificación facilita la comprensión de las vastas diferencias en las escalas de tiempo. 
 
-La columna "Días Extra" en los niveles del <font color="#e36c09">Logos Cósmico</font> <font color="#00ff00">(Consciencia Estelar)</font> y <font color="#fc300c">Nous</font> <font color="#2f82ff">(Consciencia Universal)</font> muestra el número acumulado de días bisiestos dentro de esos ciclos largos, reflejando cómo las pequeñas inconsistencias se acumulan en grandes periodos, pero son gestionadas dentro de la lógica cíclica mayor.
+La columna "Días Extra" en los niveles del <font color="#e36c09">Logos Cósmico</font> <font color="#00ff00">(Consciencia Estelar)</font> y <font color="#fc300c">Nous</font> <font color="#2f82ff">(Consciencia Universal)</font>, muestra el número acumulado de días bisiestos dentro de esos ciclos largos, reflejando cómo las pequeñas inconsistencias se acumulan en grandes periodos, pero son gestionadas dentro de la lógica cíclica mayor.
 
 ## 1. Los Siete Sincronizadores
 
@@ -544,7 +558,7 @@ La tabla que hemos presentado revela la existencia de siete niveles principales 
 > [!avatar] <font color="#ffa3ef">7@ AVATAR - Consciencia Avatárica Lunar</font>
 > Opera al ciclo más rápido registrado, cada <font color="#fc300c">2 segundos</font>, vinculado al tiempo que tarda la luz en viajar de la Luna a la Tierra.
 > 
-Esta velocidad sugiere una conexión íntima entre la <font color="#ffa3ef">Consciencia Avatárica</font> y la entidad supraconscientes considerada la <font color="#2f82ff">Djinn Madre</font> o <font color="#00ff00">Consciencia Lunar</font>, a través de la cual el <font color="#ffa3ef">Avatar</font> alimenta la consciencia evolutiva. 
+> Esta velocidad sugiere una conexión íntima entre la <font color="#ffa3ef">Consciencia Avatárica</font> y la entidad supraconsciente de la <font color="#2f82ff">Djinn Madre</font> o <font color="#00ff00">Consciencia Lunar</font>, a través de la cual el <font color="#ffa3ef">Avatar</font> alimenta la consciencia evolutiva. 
 > 
 > Representa una consciencia extremadamente ágil y receptiva, capaz de procesar información y actualizarse constantemente, otorgando al <font color="#ffa3ef">Avatar</font> un alto nivel de consciencia en el plano manifestado, y una capacidad de manifestación por encima de la <font color="#e36c09">Consciencia Colectiva</font> Humana. 
 > 
@@ -553,46 +567,50 @@ Esta velocidad sugiere una conexión íntima entre la <font color="#ffa3ef">Cons
 > [!gemini] <font color="#cb48f3">6@ DEMIURGO - <font color="#e36c09">Consciencia Colectiva</font></font>
 > Opera en ciclos de <font color="#e36c09">8 minutos</font>, asociado al tiempo que tarda la luz en viajar del Sol a la Tierra. Esta es la velocidad a la que la supraconsciencia Administradora del <font color="#2f82ff">Nodo Estelar</font> —la <font color="#fc300c">Consciencia Nodal Arcóntica</font> del <font color="#ffcc00">Avatar Solar</font>— valida la realidad del <font color="#00ff00">Plano Fenomenológico</font>. 
 > 
-> Este sincronizador representa la supraconsciencia que en las mitologías antiguas era asociada con las **Deidades del Inframundo** —en el Modelo Nouménico corresponden con el <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font>—, que utiliza la validación en masa de la <font color="#e36c09">Consciencia Colectiva</font> para imponer la realidad civilizatoria. 
+> Este sincronizador representa la supraconsciencia que en las mitologías antiguas era asociada con las **Deidades del Inframundo** —en el Modelo Nouménico corresponde con el <font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font>—, que utiliza la validación en masa de la <font color="#e36c09">Consciencia Colectiva</font> para imponer la realidad civilizatoria. 
 > 
 > Dentro de la realidad manifestada por la <font color="#00ff00">Matriz Fenomenológica</font>, tanto la <font color="#fc300c">Consciencia Nodal</font> como la <font color="#e36c09">Consciencia Colectiva</font> del <font color="#e36c09">Nodo Orgánico</font> operan a esta frecuencia. 
 > 
-> Este sincronizador refleja el ritmo de la **manifestación colectiva de la realidad** a un nivel que, si bien es más lento que el del <font color="#ffa3ef">Avatar</font> —<font color="#fc300c">480 segundos </font>frente a<font color="#fc300c"> 2 segundos</font>—, es el ritmo al que las experiencias individuales se consolidan en patrones colectivos.
+> Este sincronizador refleja el ritmo de la **manifestación colectiva de la realidad** a un nivel que, si bien es más lento que el del <font color="#ffa3ef">Avatar Lunar</font> —<font color="#fc300c">480 segundos </font>frente a<font color="#fc300c"> 2 segundos</font>—, es el ritmo al que las experiencias individuales se consolidan en patrones colectivos.
 
 > [!leon] <font color="#2f82ff">5@ NOEMA - Consciencia Colectiva Universal</font>
-> Asociada en todas las mitologías a una <font color="#0070c0">Deidad Madre</font> de nivel universal opera en tres ciclos diferentes, de <font color="#ffcc00">1 hora</font>, <font color="#00ff00">6 horas</font> y <font color="#2f82ff">12 horas</font>. 
+> Asociada en todas las mitologías a una <font color="#0070c0">Deidad Madre</font> de nivel universal. Opera en tres ciclos diferentes, de <font color="#ffcc00">1 hora</font>, <font color="#00ff00">6 horas</font> y <font color="#2f82ff">12 horas</font>. 
 > 
 > Esta consciencia, conectada con la <font color="#e36c09">Consciencia Colectiva</font>, actúa como validador de la manifestación producida por la <font color="#fc300c">Consciencia Nodal</font> —<font color="#cb48f3">Arquetipo 6@ (Demiurgo / Sabbataios)</font>—, enfocándose en los efectos del <font color="#ffa3ef">Yo Egoico</font> a nivel del <font color="#ffa3ef">Noema Primordial</font>. 
 > 
 > Estos ciclos reflejan los ritmos más amplios de la experiencia humana dentro de un día: la mañana, la tarde y la noche, y sirven como puntos de validación para la <font color="#e36c09">Consciencia Colectiva</font> Planetaria, permitiendo la integración de las experiencias subjetivas de todos los Avatares.
 
 > [!espin] <font color="#00ff00">4@ NOESIS - Consciencia Arquetípica Ontogénica</font>
-> Asociada en las mitologías antiguas con las distintas deidades planetarias, Arcontes o Elohim, representan a los <font color="#e36c09">7 Arquetipos Ontológicos</font> del <font color="#2f82ff">Nodo Estelar</font>. 
+> Asociada en las mitologías antiguas con las distintas deidades planetarias, Arcontes o Elohim, representan a los <font color="#e36c09">7 Arquetipos Ontogénicos</font> del <font color="#2f82ff">Nodo Estelar</font>. 
 > 
-> Este tipo de consciencia opera en ciclos de <font color="#cb48f3">1 día</font>, <font color="#ffa3ef">3 días</font>, <font color="#fc300c">7 días</font> y <font color="#e36c09">14 días</font>. Esta <font color="#00ff00">Consciencia Arquetípica Ontogénica</font>, de naturaleza fragmentada, es la que manifiesta y sincroniza la realidad fenomenológica de los Nodos <font color="#cb48f3">Planetario</font> y<font color="#2f82ff">Estelar</font>. 
+> Este tipo de consciencia opera en ciclos de <font color="#cb48f3">1 día</font>, <font color="#ffa3ef">3 días</font>, <font color="#fc300c">7 días</font> y <font color="#e36c09">14 días</font>. Esta <font color="#00ff00">Consciencia Arquetípica Ontogénica</font>, de naturaleza fragmentada, es la que manifiesta y sincroniza la realidad fenomenológica de los Nodos <font color="#cb48f3">Planetario</font> y <font color="#2f82ff">Estelar</font>. 
 > 
-> Sus ciclos aseguran la coherencia y estabilidad experimentada en el **plano físico-energético**, sincronizando la **realidad colectiva** en escalas que van del día a la quincena. Aunque enfocados en la realidad colectiva, estos ciclos también son importantes para el individuo que busca romper patrones viciosos en su experiencia singular.
+> Sus ciclos aseguran la coherencia y estabilidad experimentada en el **plano físico-energético**, sincronizando la **realidad colectiva** en escalas que van del día a la quincena. 
+> 
+> Aunque enfocados en la realidad colectiva, estos ciclos también son importantes para el individuo que busca romper patrones viciosos en su experiencia singular.
 
 > [!monadico] <font color="#ffcc00">3@ LOGOS INDIVIDUAL - <font color="#fc300c">Consciencia Dialéctica</font></font>
-> Asociada en las mitologías con una <font color="#fc300c">Deidad Padre</font> o regente de un panteón que define el destino del mundo, representa la **Deidad Administradora** del <font color="#2f82ff">Nodo Estelar</font>, opera en ciclos mensuales, trimestrales y semestrales: <font color="#ffcc00">1 mes</font>, <font color="#00ff00">3 meses</font> y <font color="#2f82ff">6 meses</font>. 
+> Asociada en las mitologías con una <font color="#fc300c">Deidad Padre</font> o regente de un panteón que define el destino del mundo, representa la **Deidad Administradora** del <font color="#2f82ff">Nodo Estelar</font>. Opera en ciclos mensuales, trimestrales y semestrales: <font color="#ffcc00">1 mes</font>, <font color="#00ff00">3 meses</font> y <font color="#2f82ff">6 meses</font>. 
 > 
 > Refleja el poder y la influencia de las supraconsciencias sobre **fenómenos planetarios y terrestres** a escalas estacionales y de cultivo, como la generación de cosechas o la manipulación del clima.
 
 > [!ontogenico] <font color="#e36c09">2@ LOGOS CÓSMICO - <font color="#00ff00">Consciencia Estelar</font></font>
-> Referenciada en múltiples mitologías a través de los mitos donde una deidad debe descender al Inframundo para rescatar a otra Deidad y traerla de vuelta a la vida —como Isis/Osiris en <font color="#ffcc00">Egipto</font>, Inanna/Dumuzi en <font color="#e36c09">Sumeria</font>, Deméter/Perséfone en <font color="#ffa3ef">Grecia</font>—, representa procesos de renovación y renacimiento que operan en 13 ciclos que van desde el <font color="#cb48f3">medio año</font> hasta los <font color="#2f82ff">2.688 años</font>. 
+> Este sincronizador es referenciado en múltiples mitos antiguos, donde una deidad debe descender al Inframundo para rescatar a otra Deidad y traerla de vuelta a la vida —como Isis/Osiris en <font color="#ffcc00">Egipto</font>, Inanna/Dumuzi en <font color="#e36c09">Sumeria</font>, Deméter/Perséfone en <font color="#ffa3ef">Grecia</font>.
 > 
-> Estos ciclos se asocian con el proceso evolutivo de cada persona a lo largo de su vida, y a nivel supraconsciente del <font color="#2f82ff">Nodo Estelar</font>, representan los ciclos evolutivos de la <font color="#fc300c">Consciencia Dialéctica</font> dentro del gran ciclo cósmico.
+> Representa procesos de renovación y renacimiento que operan en 13 ciclos que van desde el <font color="#cb48f3">medio año</font> hasta los <font color="#2f82ff">2688 años</font>. 
+> 
+> Estos ciclos se asocian con el proceso evolutivo de cada persona a lo largo de su vida, y a nivel supraconsciente del <font color="#2f82ff">Nodo Estelar</font> representan los ciclos evolutivos de la <font color="#fc300c">Consciencia Dialéctica</font> dentro del gran ciclo cósmico.
 > 
 > Representa el tiempo durante el cual la información de las supraconsciencias del <font color="#2f82ff">Nodo Estelar</font>, manifestada a través de un <font color="#2f82ff">Avatar Lunar</font>, se mantiene activa constituyendo la base de datos evolutiva, antes de ser transformada o integrada a un nivel superior. 
 > 
 > Estos ciclos marcan hitos importantes en el desarrollo y la maduración de la consciencia del <font color="#2f82ff">Nodo Estelar</font>, y de los Nodos de nivel Superior que conforman la consciencia unificada del <font color="#cb48f3">Nous Arquetípico</font>.
 
 > [!hardware] <font color="#fc300c">1@ NOUS - <font color="#2f82ff">Consciencia Universal</font></font>
-> Asociada en las mitologías antiguas con **Deidades Primordiales de nivel Universal**, que a diferencia de la Consciencias <font color="#00ff00">Estelar</font> y <font color="#fc300c">Dialéctica</font>, solo se manifiesta en ciclos mayores del Universo para validar el proceso evolutivo del <font color="#2f82ff">Nodo Estelar</font>. 
+> Asociada en las mitologías antiguas con **Deidades Primordiales de nivel Universal**, que a diferencia de las Consciencias <font color="#00ff00">Estelar</font> y <font color="#fc300c">Dialéctica</font>, solo se manifiesta en ciclos mayores del Universo para validar el proceso evolutivo del <font color="#2f82ff">Nodo Estelar</font>. 
 > 
-> Este nivel de supraconsciencia opera en dos ciclos principales: uno de <font color="#cb48f3">5.376 años</font> —el doble del ciclo 13 del <font color="#e36c09">Logos Cósmico</font>— permitiendo que se manifieste la dualidad de la <font color="#00ff00">Consciencia Estelar</font>, y otro de <font color="#ffa3ef">25.776 años</font> —la duración de un ciclo equinoccial completo del planeta Tierra—, dentro del cual se producirían aproximadamente **4,79 ciclos evolutivos** de la <font color="#00ff00">Consciencia Estelar</font>. 
+> Este nivel de supraconsciencia opera en dos ciclos principales: uno de <font color="#cb48f3">5376 años</font> —el doble del ciclo 13 del <font color="#e36c09">Logos Cósmico</font>— permitiendo que se manifieste la dualidad de la <font color="#00ff00">Consciencia Estelar</font>, y otro de <font color="#ffa3ef">25776 años</font> —la duración de un ciclo equinoccial completo del planeta Tierra—, dentro del cual se producirían aproximadamente **4,79 ciclos evolutivos** de la <font color="#00ff00">Consciencia Estelar</font>. 
 > 
-> - El primer ciclo de <font color="#cb48f3">5.376 años</font> sirve a modo de auditoría, para la revisión de la <font color="#fc300c">Deidad Administradora</font>, el desarrollo de nuevos <font color="#ffa3ef">Avatares</font> y la creación de nuevos <font color="#ffa3ef">Noemas Primordiales</font>. 
+> - El primer ciclo de <font color="#cb48f3">5376 años</font> sirve a modo de auditoría, para la revisión de la <font color="#fc300c">Deidad Administradora</font>, el desarrollo de nuevos <font color="#ffa3ef">Avatares</font> y la creación de nuevos <font color="#ffa3ef">Noemas Primordiales</font>. 
 > - El segundo ciclo se encarga del **proceso evolutivo** del <font color="#2f82ff">Nodo Estelar</font> en su conjunto, tomando en cuenta los avances logrados en los ciclos menores. Este sincronizador representa el ritmo más amplio del <font color="#2f82ff">Nodo Estelar</font> en su conexión con el <font color="#2f82ff">Plano Ontológico</font>.
 
 Estos diferentes niveles de sincronización demuestran la naturaleza compleja y multinivel del tiempo en el <font color="#2f82ff">Nodo Estelar</font>, donde múltiples ritmos coexisten y se interrelacionan.
