@@ -485,9 +485,9 @@ Estas trinidades ancestrales no eran meras invenciones, sino intentos de codific
 
 > [!hardware] <font color="#fc300c">LA TRINIDAD SUMERIA</font>
 > En la antigua Mesopotamia, los sumerios ya concebían una tríada de deidades supremas que gobernaban el cosmos: 
-> - <font color="#fc300c">Anu:</font> dios del cielo y rey de los dioses, el principio supremo y trascendente.
+> - <font color="#2f82ff">Anu:</font> dios del cielo y rey de los dioses, el principio supremo y trascendente.
 > - <font color="#00ff00">Enki:</font> dios de la sabiduría, el agua dulce, la creación y la magia, el "hacedor" que organiza el mundo.
-> - <font color="#2f82ff">Enlil:</font> dios del viento, la atmósfera y las tormentas, la fuerza que implementa las decisiones divinas y otorga poder. 
+> - <font color="#fc300c">Enlil:</font> dios del viento, la atmósfera y las tormentas, la fuerza que implementa las decisiones divinas y otorga poder. 
 > 
 > Estas figuras representan una comprensión temprana de las fuerzas cósmicas y su interacción, delineando la jerarquía y las funciones de un universo estructurado por una inteligencia subyacente.
 

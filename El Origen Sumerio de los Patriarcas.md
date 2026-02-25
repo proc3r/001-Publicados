@@ -148,7 +148,7 @@ A diferencia de la vida total, la edad de paternidad —o madurez reproductiva�
 
 En un contexto antiguo, con escasos recursos y duras condiciones ambientales, era vital elegir el momento adecuado para que un hijo naciera y prosperara.
 
-Proponemos que la edad de paternidad se medía en “ciclos estacionales". Si consideramos que un año solar tiene **4 estaciones**, y cada estación representaba **una unidad de registro** o un "ciclo estacional", entonces tendríamos que **un ciclo estacional** seria aproximadamente 3 meses de un año solar moderno. 
+Proponemos que la edad de paternidad se medía en “ciclos estacionales". Si consideramos que un año solar tiene **4 estaciones**, y cada estación representaba **una unidad de registro** o un "ciclo estacional", entonces tendríamos que **un ciclo estacional** sería aproximadamente 3 meses de un año solar moderno. 
 
 La conversión a años solares modernos para la edad de paternidad podría hacerse tomando la edad de paternidad registrada en la bíblia para cada patriarca, y dividirla por **4 ciclos estacionales** que contiene cada año solar. 
 
@@ -161,7 +161,7 @@ Aplicando esta fórmula a los patriarcas antediluvianos podríamos sacar las sig
 > - <font color="#2f82ff">Mahalaleel</font> tuvo a <font color="#cb48f3">Jared</font> a los 65 ciclos estacionales: Equivalente a 16,25 años solares modernos. También una edad coherente y temprana.
 > - <font color="#cb48f3">Jared</font> tuvo a <font color="#ffa3ef">Enoc</font> a los 162 ciclos estacionales: Resultando en 40,5 años solares modernos. Una edad coherente, un poco más avanzada.
 > - <font color="#ffa3ef">Enoc</font> tuvo a <font color="#fc300c">Matusalén</font> a los 65 ciclos estacionales: Lo que nos da 16,25 años solares modernos.
-> - <font color="#fc300c">Matusalén</font> tuvo a <font color="#e36c09">Lamec</font> a los 187 ciclos estacionales: Esto se traduce en 46,75 años solares modernos. Una edad avanzada, pero plausible.
+> - <font color="#fc300c">Matusalén</font> tuvo a <font color="#e36c09">Lamec</font> a los 187 ciclos estacionales: Esto se traduce en 46,75 años solares modernos. Una edad avanzada pero plausible.
 > - <font color="#e36c09">Lamec</font> tuvo a <font color="#ffcc00">Noé</font> a los 182 ciclos estacionales: Resultando en 45,5 años solares modernos.
 
 La coherencia biológica de estas edades de paternidad es innegable, abarcando desde la adolescencia tardía hasta la mediana edad, eliminando las inconsistencias que han perturbado a la exégesis moderna. 
