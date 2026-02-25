@@ -61,15 +61,15 @@ Pero estos no son simplemente herramientas neutrales para contar días, meses y 
 
 Un calendario es una **arquitectura simbólica compleja** que integra y refuerza:
 
-> [!onemuon] <font color="#2f82ff">ARQUETIPOS Y SIMBOLISMO</font>
+> [!onemuon] <font color="#2f82ff">ARQUETIPOS Y SIMBOLISMOS</font>
 > Los nombres de los días, meses, estaciones, y los eventos marcados —como los solsticios, equinoccios y fases lunares— a menudo resuenan con deidades, eventos míticos o principios arquetípicos que son centrales para la cosmovisión de esa cultura. 
 > 
-Dioses romanos para meses, deidades nórdicas para días en el mundo anglosajón o romanas para el mundo latino, nombres que evocan cosechas, etc, incrustan en la estructura del tiempo las resonancias de las entidades supraconscientes percibidas.
+> Dioses romanos para meses, deidades nórdicas para días en el mundo anglosajón o romanas para el mundo latino, nombres que evocan cosechas, etc, incrustan en la estructura del tiempo las resonancias de las entidades supraconscientes percibidas.
 
 > [!tiempo] <font color="#00ff00">RITMOS Y CICLOS</font>
 > Definen los ciclos de trabajo, descanso, celebración, siembra y cosecha que dan forma al ritmo de vida colectivo. 
 > 
-> Establecen los días festivos, los rituales y las ceremonias que marcan el paso del tiempo colectivo y refuerzan los valores, creencias y prioridades del <font color="#fc300c">Noema Cultural</font>: celebraciones religiosas, fiestas nacionales, conmemoraciones.
+> Establecen los días festivos, los rituales y las ceremonias que marcan el paso del tiempo colectivo y refuerzan los valores, creencias y prioridades del <font color="#fc300c">Noema Cultural</font>: conmemoraciones, celebraciones religiosas, fiestas nacionales.
 
 > [!mente] <font color="#fc300c">NARRATIVAS HISTÓRICAS Y COSMOLÓGICAS</font>
 > Un calendario a menudo tiene un punto de inicio que marca un evento fundamental para la historia o la cosmología de la cultura: el nacimiento de un profeta, una migración clave, la fundación de una nación o un evento mítico primordial. 
@@ -107,14 +107,13 @@ Aunque en el mundo globalizado actual el <font color="#ffcc00">calendario gregor
 Cada uno de estos calendarios opera con sus propias reglas, sus propios ciclos y sus propias formas de dividir el tiempo, reflejando cosmovisiones y Noemas muy distintos. Comprender brevemente la lógica básica de algunos de ellos nos revela la magnitud de la fragmentación:
 
 > [!galactico] <font color="#ffcc00">EL CALENDARIO GREGORIANO</font>
-> 
-> Implementado en octubre de 1582 por orden del papa Gregorio XIII, sustituyendo al calendario juliano —introducido por Julio César en el 46 a.C.—. Este es el calendario civil más extendido globalmente. Es de base solar y fue diseñado para seguir el ciclo de las estaciones.   
+> Implementado en octubre de 1582 por orden del papa Gregorio XIII, sustituyendo al calendario juliano introducido por Julio César en el 46 a.C.. Este es el calendario civil más extendido globalmente. Es de base solar y fue diseñado para seguir el ciclo de las estaciones.   
 > 
 > Se compone de 12 meses, pero la duración de estos meses varía irregularmente entre 28, 30 o 31 días. Aproxima la duración del año tropical, aproximadamente 365 días y 6 horas, añadiendo un día extra en febrero los años bisiestos, la mayoría de los años divisibles por 4. 
 > 
 > Su era comienza con el nacimiento de <font color="#ffa3ef">Jesús</font> —el <font color="#ffa3ef">Avatar</font> de la iglesia católica—, por lo que es un firmware que impone el Noema Imperial Romano como base nouménica. 
 > 
-> Si consideramos este calendario al momento de escribir este documento, la humanidad se encuentra en el año 2026 del Calendario Gregoriano (siglo XXI d. C.)
+> Si consideramos este calendario al momento de escribir este documento, la humanidad se encuentra en el año 2026 del <font color="#ffcc00">Calendario Gregoriano</font> (siglo XXI d. C.)
 
 > [!clunar] <font color="#00ff00">EL CALENDARIO ISLÁMICO HIJRI</font>
 > Es un calendario estrictamente lunar, compuesto por 12 meses lunares. Cada mes comienza con la observación de la luna creciente. 
@@ -150,9 +149,11 @@ Cada uno de estos calendarios opera con sus propias reglas, sus propios ciclos y
 > [!csolar] <font color="#2f82ff">EL CALENDARIO HEBREO</font>
 > El calendario hebreo es un sistema lunisolar que combina ciclos lunares para los meses (de 29-30 días) y solares para el año. Los meses comienzan con la luna nueva, pero el año se sincroniza con las estaciones, asegurando que celebraciones específicas ocurran en épocas agrícolas precisas.
 > 
-> Un año común tiene 12 meses (353-355 días), mientras que los años bisiestos (embolismales) tienen 13 meses (383-385 días) para corregir el desfase con el sol. Para mantener el año solar y ajustar el desfase estacional, cada ciclo de 19 años se añade un mes completo (Adar Alef) en los años 3, 6, 8, 11, 14, 17 y 19 de cada ciclo.
+> Un año común tiene 12 meses (353 - 355 días), mientras que los años bisiestos (embolismales) tienen 13 meses (383 - 385 días) para corregir el desfase con el sol. 
 > 
-> Tradicionalmente se cuenta desde el tiempo transcurrido desde la creación del libro del Génesis (año 1), lo que sitúa el año actual (2026-2027) en el 5786. Esta fecha fue establecida en su forma fija por Hilel II alrededor del siglo IV d.C..
+> Para mantener el año solar y ajustar el desfase estacional, cada ciclo de 19 años se añade un mes completo (Adar Alef) en los años 3, 6, 8, 11, 14, 17 y 19 de cada ciclo.
+> 
+> En este calendario se cuenta tradicionalmente desde la creación del mundo según el Génesis (año 1), lo que sitúa el año actual (2026 - 2027) en el 5786. Esta fecha fue establecida en su forma fija por Hilel II alrededor del siglo IV d.C..
 > 
 > En este calendario lunisolar —regulado por reglas matemáticas— el día no comienza a medianoche, sino al atardecer (o al salir las primeras tres estrellas). 
 > 
@@ -163,7 +164,7 @@ Cada uno de estos calendarios opera con sus propias reglas, sus propios ciclos y
 > 
 > En el mundo Maya, el tiempo no se veía como lineal, sino como ciclos repetitivos ligados a deidades, astronomía (Venus, sol, luna) y agricultura.
 > 
-> Utilizaban un sistema vigesimal (base 20) y la Cuenta Larga para registrar eventos históricos a gran escala, La sincronización del Tzolkin y el Haab funciona como ruedas engranadas, completando un ciclo completo cada 52 años (18,980 días)
+> Utilizaban un sistema vigesimal (base 20) y la Cuenta Larga para registrar eventos históricos a gran escala, La sincronización del Tzolkin y el Haab funciona como ruedas engranadas, completando un ciclo completo cada 52 años (18980 días)
 > 
 > Su "Cuenta Larga" es un sistema lineal utilizado para registrar eventos históricos a largo plazo, midiendo el tiempo desde un punto de inicio mítico (agosto de 3114 a.C.). Esta cuenta larga completó un ciclo principal de 13 Baktunes alrededor de diciembre de 2012.
 > 
@@ -339,7 +340,7 @@ La razón es la búsqueda de una simetría matemática limpia: 28 días son exac
 
 ![[Calendario NoumenicoB.jpg]]
 
-El calendario mantiene la unidad fundamental de la semana de 7 días, reconociendo su profunda significación arquetípica, sobre la cual profundizaremos más adelante. El día se mantiene como la unidad basada en la rotación del planeta y la noche como la mitad oscura de ese ciclo.
+Este <font color="#ffa3ef">calendario nouménico</font> mantiene la unidad fundamental de la semana de 7 días, reconociendo su profunda significación arquetípica, sobre la cual profundizaremos más adelante. El día se mantiene como la unidad basada en la rotación del planeta y la noche como la mitad oscura de ese ciclo.
 
 ## 1. La División del Año
 
@@ -350,7 +351,7 @@ Para acomodar la duración del año solar, aproximadamente 365 días —mantenie
 Cada semestre se compone de **seis meses completos de 28 días** cada uno. Al final de cada uno de estos bloques de seis meses, se añade **un mes más corto** y de propósito especial, asociado con el ciclo de cierre evolutivo de cada **ciclo solsticial**.
 
 > - El <font color="#e36c09">primer mes corto</font> —ubicado a mitad de año (entre el 18 de <font color="#2f82ff">junio</font> y el 1 de <font color="#cb48f3">julio)</font>—, tiene una duración de 15 días y corresponde con el **ciclo de cierre evolutivo del solsticio** de <font color="#2f82ff">invierno</font> en el <font color="#fc300c">hemisferio norte</font>, y el solsticio de <font color="#fc300c">verano</font> del <font color="#2f82ff">hemisferio sur</font>, asociado con la festividad de pascua, y el arquetipo de muerte y resurrección festejados en la antigüedad por los cultos religiosos lunares <font color="#00ff00">(Consciencia Estelar)</font>.
-> - El <font color="#cb48f3">segundo mes corto</font> —al final del año (entre el 18 y el 31 <font color="#cb48f3">diciembre)</font>—, tiene una duración de 14 días en años normales y corresponde con el **ciclo de cierre evolutivo del solsticio** de <font color="#fc300c">verano</font> en el <font color="#fc300c">hemisferio norte</font>, y el solsticio de <font color="#2f82ff">invierno</font> del <font color="#2f82ff">hemisferio sur</font>, asociado con la festividad de navidad y el arquetipo del nacimiento del <font color="#ffa3ef">Avatar</font> asociado a los cultos religiosos solares <font color="#fc300c">(Consciencia Nodal)</font>.
+> - El <font color="#cb48f3">segundo mes corto</font> —al final del año (entre el 18 y el 31 <font color="#cb48f3">diciembre)</font>—, tiene una duración de 14 días en años normales y corresponde con el **ciclo de cierre evolutivo del solsticio** de <font color="#fc300c">verano</font> en el <font color="#fc300c">hemisferio norte</font>, y el solsticio de <font color="#2f82ff">invierno</font> del <font color="#2f82ff">hemisferio sur</font>, asociado con la festividad de navidad y el arquetipo del nacimiento del <font color="#ffa3ef">Avatar</font> de los cultos religiosos solares <font color="#fc300c">(Consciencia Nodal)</font>.
 
 ## 2. El Año Completo y el Día Bisiesto
 
@@ -360,31 +361,31 @@ La suma de los días en esta estructura conforma la duración del año, que es i
 
 Para ajustarse al ciclo solar con mayor precisión, el calendario incluye años bisiestos. En un año bisiesto —que ocurre aproximadamente cada cuatro años—, el <font color="#cb48f3">segundo mes corto</font> tiene una duración de **15 días en lugar de 14**. El total de días en un año bisiesto es, por lo tanto, 366 días.
 
-## 3. El Día Avatarico
+## 3. El Día Avatárico
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Trascendencia de la Semana</span></center>
 
-Una característica distintiva de este calendario es el concepto del <font color="#ffa3ef">Día Avatárico</font>. Este día especial corresponde al día 15 de cada uno de los **dos meses cortos**. Por lo tanto, hay un <font color="#ffa3ef">Día Avatarico</font> en el <font color="#e36c09">primer mes corto</font> cada año, y un <font color="#ffa3ef">Día Avatarico</font> adicional en los **años bisiestos**, ya que el <font color="#cb48f3">segundo mes corto</font> solo suele tener solo 14 días.
+Una característica distintiva de este calendario es el concepto del <font color="#ffa3ef">Día Avatárico</font>. Este día especial corresponde al día 15 de cada uno de los **dos meses cortos**. Por lo tanto, hay un <font color="#ffa3ef">Día Avatárico</font> en el <font color="#e36c09">primer mes corto</font> cada año, y un <font color="#ffa3ef">Día Avatárico</font> adicional en los **años bisiestos**, ya que el <font color="#cb48f3">segundo mes corto</font> solo suele tener solo 14 días.
 
-La idea detrás del <font color="#ffa3ef">Día Avatarico</font> es que sea un período de **pausa y enfoque**, un día especial similar a un feriado, dedicado a la reflexión y a la promoción activa del **proceso evolutivo individual** hacia el <font color="#ffa3ef">Avatar</font>. Se busca que sea un momento propicio para la introspección, el estudio y la conexión con los principios del Modelo Nouménico.
+La idea detrás del <font color="#ffa3ef">Día Avatárico</font> es que sea un período de **pausa y enfoque**, un día especial similar a un feriado, dedicado a la reflexión y a la promoción activa del **proceso evolutivo individual** hacia el <font color="#ffa3ef">Avatar</font>. Se busca que sea un momento propicio para la introspección, el estudio y la conexión con los principios del Modelo Nouménico.
 
-Crucialmente, estos <font color="#ffa3ef">Días Avataricos</font> —el día 15 del <font color="#e36c09">primer mes corto</font>, y el día 15 del <font color="#cb48f3">segundo mes corto</font> en años bisiestos—, existen fuera de la estructura regular de la semana de 7 días. 
+Crucialmente, estos <font color="#ffa3ef">Días Avatáricos</font> —el día 15 del <font color="#e36c09">primer mes corto</font>, y el día 15 del <font color="#cb48f3">segundo mes corto</font> en años bisiestos—, existen fuera de la estructura regular de la semana de 7 días. 
 
-El año en este calendario siempre contiene exactamente 52 semanas completas, dando un total de 364 días. Los <font color="#ffa3ef">Días Avataricos</font> —1 o 2 al año según si es año normal o bisiesto—, son días adicionales que no están asignados a ningún día de la semana específico.
+El año en este calendario siempre contiene exactamente 52 semanas completas, dando un total de 364 días. Los <font color="#ffa3ef">Días Avatáricos</font> —1 o 2 al año según si es año normal o bisiesto—, son días adicionales que no están asignados a ningún día de la semana específico.
 
-La razón de esta exclusión es profundamente arquetípica y funcional. Al estar fuera de la semana, el <font color="#ffa3ef">Día Avatarico</font> evita la resonancia directa y la influencia de los arquetipos asociados a los 7 días de la semana, el grupo de 7 supraconsciencias planetarias asociadas a los dioses grecoromanos o nórdicos del <font color="#ffcc00">calendario gregoriano</font>. 
+La razón de esta exclusión es profundamente arquetípica y funcional. Al estar fuera de la semana, el <font color="#ffa3ef">Día Avatárico</font> evita la resonancia directa y la influencia de los arquetipos asociados a los 7 días de la semana, el grupo de 7 supraconsciencias planetarias asociadas a los dioses grecoromanos o nórdicos del <font color="#ffcc00">calendario gregoriano</font>. 
 
 Esto refuerza la naturaleza de la <font color="#ffcc00">Consciencia Subjetiva</font> <font color="#ffa3ef">avatárica</font> —derivada del <font color="#ffa3ef">Arquetipo 7@ (Horaios)</font>—, como un elemento que trasciende la influencia de las 7 entidades supraconscientes, y que llega a manifestarse como un **octavo elemento** que conforma una estructura evolutiva superior, un <font color="#bfbfbf">Arquetipo 8@ (Singularidad Onemuónica)</font>. 
 
 Este día, libre de las resonancias de los 7 Arquetipos Ontogénicos, está dedicado a la conexión con el arquetipo del <font color="#ffa3ef">Avatar</font> puro.
 
-## 4. El Día Avatarico Triple Cero
+## 4. El Día Avatárico Triple Cero
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Inicio del ciclo Evolutivo Avatárico</span></center>
 
-En los años bisiestos, el <font color="#cb48f3">segundo mes corto</font> tiene 15 días. Este día adicional —el último día del año bisiesto que se posiciona justo después del día 14 del <font color="#cb48f3">segundo mes corto</font> y antes del primer día del año siguiente, recibe el nombre especial de <font color="#ffa3ef">Día Avatarico</font> <font color="#ffcc00">triple cero</font>.
+En los años bisiestos, el <font color="#cb48f3">segundo mes corto</font> tiene 15 días. Este día adicional —el último día del año bisiesto que se posiciona justo después del día 14 del <font color="#cb48f3">segundo mes corto</font> y antes del primer día del año siguiente, recibe el nombre especial de <font color="#ffa3ef">Día Avatárico</font> <font color="#ffcc00">triple cero</font>.
 
-Este día posee un mayor valor arquetípico debido a su rareza —ocurre solo cada 4 años—, y a su posición única: al **cierre de un ciclo de 4 años** y al borde del inicio de un nuevo año completo. 
+Este día —que ocurre solo cada 4 años— posee un mayor valor arquetípico debido a su rareza y a su posición única: se encuentra por fuera de la cuenta anual, justo antes del inicio de un nuevo año completo, unificando simultáneamente el cierre anual y el **cierre de un ciclo mayor de 4 años**.
 
 Es un momento de profunda significación para la evaluación y la siembra de intenciones a largo plazo, un punto de conexión con las energías arquetípicas en un nivel intensificado, dedicado a la <font color="#ffa3ef">Consciencia avatárica</font> en su potencial más elevado.
 
@@ -621,7 +622,7 @@ El nuevo <font color="#ffa3ef">Calendario Nouménico</font>, con su estructura s
 
 Funciona como un mecanismo activo para armonizar el nudo en el tiempo, e inicia el 1º de enero del años 2012 del <font color="#ffcc00">Calendario Gregoriano</font>, en sincronización con el último año del <font color="#cb48f3">Calendario Maya</font>.
 
-En primer lugar, la estructura misma del <font color="#ffa3ef">Calendario Nouménico</font>, con sus meses uniformes de 28 días, su manejo coherente de los días extra —denominados <font color="#ffa3ef">Días Avataricos</font>— y el día bisiesto, resuelve las inconsistencias lógicas y matemáticas presentes en calendarios como el gregoriano. 
+En primer lugar, la estructura misma del <font color="#ffa3ef">Calendario Nouménico</font>, con sus meses uniformes de 28 días, su manejo coherente de los días extra —denominados <font color="#ffa3ef">Días Avatáricos</font>— y el día bisiesto, resuelve las inconsistencias lógicas y matemáticas presentes en calendarios como el gregoriano. 
 
 La división del año se vuelve matemáticamente limpia y predecible, facilitando cálculos y alineando la organización del tiempo humano con una base más racional y simétrica. Esta armonía lógica en el <font color="#00ff00">Plano Fenomenológico</font> básico sienta las bases para una sincronización nouménica más profunda y coherente.
 
