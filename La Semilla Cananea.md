@@ -105,9 +105,9 @@ La complejidad de su panteón y la evolución de sus cultos reflejan una lucha c
 ![[Triadas Egipcias.jpg]]
 
 > [!sun] <font color="#fc300c">CULTO SOLAR EGIPCIO (Triada de Memfis)</font>
-> En el panteón egipcio, la facción solar de Menfis —compuesta por <font color="#00ff00">Ptah</font>, <font color="#e36c09">Sekhmet</font> y <font color="#ffcc00">Nefertem</font>— ilustra esta <font color="#fc300c">Consciencia Nodal</font>. 
+> En el panteón egipcio, la facción solar de Menfis —compuesta por <font color="#00ff00">Ptah</font> , <font color="#e36c09">Sekhmet</font> y <font color="#ffcc00">Nefertem</font>— ilustra esta <font color="#fc300c">Consciencia Nodal</font>. 
 > 
-> - <font color="#00ff00">Ptah:</font> dios creador que concibe el mundo a través del pensamiento y la palabra, representa la voluntad ordenadora y estructurante. 
+> - <font color="#00ff00">Ptah :</font> dios creador que concibe el mundo a través del pensamiento y la palabra, representa la voluntad ordenadora y estructurante. 
 > - <font color="#e36c09">Sekhmet:</font> diosa con cabeza de leona, simboliza el poder destructor y protector del sol, la fuerza que impone la ley y castiga las transgresiones. Su disco solar y el uraeus —cobra real sobre su cabeza junto con el ankh, símbolo de la vida que a menudo porta—, la definían como la diosa de la guerra, la curación y la protección faraónica, representando la manifestación más feroz y directa de la <font color="#fc300c">Consciencia Nodal</font> en la tierra. 
 > - <font color="#ffcc00">Nefertem:</font> el hijo que completaba esta tríada, simbolizando la belleza y el perfeccionamiento de la creación. 
 > 
