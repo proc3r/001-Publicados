@@ -365,11 +365,13 @@ Para ajustarse al ciclo solar con mayor precisión, el calendario incluye años 
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">La Trascendencia de la Semana</span></center>
 
-Una característica distintiva de este calendario es el concepto del <font color="#ffa3ef">Día Avatárico</font>. Este día especial corresponde al día 15 de cada uno de los **dos meses cortos**. Por lo tanto, hay un <font color="#ffa3ef">Día Avatárico</font> en el <font color="#e36c09">primer mes corto</font> cada año, y un <font color="#ffa3ef">Día Avatárico</font> adicional en los **años bisiestos**, ya que el <font color="#cb48f3">segundo mes corto</font> solo suele tener solo 14 días.
+Una característica distintiva de este calendario es el concepto del <font color="#ffa3ef">Día Avatárico</font>. Este día especial corresponde al día 15 de cada uno de los **dos meses cortos**. Por lo tanto, hay un <font color="#ffa3ef">Día Avatárico</font> en el <font color="#e36c09">primer mes corto</font> cada año, y un <font color="#ffa3ef">Día Avatárico</font> adicional en los **años bisiestos**, ya que el <font color="#cb48f3">segundo mes corto</font> solo suele tener 14 días.
 
-Dentro de la lógica profunda del sistema, este día es conocido también como el **"Día Cero"**, una denominación que subraya su función de reinicio y neutralidad.
+Dentro de la lógica profunda del Modelo Nouménico, este día es conocido también como el **"Día Cero"**, una denominación que subraya su función de reinicio y neutralidad.
 
-La idea detrás del <font color="#ffa3ef">Día Avatárico</font> es que sea un período de **pausa y enfoque**, un día especial similar a un feriado, dedicado a la reflexión y a la promoción activa del **proceso evolutivo individual** hacia el <font color="#ffa3ef">Avatar</font>. Se busca que sea un momento propicio para la introspección, el estudio y la conexión con los principios del Modelo Nouménico.
+La idea detrás del <font color="#ffa3ef">Día Avatárico</font> es que sea un período de **pausa y enfoque**, un día especial similar a un feriado, dedicado a la reflexión y a la promoción activa del **proceso evolutivo individual** hacia el <font color="#ffa3ef">Avatar</font>. 
+
+Se busca que sea un momento propicio para la introspección, el estudio y la conexión con los principios del Modelo Nouménico.
 
 Al ser un espacio de tiempo libre de las cargas habituales, el <font color="#ffa3ef">Día Avatárico</font> otorga al ser el poder de **elegir su destino** o comenzar formalmente su proceso de transmutación. Es el punto de partida clave para cualquier individuo que decida iniciar su misión de purificación; representando una oportunidad vital para sintonizarse con la nueva era.
 
@@ -387,7 +389,7 @@ Este día, libre de las resonancias de los 7 Arquetipos Ontogénicos, está dedi
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">El Inicio del ciclo Evolutivo Avatárico</span></center>
 
-En los años bisiestos, el <font color="#cb48f3">segundo mes corto</font> tiene 15 días. Este día adicional —el último día del año bisiesto que se posiciona justo después del día 14 del <font color="#cb48f3">segundo mes corto</font> y antes del primer día del año siguiente, recibe el nombre especial de <font color="#ffa3ef">Día Avatárico</font> <font color="#ffcc00">(triple cero)</font>.
+En los años bisiestos, el <font color="#cb48f3">segundo mes corto</font> tiene 15 días. Este día adicional —el último día del año bisiesto que se posiciona justo después del día 14 del <font color="#cb48f3">segundo mes corto</font>, y antes del primer día del año siguiente, recibe el nombre especial de <font color="#ffa3ef">Día Avatárico</font> <font color="#ffcc00">(triple cero)</font>.
 
 Este día —que ocurre solo cada 4 años— posee un mayor valor arquetípico debido a su rareza y a su posición única, ya que se encuentra por fuera de la cuenta anual, justo antes del inicio de un nuevo año completo, unificando simultáneamente el cierre anual y el **cierre de un ciclo mayor de 4 años**.
 
