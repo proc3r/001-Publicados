@@ -1,5 +1,5 @@
 ---
- Incluido en Soplaris
+Incluido en Soplaris
 ---
 
 
