@@ -5,7 +5,7 @@ indexar: true
 titulo: Genesis Bíblico Decodificado
 ---
 
-![[Génesis Decodificado.mp3]]
+![[Genesis Decodificado.mp3]]
 ![[Genesis DecodificadoB.jpg]]
 
 # Introducción

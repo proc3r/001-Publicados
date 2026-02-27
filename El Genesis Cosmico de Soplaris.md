@@ -2,7 +2,7 @@
 soundtrack: PHkwvN9xTdc
 indexar: true
 ---
-![[El Génesis Cósmico de Soplaris.mp3]]
+![[El Genesis Cósmico de Soplaris.mp3]]
 ![[Genesis SoplarisB.jpg]]
 
 # Introducción

@@ -3,7 +3,7 @@ soundtrack: O00n5bg_eHY
 indexar: true
 titulo: La Verdadera Historia del Moisés Egipcio
 ---
-![[El Éxodo Revelado.mp3]]
+![[El Exodo Revelado.mp3]]
 ![[Moises EgipcioB.jpg]]
 
 # Introducción
