@@ -4,7 +4,7 @@ indexar: true
 titulo: El Avatar
 ---
 
-![[003 - Mas Alla de la Realidad.jpg]]
+![[Consciencia Avatarica 1.jpg]]
 
 # Introducción
 
