@@ -4,6 +4,7 @@ indexar: true
 titulo: El Origen Estelar de la Consciencia Humana
 ---
 
+![[Origen Estelar de la Consciencia Humana.mp3]]
 ![[Codificcion.jpg]]
 
 # Introducción
