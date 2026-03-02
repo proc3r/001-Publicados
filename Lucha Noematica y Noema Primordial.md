@@ -129,7 +129,7 @@ La identidad individual del <font color="#ffa3ef">Avatar</font>, su comprensión
 
 Los <font color="#fc300c">Noemas Culturales</font> no surgen de forma aleatoria. Aunque se manifiestan a través de la actividad mental humana, están influenciados por dinámicas arquetípicas universales y, crucialmente, por la interacción con entidades supraconscientes, desde los <font color="#cb48f3">Egrégores</font> —<font color="#e36c09">Consciencias Colectivas</font> generadas por los propios grupos humanos—, hasta las supraconsciencias planetarias —entidades arquetípicas que conforman la Hebdómada—. 
 
-Estos <font color="#fc300c">Noemas Culturales</font>, al estructurar la percepción y el comportamiento a gran escala, a menudo se convierten en herramientas de poder y control, dirigiendo la energía colectiva hacia fines específicos, aunque los individuos que operan con bajo la codificación de ese <font color="#2f82ff">Noema</font> no sean plenamente conscientes de esta influencia subyacente o de las agendas más amplias a las que sirven.
+Estos <font color="#fc300c">Noemas Culturales</font>, al estructurar la percepción y el comportamiento a gran escala, a menudo se convierten en herramientas de poder y control, dirigiendo la energía colectiva hacia fines específicos, aunque los individuos que operan bajo la codificación de ese <font color="#2f82ff">Noema</font> no sean plenamente conscientes de esta influencia subyacente o de las agendas más amplias a las que sirven.
 
 Este documento se adentrará en el "telar invisible" de la **Lucha Noemática Planetaria** que teje la compleja realidad del mundo actual. Exploraremos su evolución desde las estructuras religiosas milenarias hasta sus manifestaciones seculares y nacionalistas en el siglo XXI. 
 
