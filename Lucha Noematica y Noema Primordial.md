@@ -395,7 +395,7 @@ Mientras Inglaterra adaptaba a sus nobles como legisladores, Francia creaba el s
 
 ## Libertad, Igualdad, Fraternidad
 
-<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Deidades Conceptuales y Raíces Mistericas</span></center>
+<center><span style="font-size: 32px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic; font-weight: 500; line-height: 1em;">Deidades Conceptuales y Raíces Mistéricas</span></center>
 
 Los lemas de la Revolución Francesa "Libertad, Igualdad, Fraternidad" no son meras consignas políticas; son **conceptos abstractos deificados** que actúan como el nuevo firmware de las democracias modernas. 
 
@@ -429,7 +429,7 @@ Es crucial distinguir las dos grandes ramas que codificaron el mundo moderno:
 >
 > Este tipo de masonería integra a mujeres de forma activa y masiva mediante logias femeninas o mixtas desde mediados del siglo XX, lo que refuerza su conexión con el <font color="#e36c09">Arquetipo 2@</font> y <font color="#e36c09">Venus</font> <font color="#00ff00">(Consciencia Estelar)</font>
 
-Esta red de influencias mistericas fue la que fomentó los movimientos de independencia en toda América. Los "Próceres" nacionales, en su mayoría iniciados en estas logias, no buscaban simplemente la libertad del pueblo, sino la transferencia del control noemático: pasar del dominio imperial español (católico / tradicionalista) al dominio de una **élite legislativa y republicana** alineada con el nuevo orden mundial.
+Esta red de influencias mistéricas fue la que fomentó los movimientos de independencia en toda América. Los "Próceres" nacionales, en su mayoría iniciados en estas logias, no buscaban simplemente la libertad del pueblo, sino la transferencia del control noemático: pasar del dominio imperial español (católico / tradicionalista) al dominio de una **élite legislativa y republicana** alineada con el nuevo orden mundial.
 
 ### Estado como Baal Secular
 
@@ -440,7 +440,7 @@ Las democracias modernas, aunque se proclaman seculares, siguen respondiendo a u
 
 En resumen, la Revolución Francesa no eliminó lo sagrado; simplemente lo **encriptó**. El poder pasó del Altar al Capitolio, y el sacerdote fue reemplazado por el legislador iniciado. 
 
-El resultado es un sistema donde la élite sigue operando bajo principios arquetípicos y mistericos para manipular el <font color="#fc300c">Flujo Omega</font> de la sociedad, manteniendo a la población atrapada en una simulación de libertad mientras validan, con cada voto y cada juramento, la arquitectura de un sistema demiúrgico que los consume.
+El resultado es un sistema donde la élite sigue operando bajo principios arquetípicos y mistéricos para manipular el <font color="#fc300c">Flujo Omega</font> de la sociedad, manteniendo a la población atrapada en una simulación de libertad mientras validan, con cada voto y cada juramento, la arquitectura de un sistema demiúrgico que los consume.
 
 # 4. La Trasferencia del Poder
 
@@ -598,7 +598,7 @@ Estas ideologías ofrecen una explicación totalizante de la realidad <font colo
 
 Todas estas <font color="#00ff00">Ideologías</font> tienen sus propios "textos sagrados", obras fundacionales de sus pensadores, sus "profetas", líderes ideológicos carismáticos, y demandan una adherencia a sus principios que, para muchos seguidores, se asemeja a la devoción <font color="#e36c09">religiosa</font>. 
 
-Toda compiten ferozmente por la mente y el corazón de la población, ofreciendo un sentido de propósito y una causa por la cual luchar, reemplazando la salvación <font color="#e36c09">religiosa</font> por la utopía <font color="#ffcc00">social</font> o el progreso material.
+Todas compiten ferozmente por la mente y el corazón de la población, ofreciendo un sentido de propósito y una causa por la cual luchar, reemplazando la salvación <font color="#e36c09">religiosa</font> por la utopía <font color="#ffcc00">social</font> o el progreso material.
 
 # 6. El Choque de Egregóres Dominantes
 

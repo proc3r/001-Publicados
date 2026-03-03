@@ -390,7 +390,7 @@ Además, la <font color="#ffcc00">Heimarmene</font> se manifiesta en las estruct
 
 Representan aspectos directos de la <font color="#ffcc00">Heimarmene</font> en su totalidad codificante. Esta lógica tripartita se conecta directamente con el **Modelo Óctuple** —3 <font color="#cb48f3">quarks</font> por partícula <font color="#ffa3ef">hadrónica</font> y 8 tipos de partículas fundamentales—.
 
-Pero también esta relacionada con otros modelos de física cuántica donde la probabilidad de la <font color="#00ff00">función de onda</font> del <font color="#fc300c">electrón</font> no es aleatoria, sino que se explica dentro de otra estructura lógica subyacente. 
+Pero también está relacionada con otros modelos de física cuántica donde la probabilidad de la <font color="#00ff00">función de onda</font> del <font color="#fc300c">electrón</font> no es aleatoria, sino que se explica dentro de otra estructura lógica subyacente. 
 
 La <font color="#ffcc00">Heimarmene</font> es precisamente esa estructura lógica que cohesiona estas realidades, la ley que gobierna la probabilidad misma.
 
