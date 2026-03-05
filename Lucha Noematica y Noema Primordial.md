@@ -296,7 +296,7 @@ La élite simplemente cambió su lenguaje de validación para mantener su posici
 
 Antes del cataclismo de la Revolución Francesa, Inglaterra operó como el escenario de una transición noemática única y aislada. Para comprender este proceso, es necesario analizar el monopolio del poder en Europa continental. 
 
-Desde la coronación de **Carlomagno en el año 800 d.C.** y la consolidación del **Sacro Imperio Romano Germánico con Otón I en el 962 d.C.**, la Iglesia Católica y el Imperio funcionaron como una estructura simbiótica de validación de la realidad.
+Desde la coronación de **Carlomagno en el año 800 d.C.** y la consolidación del **Sacro Imperio Romano Germánico** con Otón I en el 962 d.C., la Iglesia Católica y el Imperio funcionaron como una estructura simbiótica de validación de la realidad.
 
 Bajo el sistema de la **Reichskirche (Iglesia Imperial)**, los emperadores germánicos intervenían directamente en la elección papal y utilizaban a los obispos como administradores imperiales. 
 
