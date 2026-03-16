@@ -1,5 +1,5 @@
 ---
-soundtrack: ZXyLyv62jJI
+soundtrack: O00n5bg_eHY
 indexar: true
 titulo: La Semilla Cananea
 ---
@@ -488,7 +488,7 @@ Esta división no fue meramente política o religiosa, fue la encarnación de la
 
 Esta tensión sería fundamental en la conformación del judaísmo y en los eventos que conducirían a la emergencia de futuras manifestaciones del noema.
 
-# 5. el Despliegue de la Síntesis Final
+# 5. El Despliegue de la Síntesis Final
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;     font-weight: 500; line-height: 1em;">Consolidación Israelita y Hegemonía Romana (300 a. C. - 200 d. C.)</span></center>
 
