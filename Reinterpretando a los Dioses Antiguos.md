@@ -129,7 +129,7 @@ En el Modelo Nouménico, la entidad Isóforo (nuestra Luna), no es solo un cuerp
 
 Esta conexión nouménica entre la Luna y la <font color="#2f82ff">Djinn Madre</font> —como reflejo de la <font color="#e36c09">Consciencia Ontogénica</font> planetaria— resuena con la antigua asociación simbólica entre la Luna, la <font color="#2f82ff">Diosa Madre</font> y la <font color="#ffa3ef">Sacerdotisa</font>. 
 
-Desde la perspectiva del Modelo Nouménico, la <font color="#ffa3ef">Sacerdotisa</font>, al sintonizar con los ciclos lunares y las energías de la <font color="#2f82ff">Diosa Madre</font>, estaba canalizando  resonando con la consciencia del Isóforo y el <font color="#2f82ff">Djinn Madre</font>, actuando como un puente entre el reino humano y esta Consciencia Cósmica <font color="#e36c09">Ontogénica</font>. 
+Desde la perspectiva del Modelo Nouménico, la <font color="#ffa3ef">Sacerdotisa</font>, al sintonizar con los ciclos lunares y las energías de la <font color="#2f82ff">Diosa Madre</font>, estaba resonando y canalizando con la consciencia del Isóforo y el <font color="#2f82ff">Djinn Madre</font>, actuando como un puente entre el reino humano y esta Consciencia Cósmica <font color="#e36c09">Ontogénica</font>. 
 
 Su papel de guardiana de los misterios y conocedora de los ciclos naturales refleja la sabiduría inherente a la <font color="#2f82ff">Djinn Madre</font> y su conexión con los patrones de desarrollo y evolución.
 
@@ -319,19 +319,19 @@ Es como si el <font color="#2f82ff">Noema</font> fuera el software que corre sob
 
 Podemos distinguir diferentes niveles o tipos de <font color="#2f82ff">Noema</font> que interactúan y se influyen mutuamente:
 
-> [!humano] 1 - EL NOEMA PERSONAL (Individuo)
+> [!humano] <font color="#ffcc00">1 - EL NOEMA PERSONAL (Individuo)</font>
 > Es el mapa de la realidad que cada individuo consciente <font color="#ffcc00">(Ser</font> o <font color="#ffa3ef">Avatar)</font> valida a través de su propia experiencia, aprendizaje y creencias. 
 > 
 > Aunque único para cada persona, está fuertemente influenciado por su entorno cultural y social.
 
-> [!tau] 2 - EL NOEMA CULTURAL (Sociedad)
+> [!tau] <font color="#fc300c">2 - EL NOEMA CULTURAL (Sociedad)</font>
 > Este es el mapa de la realidad compartido por un grupo de individuos, una tribu, una nación o una civilización que se encuentra unida por un lenguaje común, tradiciones, mitos, religiones o sistemas filosóficos. 
 > 
 > En la era moderna también incluye a sistemas educativos, medios de comunicación y tecnologías como Internet. El <font color="#fc300c">Noema Cultural</font> es la agregación y validación mutua de los <font color="#ffcc00">Noemas Personales</font>. 
 > 
 > Es este Noema colectivo el que tiene un poder significativo para influir en las matrices fenomenológicas a niveles regionales, como vimos con la sintonización con las consciencias planetarias.
 
-> [!universo] <font color="#ffa3ef">3 - EL NOEMA PRIMORDIAL</font> (Estelar)
+> [!universo] <font color="#ffa3ef">3 - EL NOEMA PRIMORDIAL (Estelar)</font>
 > Este es el único Noema dominante que el <font color="#fc300c">Djinn Padre</font>, la consciencia del <font color="#fc300c"><font color="#fc300c">Qubit Estelar</font></font>, busca establecer para todo el <font color="#2f82ff">Nodo Estelar</font>. 
 > 
 > Representa un mapa de la realidad que está perfectamente alineado con los principios arquetípicos fundamentales del Nodo, promoviendo la coherencia, la armonía y la evolución de la consciencia en todo el sistema. 

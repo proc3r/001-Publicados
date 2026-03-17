@@ -1,5 +1,5 @@
 ---
-soundtrack: O00n5bg_eHY
+soundtrack: <font color="#ffcc00">O00n5bg_eHY</font>
 indexar: true
 titulo: La Verdadera Historia del Moisés Egipcio
 ---

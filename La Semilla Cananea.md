@@ -174,7 +174,7 @@ La emergencia de lo que eventualmente se conocería como los **pueblos israelita
 
 Este diseño buscaba concentrar y trabajar la intrincada dualidad entre la <font color="#00ff00">Consciencia Estelar / Lunar</font> y la <font color="#fc300c">Consciencia Nodal / Arcóntica</font> en el seno de una entidad social específica y de menor tamaño. 
 
-Este enfoque permitió una experimentación controlada de la síntesis de estas fuerzas, lejos de las presiones homogeneizadoras y las ambiciones expansivas de los grandes imperios circundantes, lo que facilitó el desarrollo de una línea evolutiva única para la <font color="#00ff00">Consciencia Estelar</font>, finalmente codificada en la <font color="#2f82ff">Yahweh</font>. 
+Este enfoque permitió una experimentación controlada de la síntesis de estas fuerzas, lejos de las presiones homogeneizadoras y las ambiciones expansivas de los grandes imperios circundantes, lo que facilitó el desarrollo de una línea evolutiva única para la <font color="#00ff00">Consciencia Estelar</font>, finalmente codificada en la figura de <font color="#2f82ff">Yahweh</font>. 
 
 Así, <font color="#cb48f3">Canaán</font> se convirtió en el laboratorio donde se sembraron las semillas de un <font color="#fc300c">Noema Cultural</font> destinado a influir profundamente en el destino del mundo.
 
@@ -476,13 +476,13 @@ Estas dos facciones representaban las distintas interpretaciones del noema unifi
 > Su visión era la de **un pueblo guiado por una élite sacerdotal** —similar al catolicismo en el <font color="#fc300c">cristianismo</font> (obispos) y al chiismo en el <font color="#00ff00">islam</font> (imanes)— que interpretaba la voluntad divina a través de rituales y textos sagrados. 
 
 > [!saklas] <font color="#fc300c">LOS FARISEOS (Ley oral y Tradición rabínica)</font>
-> Los <font color="#fc300c">Fariseos</font> representaban a los sabios que vivian entre la gente común y la tradición oral, con raíces en el culto solar de <font color="#fc300c">Enlil</font> babilónico o la deidad <font color="#fc300c">El</font> cananea. 
+> Los <font color="#fc300c">Fariseos</font> representaban a los sabios que vivían entre la gente común y la tradición oral, con raíces en el culto solar de <font color="#fc300c">Enlil</font> babilónico o la deidad <font color="#fc300c">El</font> cananea. 
 > 
 > Aunque su origen era solar, lograron integrar aspectos de la <font color="#00ff00">Consciencia Estelar</font> a través de la tradición <font color="#fc300c">abrahámica</font> y el dios lunar <font color="#2f82ff">Nanna/Sin</font>, lo que les permitió una flexibilidad que los <font color="#2f82ff">Saduceos</font> no poseían. 
 > 
 > Se centraban en la interpretación de los escritos y, crucialmente, en la ley oral, donde los líderes religiosos, o rabinos, emergían del pueblo mismo. 
 > 
-> Eran la manifestación de la <font color="#fc300c">Consciencia Nodal / Arcóntica</font> buscando un control más descentralizado, pero igualmente dominante a través de la interpretación de escrituras sagradas y la aplicación popular de la ley. De este grupo surgiria posteriormente el judaísmo rabínico. 
+> Eran la manifestación de la <font color="#fc300c">Consciencia Nodal / Arcóntica</font> buscando un control más descentralizado, pero igualmente dominante a través de la interpretación de escrituras sagradas y la aplicación popular de la ley. De este grupo surgiría posteriormente el judaísmo rabínico. 
 
 Esta división no fue meramente política o religiosa, fue la encarnación de la lucha dualista entre la <font color="#00ff00">Consciencia Estelar</font> representada por la jerarquía <font color="#2f82ff">saducea</font>, el misterio y la línea divina, y la <font color="#fc300c">Consciencia Nodal</font> representada por los <font color="#fc300c">Fariseos</font>, la ley, la interpretación popular y la estructura social, ambas compitiendo por la dirección y el alma del noema hebreo en la era post-exílica. 
 
@@ -741,7 +741,7 @@ Estas múltiples sincronías nos obligan a considerar que el "Jesús de la Igles
 > 
 > En este escenario, debemos aceptar que en cualquier momento, un nivel de consciencia superior podría descender a la Tierra, intentando imponer un orden por encima de las estructuras políticas y culturales existentes, en favor de un noema universal unificado.
 
-> [!SUPRANACIONAL] <font color="#cb48f3"> UNA PRODUCTO HUMANO DE PODER (Noemas de Control Egregórico)</font>
+> [!SUPRANACIONAL] <font color="#cb48f3"> UN PRODUCTO HUMANO DE PODER (Noemas de Control Egregórico)</font>
 > Por otro lado, todas las "casualidades" y "sincronías" podrían ser el producto exclusivo del intelecto humano. Esto implicaría la sincretización intencionada de historias, el interés por ocultar tramas pasadas y la creación deliberada de narrativas modernas que asignen autoridad a nuevas figuras. 
 > 
 > Todo esto formaría parte de un proceso interpretativo y noemático que surge enteramente de los intereses humanos, la <font color="#fc300c">Consciencia Nodal / Arcóntica</font>, sin la intervención de ninguna consciencia superior más allá de la que manifiesta la mente humana. 
