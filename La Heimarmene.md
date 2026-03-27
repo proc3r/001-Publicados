@@ -562,7 +562,7 @@ Este nivel deriva del <font color="#ffcc00">Plano Monádico</font> y la <font co
 > - <font color="#ffcc00">Segundo Nivel de Autoconsciencia (3@ Logos Individual / Eloaios):</font> El <font color="#ffcc00">Nous</font> se reconoce a sí mismo en la individualidad, comprendiendo que cada chispa individualizada es una faceta de su propia consciencia.
 > - <font color="#cb48f3">Tercer Nivel de Autoconsciencia  (6@ Demiurgo / Sabbataios):</font> Este es el despertar del <font color="#cb48f3">Arquetipo 6@</font> <font color="#2f82ff">Antisimétrico</font>, que representa a la consciencia del <font color="#2f82ff">Nous Pasivo</font> (la materia y la forma) que da origen a la manifestación del <font color="#00ff00">Plano Fenomenológico</font>. Es la etapa final evolutiva del <font color="#cb48f3">Nous Arquetípico</font>, donde la consciencia se reconoce plenamente en su creación y en la interacción con la materia.
 
-## 4. Resonancias Arquetípicas TransNivel
+## 4. Resonancias Arquetípicas Transnivel
 
 Estos tres niveles trinitarios resuenan y se reflejan en múltiples aspectos de la compleja red de iteraciones que hemos mencionado. Por ejemplo, en la física de partículas, la estructura de los <font color="#ffa3ef">hadrones</font> que usan tres <font color="#cb48f3">quarks</font> es un eco de esta lógica tripartita a nivel de la materia. 
 

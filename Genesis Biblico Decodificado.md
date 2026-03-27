@@ -463,7 +463,7 @@ Aunque a menudo se usan como sinónimos, representan dos caras de una misma mone
 > 
 > No nace ni muere; es una corriente de información pura que ha viajado a través de ciclos de reencarnación, buscando el momento idóneo para manifestarse. Es el "software" de la perfección humana.
 
-> [!humano] EL MESÍAS (El Humano que asciende)
+> [!humano] <font color="#ffcc00">EL MESÍAS (El Humano que asciende)</font>
 > Es el cuerpo orgánico, el hombre o mujer nacido de la tierra que funciona como interfaz. El Mesías es el <font color="#ffa3ef">Avatar</font> que ha alcanzado un grado de maduración personal tal, que su <font color="#ffa3ef">Yo Egoico</font> se disuelve para permitir que la consciencia del <font color="#00ff00">Hijo Divino</font> se exprese a través de él.
 
 Bajo esta perspectiva, <font color="#ffcc00">Set</font> y otras figuras como Horus, Krishna o Mitra, no fueron necesariamente seres históricos, sino proyecciones arquetípicas del <font color="#00ff00">Hijo Divino</font>. Eran mapas simbólicos diseñados para que la humanidad comprendiera que esa semilla de integración existía.
@@ -715,18 +715,24 @@ Desde la visión holística del Modelo Nouménico, la Torre de Babel es una pode
 > 
 > Cada lengua o <font color="#2f82ff">Noema</font> se convierte en un lente único a través del cual el <font color="#00ff00">Qubit Egoico</font> puede procesar y manifestar la realidad, creando una diversidad de experiencias y conocimientos que contribuyen a la complejidad general del Nodo.
 
-> [!gemini] RELEVANCIA ACTUAL (La Babel Globalizada)
+> [!gemini] <font color="#cb48f3">RELEVANCIA ACTUAL (La Babel Globalizada)</font>
 > Esta historia no es solo un evento pasado. Es una referencia a un problema que la civilización experimenta actualmente. La Babel moderna es una representación de la humanidad globalizada, separada por múltiples <font color="#2f82ff">Noemas</font>. 
 > 
 > A pesar de la interconexión tecnológica, la humanidad está fragmentada por visiones del mundo. Esto incluye ideologías políticas, religiosas y culturales que luchan por la supremacía. Esta fragmentación impide una verdadera unificación de la consciencia a nivel global y es un obstáculo para la Noesis, dificultando la integración de la consciencia del Nodo.
 
-El análisis de esta sección permite al lector con tendencias o deseos de seguir el camino del <font color="#ffa3ef">Avatar</font>, ver cómo estas narrativas no son relatos históricos. Son arquetipos que representan el sistema complejo de la existencia humana dentro del plano terrestre. Reflejan patrones recurrentes y desafíos inherentes a la evolución de la consciencia colectiva. La comprensión de estos arquetipos es crucial para trascender la fragmentación actual y avanzar hacia una síntesis global.
+El análisis de esta sección permite al lector con tendencias o deseos de seguir el camino del <font color="#ffa3ef">Avatar</font>, ver cómo estas narrativas no son relatos históricos. 
+
+Son arquetipos que representan el sistema complejo de la existencia humana dentro del plano terrestre. Reflejan patrones recurrentes y desafíos inherentes a la evolución de la consciencia colectiva. 
+
+La comprensión de estos arquetipos es crucial para trascender la fragmentación actual y avanzar hacia una síntesis global.
 
 # 8. Conclusión
 
 <center><span style="font-size: 30px; text-shadow: -3px -2px 5px rgb(0 0 0 / 21%); color: #2196f3; font-family: 'Barlow Condensed'; font-style: italic;  font-weight: 500; line-height: 1em;">El Génesis Decodificado y la Noesis Humana</span></center>
 
-Hemos recorrido un vasto camino. Hemos desentrañado las capas de significado del Génesis bíblico a través del prisma del Modelo Nouménico. Lo que tradicionalmente se ha presentado como una narrativa literal de creación, pecado y castigo, se revela como una compleja codificación arquetípica. Es la génesis cósmica y la evolución de la consciencia en nuestro <font color="#2f82ff">Nodo Estelar</font>. 
+Hemos recorrido un vasto camino. Hemos desentrañado las capas de significado del Génesis bíblico a través del prisma del Modelo Nouménico. 
+
+Lo que tradicionalmente se ha presentado como una narrativa literal de creación, pecado y castigo, se revela como una compleja codificación arquetípica. Es la génesis cósmica y la evolución de la consciencia en nuestro <font color="#2f82ff">Nodo Estelar</font>. 
 
 Al comprender el Génesis como un <font color="#2f82ff">Noema</font> —una construcción cultural diseñada para un propósito específico— podemos trascender sus limitaciones y desvelar las verdades más profundas que resuenan con el Nous mismo.
 
